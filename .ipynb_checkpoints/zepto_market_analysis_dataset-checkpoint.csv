@@ -1,0 +1,2501 @@
+user_id,city,age_group,user_type,orders_per_month,avg_order_value_inr,delivery_time_min,campaign_exposed,discount_used,zepto_pass_member,order_category,repeat_purchase
+1,Jaipur,35-44,Returning,3,500.88,9.96,Festival Offer,1,0,Household,0
+2,Hyderabad,25-34,Returning,6,208.46,7.71,Influencer,1,1,Personal Care,0
+3,Chennai,18-24,New,7,227.83,8.26,Influencer,0,1,Household,1
+4,Jaipur,18-24,Returning,7,340.18,7.96,Meme Marketing,1,1,Snacks,1
+5,Bangalore,25-34,New,8,523.63,9.48,Referral,1,0,Private Label,0
+6,Surat,25-34,New,8,341.77,9.32,Uncle Ji,0,1,Private Label,0
+7,Chennai,18-24,New,6,415.07,8.02,Uncle Ji,0,0,Private Label,0
+8,Chennai,25-34,New,8,435.38,9.31,Referral,1,0,Household,0
+9,Jaipur,18-24,Returning,8,457.93,4.58,Meme Marketing,1,0,Snacks,0
+10,Delhi,25-34,Returning,5,607.75,10.05,Influencer,1,0,Private Label,1
+11,Bangalore,18-24,New,4,503.36,10.14,Referral,1,1,Grocery,1
+12,Jaipur,35-44,Returning,6,539.7,8.04,Uncle Ji,1,0,Personal Care,1
+13,Bangalore,25-34,Returning,7,404.78,7.74,Uncle Ji,1,1,Grocery,1
+14,Bangalore,25-34,New,4,596.82,8.71,Influencer,1,1,Grocery,0
+15,Surat,18-24,Returning,6,428.59,7.43,Influencer,0,1,Private Label,0
+16,Chennai,18-24,New,5,185.36,7.67,Zepto Pass,0,0,Grocery,1
+17,Hyderabad,25-34,Returning,7,715.01,9.26,Festival Offer,1,1,Grocery,1
+18,Surat,25-34,Returning,8,425.54,10.01,Referral,1,0,Snacks,1
+19,Surat,25-34,New,3,483.57,9.28,Influencer,0,0,Personal Care,0
+20,Bangalore,18-24,New,6,291.77,13.13,Zepto Pass,1,1,Household,1
+21,Pune,25-34,Returning,10,683.65,10.67,Meme Marketing,0,0,Private Label,1
+22,Chennai,35-44,Returning,5,324.81,9.9,Uncle Ji,0,0,Private Label,1
+23,Delhi,35-44,New,5,373.77,9.85,Referral,1,1,Grocery,1
+24,Surat,18-24,Returning,7,236.51,8.93,Festival Offer,0,0,Household,1
+25,Hyderabad,25-34,Returning,6,463.75,9.56,Meme Marketing,1,0,Household,1
+26,Pune,18-24,Returning,8,386.22,9.1,Referral,1,0,Household,1
+27,Pune,18-24,Returning,3,234.77,10.38,Referral,1,0,Private Label,1
+28,Delhi,45+,Returning,5,411.89,8.38,Influencer,0,1,Private Label,1
+29,Surat,18-24,Returning,9,431.38,8.3,Zepto Pass,1,0,Snacks,1
+30,Hyderabad,25-34,Returning,6,390.3,10.57,Referral,1,1,Private Label,0
+31,Chennai,25-34,Returning,11,201.49,8.11,Festival Offer,0,1,Private Label,0
+32,Mumbai,35-44,New,5,454.9,7.38,Meme Marketing,1,1,Snacks,1
+33,Hyderabad,25-34,New,7,267.88,7.68,Festival Offer,1,1,Private Label,1
+34,Delhi,18-24,Returning,5,526.71,9.92,Referral,0,0,Grocery,1
+35,Pune,25-34,Returning,4,353.35,12.81,Festival Offer,1,0,Grocery,0
+36,Chennai,25-34,New,1,531.31,7.47,Festival Offer,1,0,Snacks,1
+37,Hyderabad,18-24,Returning,10,421.69,9.77,Zepto Pass,0,0,Snacks,0
+38,Mumbai,25-34,Returning,7,427.85,9.03,Uncle Ji,1,0,Grocery,1
+39,Mumbai,18-24,New,2,573.16,10.49,Referral,0,1,Household,0
+40,Bangalore,18-24,Returning,6,322.17,9.75,Meme Marketing,0,1,Private Label,0
+41,Bangalore,25-34,New,6,288.51,10.59,Uncle Ji,1,0,Personal Care,0
+42,Jaipur,18-24,New,7,486.68,9.24,Festival Offer,1,0,Personal Care,1
+43,Delhi,25-34,Returning,4,262.31,7.55,Uncle Ji,1,0,Snacks,1
+44,Surat,25-34,Returning,6,324.15,7.78,Influencer,0,1,Personal Care,1
+45,Hyderabad,35-44,New,4,230.5,9.12,Influencer,1,1,Household,1
+46,Hyderabad,18-24,Returning,5,558.22,9.5,Referral,1,0,Personal Care,1
+47,Surat,18-24,Returning,5,299.68,8.22,Meme Marketing,1,1,Grocery,0
+48,Jaipur,18-24,New,8,341.49,11.82,Influencer,1,0,Snacks,0
+49,Pune,25-34,New,4,265.19,10.21,Festival Offer,0,0,Personal Care,1
+50,Pune,35-44,Returning,5,373.75,5.67,Zepto Pass,0,0,Private Label,1
+51,Jaipur,18-24,New,8,402.85,8.62,Zepto Pass,1,1,Snacks,0
+52,Pune,45+,Returning,6,519.12,7.26,Festival Offer,1,0,Household,1
+53,Bangalore,18-24,Returning,5,261.37,11.66,Uncle Ji,0,0,Grocery,1
+54,Hyderabad,25-34,Returning,5,347.89,5.47,Festival Offer,1,0,Personal Care,1
+55,Jaipur,35-44,New,9,590.73,9.43,Uncle Ji,0,0,Grocery,1
+56,Hyderabad,35-44,Returning,8,544.93,8.98,Uncle Ji,0,1,Household,1
+57,Surat,35-44,Returning,8,338.66,10.02,Zepto Pass,1,0,Personal Care,1
+58,Mumbai,35-44,New,4,414.06,9.28,Influencer,0,1,Snacks,0
+59,Bangalore,25-34,New,9,656.16,11.9,Festival Offer,1,0,Snacks,1
+60,Chennai,35-44,New,4,276.72,10.18,Influencer,1,0,Private Label,0
+61,Bangalore,18-24,Returning,7,189.45,6.04,Referral,1,0,Household,1
+62,Jaipur,35-44,Returning,4,355.67,10.91,Meme Marketing,0,0,Personal Care,0
+63,Chennai,25-34,New,4,409.99,9.1,Zepto Pass,0,0,Grocery,0
+64,Mumbai,35-44,Returning,10,323.74,10.91,Uncle Ji,0,0,Grocery,0
+65,Jaipur,25-34,New,8,537.23,8.32,Meme Marketing,1,1,Personal Care,1
+66,Delhi,25-34,Returning,6,445.28,7.21,Uncle Ji,0,1,Household,1
+67,Hyderabad,25-34,Returning,6,347.47,6.92,Meme Marketing,1,1,Household,1
+68,Mumbai,35-44,Returning,5,355.32,10.39,Meme Marketing,1,0,Grocery,1
+69,Hyderabad,18-24,Returning,5,330.44,10,Influencer,1,0,Personal Care,0
+70,Pune,18-24,Returning,4,519.57,7.91,Referral,1,0,Personal Care,1
+71,Delhi,18-24,Returning,7,363.3,4.79,Referral,1,1,Grocery,0
+72,Delhi,18-24,Returning,3,276.85,10.45,Uncle Ji,1,1,Personal Care,1
+73,Mumbai,35-44,Returning,7,535.43,5.74,Zepto Pass,0,1,Personal Care,1
+74,Delhi,18-24,New,7,386.83,12.06,Referral,0,0,Snacks,1
+75,Chennai,45+,New,8,256.81,6.63,Zepto Pass,1,0,Snacks,0
+76,Delhi,25-34,New,11,625.54,8.82,Uncle Ji,1,0,Private Label,1
+77,Hyderabad,18-24,Returning,6,493.27,9.15,Zepto Pass,0,0,Private Label,1
+78,Hyderabad,35-44,Returning,3,425.55,9.35,Meme Marketing,1,0,Household,1
+79,Jaipur,25-34,Returning,8,394.58,9.29,Meme Marketing,1,0,Snacks,1
+80,Hyderabad,25-34,New,3,386.36,9,Uncle Ji,0,0,Snacks,1
+81,Jaipur,25-34,Returning,10,383.91,8.15,Zepto Pass,0,0,Snacks,0
+82,Hyderabad,35-44,Returning,6,387.17,8.46,Zepto Pass,1,0,Snacks,1
+83,Chennai,18-24,Returning,7,349.24,7.82,Uncle Ji,1,1,Household,0
+84,Surat,45+,Returning,3,407.6,8.97,Referral,1,0,Grocery,0
+85,Jaipur,45+,Returning,4,346.86,6.17,Influencer,0,0,Household,0
+86,Bangalore,25-34,New,6,446.81,9.27,Referral,1,1,Grocery,1
+87,Pune,18-24,Returning,6,417.18,8.65,Festival Offer,1,1,Private Label,1
+88,Mumbai,25-34,New,6,335.94,10.06,Influencer,1,0,Snacks,0
+89,Hyderabad,18-24,Returning,6,409.58,8.34,Zepto Pass,0,1,Grocery,1
+90,Delhi,18-24,Returning,7,485.15,9.7,Influencer,1,0,Household,1
+91,Surat,18-24,Returning,7,149.23,9.63,Influencer,0,0,Grocery,0
+92,Hyderabad,25-34,New,3,489.38,8.59,Zepto Pass,0,0,Personal Care,1
+93,Delhi,35-44,Returning,3,272.83,9.33,Meme Marketing,0,0,Private Label,1
+94,Pune,35-44,Returning,3,364.93,6.79,Influencer,0,1,Private Label,1
+95,Pune,35-44,New,7,120,10.81,Uncle Ji,1,0,Snacks,0
+96,Pune,25-34,Returning,6,487.88,7.98,Referral,0,0,Snacks,0
+97,Delhi,25-34,Returning,4,331.17,8.53,Zepto Pass,1,1,Household,1
+98,Hyderabad,25-34,Returning,6,360.02,7.22,Zepto Pass,0,0,Grocery,1
+99,Pune,45+,Returning,9,430.88,7.65,Influencer,1,1,Personal Care,1
+100,Chennai,18-24,New,5,183.5,11.27,Meme Marketing,0,0,Private Label,1
+101,Jaipur,35-44,Returning,3,427.45,9.01,Meme Marketing,1,0,Grocery,0
+102,Delhi,25-34,New,11,497.79,8.35,Referral,1,0,Personal Care,0
+103,Delhi,25-34,Returning,6,440.9,8.35,Referral,1,1,Grocery,0
+104,Hyderabad,35-44,Returning,6,372.74,8.8,Meme Marketing,1,1,Snacks,0
+105,Delhi,25-34,Returning,8,424.94,9.88,Festival Offer,0,0,Private Label,0
+106,Delhi,35-44,New,3,410.94,9.09,Meme Marketing,0,0,Personal Care,0
+107,Pune,45+,Returning,7,511.02,9.12,Meme Marketing,1,1,Snacks,1
+108,Hyderabad,25-34,Returning,6,570.6,7.42,Influencer,0,1,Household,0
+109,Pune,18-24,Returning,5,370.7,8.36,Uncle Ji,1,0,Household,1
+110,Jaipur,25-34,Returning,5,447.78,9.03,Referral,1,0,Snacks,0
+111,Surat,45+,Returning,8,339.89,8.75,Festival Offer,1,1,Personal Care,1
+112,Jaipur,18-24,Returning,7,470,8.18,Festival Offer,1,0,Personal Care,1
+113,Surat,25-34,Returning,8,475.21,8.04,Zepto Pass,1,1,Private Label,0
+114,Pune,25-34,New,3,399.98,9.45,Meme Marketing,1,0,Snacks,0
+115,Jaipur,35-44,New,7,482.28,9.49,Meme Marketing,1,1,Household,1
+116,Hyderabad,18-24,Returning,8,420.38,10.28,Uncle Ji,0,0,Snacks,1
+117,Mumbai,35-44,Returning,4,414.23,9.09,Meme Marketing,1,1,Grocery,0
+118,Pune,45+,Returning,4,314.36,5.69,Referral,0,1,Personal Care,1
+119,Surat,18-24,Returning,8,440.64,12.34,Festival Offer,1,1,Grocery,0
+120,Chennai,18-24,New,4,350.65,8.79,Meme Marketing,0,1,Household,1
+121,Surat,45+,Returning,6,524.36,8.18,Uncle Ji,0,1,Personal Care,0
+122,Chennai,18-24,New,2,318.82,8.71,Influencer,1,1,Household,1
+123,Delhi,35-44,New,4,452.26,8.21,Referral,0,0,Household,1
+124,Jaipur,25-34,Returning,4,388.73,7.57,Influencer,1,0,Household,1
+125,Chennai,18-24,New,6,451.96,9.72,Zepto Pass,1,1,Private Label,1
+126,Surat,35-44,Returning,8,413,8.58,Uncle Ji,1,1,Household,1
+127,Delhi,25-34,New,6,321.84,8.67,Zepto Pass,0,0,Household,1
+128,Mumbai,25-34,Returning,7,551.25,5.05,Zepto Pass,1,1,Grocery,1
+129,Hyderabad,25-34,Returning,9,313.54,8.46,Festival Offer,1,0,Grocery,1
+130,Hyderabad,25-34,New,10,497.11,7.19,Zepto Pass,0,0,Grocery,1
+131,Hyderabad,18-24,Returning,6,216.19,8.02,Zepto Pass,1,1,Personal Care,1
+132,Chennai,25-34,Returning,8,385.33,9.15,Uncle Ji,1,1,Private Label,1
+133,Mumbai,45+,Returning,8,603.5,7.88,Influencer,1,1,Personal Care,0
+134,Chennai,18-24,New,8,386.95,8.09,Meme Marketing,1,1,Private Label,1
+135,Jaipur,25-34,Returning,6,431.58,8.94,Zepto Pass,0,0,Private Label,0
+136,Chennai,25-34,Returning,6,612.31,8.04,Festival Offer,1,0,Snacks,0
+137,Mumbai,35-44,Returning,4,402.86,7.22,Meme Marketing,1,1,Snacks,1
+138,Mumbai,18-24,Returning,10,451.08,6.22,Festival Offer,1,0,Snacks,0
+139,Jaipur,45+,Returning,3,492.56,9.3,Meme Marketing,1,0,Private Label,0
+140,Mumbai,25-34,Returning,4,254.44,8.03,Zepto Pass,1,1,Private Label,1
+141,Surat,18-24,Returning,8,361.74,6.3,Referral,1,1,Personal Care,0
+142,Mumbai,18-24,Returning,7,435.58,10.67,Meme Marketing,1,1,Private Label,0
+143,Hyderabad,18-24,Returning,4,228.5,9.31,Referral,1,1,Household,1
+144,Surat,25-34,Returning,5,584.38,7.02,Influencer,1,0,Household,0
+145,Surat,25-34,Returning,4,510.77,7.74,Meme Marketing,1,0,Private Label,1
+146,Jaipur,35-44,Returning,4,492.9,10.37,Uncle Ji,1,1,Household,0
+147,Bangalore,25-34,New,7,578.4,8.54,Festival Offer,0,1,Private Label,1
+148,Bangalore,18-24,Returning,5,506.79,8.17,Influencer,0,0,Snacks,0
+149,Mumbai,25-34,Returning,5,392.41,9.93,Influencer,1,0,Private Label,0
+150,Surat,35-44,Returning,6,224.13,8.55,Referral,1,1,Snacks,0
+151,Bangalore,18-24,Returning,6,338.25,10.64,Zepto Pass,0,0,Grocery,0
+152,Bangalore,18-24,Returning,5,341.73,8.18,Festival Offer,1,1,Household,1
+153,Mumbai,18-24,Returning,3,494.25,7.94,Uncle Ji,0,0,Grocery,1
+154,Bangalore,35-44,New,6,429.71,8.82,Uncle Ji,1,0,Household,1
+155,Chennai,25-34,Returning,5,232.14,10.25,Referral,1,1,Grocery,0
+156,Delhi,25-34,Returning,5,523.82,9.17,Referral,1,0,Private Label,1
+157,Jaipur,35-44,Returning,8,579.52,8.96,Influencer,0,0,Grocery,0
+158,Delhi,35-44,New,5,597.06,7.59,Referral,1,1,Household,1
+159,Mumbai,25-34,Returning,9,284.41,7.37,Zepto Pass,1,1,Personal Care,1
+160,Hyderabad,35-44,New,9,458.59,10.25,Influencer,1,0,Household,1
+161,Jaipur,18-24,New,3,299.24,10.41,Influencer,1,0,Personal Care,0
+162,Mumbai,18-24,New,5,652.7,10.36,Influencer,1,0,Private Label,1
+163,Surat,18-24,New,7,423.67,9.99,Uncle Ji,1,1,Household,1
+164,Hyderabad,18-24,Returning,4,375.58,9.47,Festival Offer,1,0,Grocery,0
+165,Delhi,25-34,Returning,4,353.49,9.45,Festival Offer,0,0,Private Label,0
+166,Mumbai,45+,Returning,5,460.08,9,Uncle Ji,1,0,Household,1
+167,Surat,18-24,Returning,8,481.87,9.64,Influencer,1,0,Private Label,1
+168,Jaipur,18-24,New,4,222.23,8.74,Zepto Pass,1,0,Personal Care,0
+169,Jaipur,25-34,Returning,6,587.62,9.64,Meme Marketing,0,0,Private Label,1
+170,Pune,45+,Returning,6,476.51,10.18,Influencer,1,1,Grocery,1
+171,Surat,25-34,Returning,3,586.66,6.91,Referral,1,1,Household,1
+172,Chennai,25-34,Returning,3,625.28,10.44,Festival Offer,1,0,Personal Care,1
+173,Bangalore,18-24,Returning,6,408.07,8.71,Meme Marketing,1,1,Private Label,1
+174,Hyderabad,18-24,New,7,522.83,10.99,Uncle Ji,0,1,Snacks,0
+175,Surat,45+,Returning,6,350.91,10.71,Uncle Ji,0,0,Personal Care,1
+176,Pune,45+,New,7,363.87,7.25,Meme Marketing,0,0,Personal Care,1
+177,Bangalore,18-24,Returning,5,608.69,8.8,Festival Offer,0,0,Grocery,1
+178,Bangalore,45+,Returning,6,331.31,6,Festival Offer,0,1,Grocery,1
+179,Mumbai,25-34,Returning,7,443.58,8.22,Referral,1,1,Private Label,1
+180,Bangalore,35-44,New,4,311.07,9.33,Uncle Ji,1,1,Snacks,1
+181,Chennai,25-34,Returning,5,341.33,10.07,Uncle Ji,0,1,Personal Care,1
+182,Jaipur,25-34,New,8,359.39,8.9,Influencer,1,1,Private Label,1
+183,Pune,25-34,Returning,6,593.66,9.46,Zepto Pass,1,1,Snacks,1
+184,Bangalore,25-34,New,9,481.65,7.75,Referral,1,1,Private Label,1
+185,Mumbai,18-24,New,2,521.02,8.77,Influencer,1,0,Personal Care,1
+186,Chennai,18-24,Returning,8,203.18,7.91,Zepto Pass,0,0,Private Label,1
+187,Delhi,25-34,Returning,5,424.16,9.22,Uncle Ji,0,1,Grocery,1
+188,Jaipur,35-44,New,9,374.1,10.88,Zepto Pass,0,1,Grocery,1
+189,Jaipur,18-24,New,9,479.08,8.71,Uncle Ji,1,0,Household,1
+190,Pune,25-34,Returning,4,708.78,6.74,Festival Offer,1,1,Snacks,0
+191,Jaipur,45+,Returning,2,133.13,9.09,Influencer,0,1,Personal Care,0
+192,Bangalore,18-24,Returning,6,467.93,9.86,Uncle Ji,1,1,Snacks,1
+193,Mumbai,25-34,New,6,684.57,7.42,Zepto Pass,1,0,Grocery,1
+194,Jaipur,25-34,Returning,7,358.83,10.66,Influencer,1,1,Personal Care,0
+195,Jaipur,35-44,New,8,437.98,7.91,Zepto Pass,0,0,Household,1
+196,Delhi,18-24,New,5,501.19,7.66,Zepto Pass,0,0,Grocery,1
+197,Delhi,25-34,Returning,8,161.29,6.13,Meme Marketing,0,1,Grocery,1
+198,Hyderabad,35-44,Returning,10,451.94,9.2,Uncle Ji,0,1,Snacks,1
+199,Chennai,45+,New,5,324.71,11.52,Uncle Ji,1,0,Private Label,1
+200,Bangalore,25-34,New,3,665.73,9.35,Zepto Pass,0,1,Snacks,0
+201,Jaipur,25-34,New,5,395.12,7.7,Festival Offer,1,0,Grocery,1
+202,Surat,25-34,Returning,3,334.76,9.57,Uncle Ji,0,1,Snacks,1
+203,Jaipur,35-44,Returning,8,521.6,10,Referral,0,1,Private Label,1
+204,Mumbai,25-34,New,9,478.56,10.54,Festival Offer,1,0,Household,0
+205,Hyderabad,18-24,New,7,527.51,6.95,Festival Offer,1,0,Personal Care,0
+206,Chennai,45+,Returning,7,649.25,11.13,Festival Offer,1,1,Grocery,0
+207,Surat,25-34,Returning,6,349.78,9.12,Uncle Ji,1,0,Snacks,0
+208,Hyderabad,25-34,Returning,9,626.28,11.43,Festival Offer,1,0,Grocery,0
+209,Pune,18-24,New,5,645.29,9.03,Festival Offer,1,0,Personal Care,0
+210,Chennai,25-34,New,5,327.78,9.67,Influencer,1,0,Snacks,1
+211,Jaipur,25-34,Returning,5,339.4,7.38,Uncle Ji,0,1,Household,1
+212,Jaipur,25-34,Returning,6,425.67,10.28,Festival Offer,0,0,Personal Care,0
+213,Chennai,18-24,New,2,396.04,7.18,Referral,1,1,Private Label,1
+214,Jaipur,25-34,Returning,6,625.09,9.2,Festival Offer,0,0,Private Label,0
+215,Bangalore,45+,New,6,316.33,8.15,Zepto Pass,0,1,Grocery,0
+216,Chennai,18-24,Returning,5,449.36,8.67,Uncle Ji,0,1,Private Label,1
+217,Hyderabad,45+,New,7,328.14,10.43,Influencer,1,0,Snacks,0
+218,Chennai,25-34,New,6,433.02,8.27,Referral,1,1,Private Label,1
+219,Surat,35-44,Returning,5,677,10.46,Meme Marketing,1,0,Household,0
+220,Jaipur,35-44,Returning,3,638.76,8.19,Zepto Pass,1,1,Snacks,1
+221,Bangalore,25-34,Returning,5,465.42,9,Zepto Pass,1,1,Grocery,1
+222,Bangalore,35-44,Returning,5,495.57,12.02,Zepto Pass,1,1,Grocery,0
+223,Pune,35-44,New,5,476.58,8.98,Referral,1,1,Private Label,1
+224,Hyderabad,25-34,Returning,4,383.52,8.69,Uncle Ji,1,0,Private Label,0
+225,Delhi,25-34,New,4,649.99,9.01,Uncle Ji,1,0,Grocery,0
+226,Delhi,25-34,Returning,4,578.35,8.3,Festival Offer,1,0,Snacks,0
+227,Chennai,35-44,Returning,3,448.12,7.3,Festival Offer,1,1,Personal Care,1
+228,Pune,35-44,Returning,9,393.98,11.89,Uncle Ji,1,1,Grocery,0
+229,Mumbai,35-44,New,6,401.77,8.19,Festival Offer,0,0,Household,1
+230,Chennai,25-34,Returning,6,460.65,6.52,Uncle Ji,1,0,Snacks,1
+231,Pune,35-44,Returning,8,415.79,8.57,Zepto Pass,0,0,Personal Care,1
+232,Hyderabad,18-24,Returning,1,556.74,9.34,Meme Marketing,0,0,Personal Care,1
+233,Hyderabad,25-34,New,7,477.48,8.49,Zepto Pass,1,0,Snacks,1
+234,Hyderabad,18-24,New,2,305.55,8.73,Festival Offer,1,1,Grocery,1
+235,Hyderabad,25-34,Returning,1,282.41,8.55,Meme Marketing,0,1,Personal Care,1
+236,Hyderabad,25-34,Returning,6,538.9,9.44,Meme Marketing,0,1,Household,1
+237,Pune,25-34,New,7,281.24,10.03,Uncle Ji,1,1,Snacks,1
+238,Pune,25-34,Returning,2,378.17,8.51,Influencer,1,1,Private Label,1
+239,Bangalore,25-34,New,6,367.25,12.68,Referral,0,1,Grocery,0
+240,Surat,25-34,Returning,6,271.38,10.36,Influencer,0,0,Snacks,1
+241,Delhi,18-24,New,7,457.22,8.79,Meme Marketing,1,0,Household,1
+242,Jaipur,25-34,New,5,405.14,6.82,Influencer,1,0,Personal Care,1
+243,Hyderabad,18-24,Returning,5,343.46,8.97,Festival Offer,0,1,Grocery,1
+244,Mumbai,18-24,New,3,670.22,10.02,Meme Marketing,0,1,Grocery,1
+245,Jaipur,25-34,Returning,6,128.29,10.03,Zepto Pass,1,1,Snacks,0
+246,Pune,25-34,Returning,9,316.4,6.02,Festival Offer,0,1,Snacks,0
+247,Mumbai,25-34,New,7,350.79,8.97,Zepto Pass,0,0,Household,0
+248,Mumbai,25-34,Returning,7,256.99,8.08,Festival Offer,1,1,Private Label,1
+249,Mumbai,25-34,Returning,6,690.95,11.05,Uncle Ji,1,1,Snacks,1
+250,Bangalore,35-44,New,3,689.68,8.99,Festival Offer,0,1,Snacks,0
+251,Pune,25-34,Returning,3,337.86,5.37,Referral,1,1,Snacks,0
+252,Mumbai,25-34,Returning,5,572.25,9.35,Zepto Pass,0,1,Household,0
+253,Hyderabad,18-24,Returning,8,491.58,5.88,Festival Offer,1,0,Personal Care,1
+254,Chennai,25-34,New,9,618.73,9.48,Referral,0,0,Private Label,0
+255,Mumbai,25-34,New,4,407.14,12.68,Uncle Ji,1,1,Household,0
+256,Bangalore,25-34,New,5,471.79,10.84,Festival Offer,1,1,Snacks,1
+257,Jaipur,25-34,Returning,6,588.31,9.19,Referral,1,0,Personal Care,1
+258,Pune,25-34,Returning,10,569.95,7.81,Festival Offer,1,1,Snacks,1
+259,Surat,25-34,Returning,8,438.2,10.71,Zepto Pass,0,1,Household,1
+260,Bangalore,35-44,New,5,306.89,9.75,Zepto Pass,1,0,Grocery,0
+261,Mumbai,35-44,New,6,328.4,8.4,Influencer,0,0,Snacks,0
+262,Pune,35-44,Returning,4,198.1,7.99,Influencer,1,0,Personal Care,1
+263,Chennai,45+,Returning,5,514.47,7.44,Festival Offer,1,0,Private Label,1
+264,Mumbai,18-24,New,7,445.46,9.36,Influencer,1,0,Grocery,1
+265,Bangalore,18-24,Returning,3,454.71,8.17,Festival Offer,1,0,Snacks,1
+266,Delhi,18-24,New,9,416.98,9.05,Festival Offer,1,0,Snacks,1
+267,Hyderabad,25-34,Returning,6,282.8,10.19,Referral,1,1,Personal Care,0
+268,Surat,35-44,Returning,5,457.51,8.14,Zepto Pass,1,1,Grocery,1
+269,Jaipur,18-24,New,8,492.63,9.77,Uncle Ji,1,1,Grocery,0
+270,Bangalore,45+,New,7,315.82,10.63,Meme Marketing,1,0,Grocery,1
+271,Pune,18-24,Returning,8,416.6,9.39,Zepto Pass,1,1,Snacks,1
+272,Surat,45+,New,5,342.2,9.85,Influencer,0,1,Grocery,0
+273,Surat,25-34,Returning,4,394.13,9.4,Festival Offer,0,1,Snacks,1
+274,Surat,18-24,Returning,9,283.75,8.82,Influencer,1,0,Snacks,1
+275,Mumbai,25-34,Returning,7,387.82,10.06,Referral,0,1,Grocery,1
+276,Hyderabad,18-24,Returning,4,615.29,11.21,Influencer,1,1,Household,1
+277,Mumbai,18-24,Returning,6,359.77,10.08,Referral,1,0,Private Label,1
+278,Pune,25-34,New,7,338.29,8.51,Uncle Ji,1,0,Private Label,1
+279,Mumbai,35-44,Returning,4,345.83,8.55,Festival Offer,0,1,Household,1
+280,Delhi,25-34,Returning,7,397.17,8.6,Influencer,0,0,Grocery,1
+281,Hyderabad,25-34,Returning,3,635.08,10.22,Referral,0,0,Snacks,1
+282,Hyderabad,25-34,New,4,588.68,8.01,Influencer,0,0,Personal Care,1
+283,Pune,35-44,New,7,402.79,7.26,Referral,1,1,Household,1
+284,Jaipur,18-24,Returning,5,342.86,9.5,Festival Offer,0,1,Private Label,1
+285,Delhi,25-34,New,6,208.68,8.83,Festival Offer,0,1,Private Label,1
+286,Bangalore,18-24,Returning,3,310.64,11.02,Zepto Pass,0,1,Snacks,0
+287,Mumbai,18-24,Returning,4,183.05,5.42,Referral,1,0,Private Label,0
+288,Chennai,25-34,Returning,6,508.81,9.11,Meme Marketing,1,1,Private Label,1
+289,Mumbai,18-24,Returning,6,580.27,8.19,Uncle Ji,0,0,Snacks,1
+290,Surat,25-34,Returning,5,374.97,10.02,Zepto Pass,1,1,Grocery,1
+291,Mumbai,35-44,Returning,6,466.07,8.38,Uncle Ji,1,0,Private Label,1
+292,Bangalore,18-24,New,9,289.32,7.94,Zepto Pass,0,0,Grocery,0
+293,Mumbai,25-34,Returning,7,187.21,10.2,Influencer,1,0,Personal Care,0
+294,Delhi,18-24,Returning,4,426.68,10.72,Referral,1,1,Grocery,1
+295,Delhi,45+,Returning,6,466,8.65,Influencer,0,1,Snacks,1
+296,Hyderabad,25-34,Returning,6,624.48,8.68,Uncle Ji,1,0,Snacks,0
+297,Pune,35-44,New,7,667.58,10.71,Festival Offer,0,0,Snacks,1
+298,Jaipur,25-34,Returning,4,386.57,10.54,Uncle Ji,1,1,Private Label,0
+299,Chennai,18-24,Returning,5,529.45,10.35,Zepto Pass,1,1,Household,1
+300,Surat,25-34,New,5,457.81,8.2,Uncle Ji,1,0,Private Label,1
+301,Mumbai,45+,Returning,5,420.27,7.81,Referral,1,0,Grocery,1
+302,Mumbai,25-34,Returning,3,415.5,11.25,Uncle Ji,0,0,Personal Care,1
+303,Bangalore,35-44,Returning,7,402.61,9.71,Influencer,0,1,Personal Care,1
+304,Pune,35-44,Returning,5,407.77,7.69,Festival Offer,1,0,Personal Care,0
+305,Delhi,18-24,Returning,12,618.79,8.64,Referral,0,0,Personal Care,1
+306,Chennai,18-24,New,5,445.75,8.93,Uncle Ji,0,0,Household,0
+307,Hyderabad,25-34,Returning,6,629.02,8.64,Meme Marketing,1,1,Personal Care,0
+308,Delhi,25-34,New,3,312.2,8.36,Meme Marketing,0,1,Private Label,0
+309,Surat,35-44,Returning,4,120,10.65,Festival Offer,0,1,Personal Care,1
+310,Pune,45+,Returning,6,364.45,9.59,Influencer,0,1,Snacks,1
+311,Surat,25-34,New,6,319.67,12.18,Zepto Pass,0,1,Grocery,1
+312,Jaipur,18-24,New,7,240.77,10.73,Zepto Pass,1,0,Private Label,1
+313,Hyderabad,35-44,Returning,5,576.08,9,Festival Offer,0,1,Household,0
+314,Jaipur,18-24,New,13,259.63,10.93,Uncle Ji,1,0,Private Label,1
+315,Bangalore,35-44,Returning,1,489.93,9.33,Referral,0,1,Snacks,1
+316,Surat,25-34,New,6,661.7,12.43,Festival Offer,1,1,Personal Care,1
+317,Bangalore,25-34,New,4,282.01,8.33,Zepto Pass,1,1,Personal Care,0
+318,Mumbai,18-24,Returning,3,392.29,9.48,Meme Marketing,0,0,Household,0
+319,Jaipur,25-34,Returning,4,582.32,7.9,Zepto Pass,1,1,Grocery,1
+320,Pune,25-34,Returning,3,370.15,8.23,Meme Marketing,1,1,Personal Care,0
+321,Surat,25-34,New,4,459.89,8.29,Zepto Pass,0,0,Household,0
+322,Chennai,18-24,Returning,6,496.72,10.65,Influencer,1,1,Personal Care,1
+323,Hyderabad,35-44,Returning,6,440.83,9.11,Festival Offer,0,0,Private Label,0
+324,Delhi,35-44,Returning,10,366.2,5.11,Referral,0,1,Household,0
+325,Pune,18-24,Returning,6,326.29,8.94,Festival Offer,1,0,Household,1
+326,Pune,18-24,Returning,6,288.63,7.34,Uncle Ji,0,0,Household,0
+327,Bangalore,18-24,Returning,3,491.58,8.14,Meme Marketing,1,1,Personal Care,1
+328,Jaipur,25-34,New,7,341.05,10.53,Zepto Pass,1,0,Household,1
+329,Surat,25-34,Returning,5,563.52,6.78,Uncle Ji,1,0,Private Label,0
+330,Surat,25-34,New,7,610.7,6.96,Meme Marketing,1,1,Grocery,1
+331,Mumbai,18-24,Returning,3,281.18,6.31,Festival Offer,1,1,Grocery,0
+332,Mumbai,25-34,New,8,508.58,8.22,Meme Marketing,1,0,Snacks,0
+333,Hyderabad,25-34,Returning,8,667.08,6.27,Influencer,0,1,Private Label,0
+334,Bangalore,25-34,Returning,6,317.36,6.39,Zepto Pass,1,1,Private Label,0
+335,Pune,45+,New,8,564.08,8.46,Festival Offer,1,1,Household,1
+336,Surat,18-24,New,8,487.43,9.27,Uncle Ji,1,1,Snacks,0
+337,Chennai,25-34,New,6,535.26,7.43,Zepto Pass,1,0,Private Label,0
+338,Bangalore,25-34,Returning,12,329.23,9.34,Festival Offer,1,0,Private Label,1
+339,Hyderabad,25-34,Returning,5,648.62,8.97,Zepto Pass,1,0,Private Label,0
+340,Hyderabad,35-44,New,4,339.64,9.61,Referral,1,0,Personal Care,0
+341,Bangalore,25-34,Returning,10,496.88,7.24,Meme Marketing,1,0,Private Label,1
+342,Hyderabad,45+,New,10,412.41,11.78,Meme Marketing,0,0,Personal Care,1
+343,Bangalore,18-24,Returning,7,484.4,7.09,Referral,1,1,Private Label,0
+344,Delhi,18-24,Returning,6,301.99,7.86,Referral,0,1,Grocery,0
+345,Bangalore,35-44,New,1,272.72,9.57,Zepto Pass,1,1,Personal Care,1
+346,Jaipur,25-34,Returning,4,454.44,8.98,Meme Marketing,0,0,Personal Care,1
+347,Bangalore,18-24,New,7,375.93,10.07,Uncle Ji,0,0,Household,0
+348,Hyderabad,18-24,New,9,371.85,8.34,Influencer,0,0,Private Label,0
+349,Surat,18-24,New,5,485.38,6.96,Festival Offer,0,0,Snacks,0
+350,Jaipur,35-44,New,4,240.64,6.51,Referral,1,1,Snacks,0
+351,Hyderabad,18-24,Returning,6,564.83,11.47,Uncle Ji,0,0,Snacks,0
+352,Mumbai,25-34,Returning,4,434.34,8.35,Uncle Ji,1,0,Snacks,1
+353,Mumbai,18-24,Returning,6,511.54,8.55,Zepto Pass,1,0,Grocery,0
+354,Surat,25-34,New,3,483.28,11.5,Referral,0,0,Snacks,1
+355,Surat,18-24,New,3,489.9,8.06,Uncle Ji,1,0,Household,1
+356,Jaipur,25-34,Returning,6,276.19,8.84,Influencer,1,0,Snacks,0
+357,Delhi,18-24,Returning,5,559.76,7.25,Uncle Ji,1,0,Household,1
+358,Surat,35-44,New,10,452.75,6.83,Influencer,1,0,Personal Care,1
+359,Mumbai,18-24,Returning,6,363,11.63,Influencer,0,0,Private Label,0
+360,Bangalore,25-34,Returning,10,404.97,11.66,Influencer,1,1,Snacks,0
+361,Hyderabad,35-44,Returning,6,463.46,10.33,Referral,0,0,Household,1
+362,Mumbai,25-34,Returning,6,441.63,10.28,Influencer,1,0,Household,0
+363,Mumbai,25-34,New,4,491.67,9.93,Referral,1,0,Private Label,1
+364,Delhi,25-34,New,4,618.41,7.69,Uncle Ji,0,0,Personal Care,0
+365,Jaipur,25-34,Returning,2,295.6,9.24,Influencer,1,0,Snacks,1
+366,Jaipur,25-34,New,6,510.03,8.04,Meme Marketing,0,0,Household,0
+367,Pune,45+,Returning,3,407.12,4.92,Uncle Ji,0,0,Snacks,0
+368,Delhi,25-34,Returning,7,557.11,10.48,Festival Offer,1,0,Grocery,0
+369,Bangalore,25-34,New,5,615.08,9.63,Meme Marketing,1,1,Household,1
+370,Jaipur,35-44,Returning,5,443.53,6.82,Meme Marketing,1,1,Personal Care,1
+371,Hyderabad,25-34,New,7,494.5,8.26,Zepto Pass,0,0,Private Label,1
+372,Surat,18-24,Returning,5,565.93,10.38,Referral,1,0,Household,0
+373,Delhi,25-34,Returning,4,539.79,9,Zepto Pass,0,1,Grocery,1
+374,Surat,45+,Returning,8,570.81,6.25,Referral,0,1,Private Label,1
+375,Mumbai,18-24,Returning,5,384.23,6.98,Zepto Pass,1,1,Personal Care,1
+376,Hyderabad,25-34,Returning,5,357.97,11.59,Uncle Ji,1,0,Snacks,0
+377,Hyderabad,18-24,Returning,4,283.66,8.9,Meme Marketing,1,0,Snacks,1
+378,Mumbai,25-34,Returning,6,396.56,10.39,Uncle Ji,1,1,Household,1
+379,Delhi,18-24,New,6,409.9,11.56,Referral,0,1,Private Label,1
+380,Mumbai,25-34,New,4,402.77,8.11,Meme Marketing,0,0,Grocery,1
+381,Surat,35-44,New,7,479.07,9.33,Meme Marketing,1,1,Grocery,0
+382,Pune,25-34,New,4,482.19,5.85,Referral,1,0,Personal Care,1
+383,Hyderabad,25-34,Returning,6,412.15,7.89,Uncle Ji,0,0,Private Label,1
+384,Chennai,35-44,Returning,8,461.61,9.66,Meme Marketing,0,0,Private Label,1
+385,Chennai,45+,Returning,4,519.21,8.51,Festival Offer,0,0,Snacks,1
+386,Surat,18-24,New,3,324.15,9.48,Uncle Ji,0,1,Personal Care,1
+387,Bangalore,25-34,Returning,7,531.99,10.19,Uncle Ji,1,1,Personal Care,1
+388,Jaipur,18-24,New,4,346.64,9.64,Uncle Ji,1,1,Personal Care,1
+389,Mumbai,45+,Returning,8,592.69,9.3,Meme Marketing,1,0,Private Label,1
+390,Mumbai,45+,Returning,9,439.95,9.09,Influencer,1,0,Snacks,1
+391,Bangalore,25-34,New,6,427.69,7.95,Zepto Pass,1,0,Personal Care,0
+392,Bangalore,35-44,New,6,205.24,7.41,Referral,0,0,Snacks,1
+393,Surat,25-34,New,7,498.95,10.83,Uncle Ji,1,1,Personal Care,0
+394,Surat,25-34,Returning,11,431.41,9.99,Meme Marketing,1,0,Private Label,1
+395,Bangalore,18-24,Returning,3,440.9,7.62,Referral,0,0,Snacks,1
+396,Hyderabad,35-44,Returning,8,408.83,8.9,Influencer,1,0,Household,1
+397,Surat,18-24,New,3,495.02,6.71,Festival Offer,1,0,Personal Care,0
+398,Pune,35-44,Returning,4,519.06,8.08,Influencer,0,1,Private Label,1
+399,Surat,35-44,Returning,5,478.08,9.6,Meme Marketing,0,0,Snacks,0
+400,Mumbai,35-44,Returning,7,578.05,9.19,Uncle Ji,1,1,Grocery,1
+401,Surat,18-24,New,7,333.68,8.97,Influencer,1,1,Private Label,1
+402,Hyderabad,25-34,New,5,348.86,7.47,Influencer,1,0,Private Label,1
+403,Bangalore,18-24,Returning,10,468.8,7.17,Influencer,0,0,Grocery,1
+404,Mumbai,25-34,Returning,3,499.41,10.22,Festival Offer,1,1,Grocery,0
+405,Surat,18-24,New,2,482,11.34,Meme Marketing,0,0,Household,1
+406,Hyderabad,45+,New,5,265.5,9.62,Referral,0,1,Household,0
+407,Pune,25-34,Returning,6,275.7,8.54,Zepto Pass,0,0,Household,1
+408,Surat,25-34,Returning,7,397.83,10.64,Meme Marketing,1,0,Private Label,1
+409,Hyderabad,25-34,Returning,5,205.29,7.54,Uncle Ji,0,1,Private Label,1
+410,Pune,25-34,Returning,5,451.31,10.38,Meme Marketing,0,1,Private Label,1
+411,Bangalore,25-34,Returning,7,411.02,7.91,Meme Marketing,0,0,Household,1
+412,Surat,25-34,New,8,310.26,7.98,Festival Offer,0,0,Snacks,1
+413,Pune,45+,Returning,2,353.79,8.3,Zepto Pass,0,0,Private Label,1
+414,Mumbai,25-34,Returning,10,433.17,8.65,Zepto Pass,1,1,Private Label,0
+415,Bangalore,45+,Returning,5,240.78,10.17,Zepto Pass,1,0,Private Label,1
+416,Mumbai,35-44,Returning,5,347.59,6.84,Referral,1,0,Household,0
+417,Chennai,18-24,New,7,388.39,7.89,Meme Marketing,1,1,Personal Care,1
+418,Delhi,45+,New,5,384.02,9.11,Festival Offer,0,0,Household,1
+419,Surat,18-24,New,9,387.47,9.64,Uncle Ji,1,0,Personal Care,1
+420,Pune,35-44,New,14,583.09,6.24,Zepto Pass,0,1,Household,0
+421,Delhi,25-34,New,8,533.83,7.61,Zepto Pass,1,0,Snacks,0
+422,Delhi,35-44,Returning,7,342.82,6.18,Meme Marketing,1,0,Snacks,1
+423,Pune,35-44,Returning,5,295.54,7.75,Uncle Ji,1,0,Private Label,1
+424,Bangalore,35-44,Returning,10,370.4,8.14,Festival Offer,0,1,Household,1
+425,Surat,35-44,Returning,6,567.26,9.55,Zepto Pass,0,0,Personal Care,0
+426,Chennai,25-34,Returning,3,164.72,5.36,Meme Marketing,0,0,Personal Care,1
+427,Mumbai,18-24,Returning,3,430.03,9.78,Influencer,1,1,Snacks,0
+428,Hyderabad,25-34,Returning,6,383.03,8.04,Festival Offer,1,0,Private Label,1
+429,Mumbai,18-24,New,7,563.8,8.29,Referral,1,1,Personal Care,1
+430,Hyderabad,25-34,New,9,537.74,10.26,Festival Offer,0,0,Household,1
+431,Mumbai,25-34,Returning,8,243.82,10.82,Meme Marketing,1,1,Private Label,0
+432,Pune,45+,Returning,5,563.6,7.82,Zepto Pass,1,1,Household,1
+433,Chennai,25-34,Returning,10,139.95,7.81,Festival Offer,0,1,Household,1
+434,Surat,35-44,New,4,493.47,8.27,Uncle Ji,0,0,Snacks,1
+435,Hyderabad,18-24,New,7,504.25,7.8,Influencer,1,1,Household,1
+436,Surat,35-44,Returning,5,622.22,6.65,Uncle Ji,1,0,Grocery,1
+437,Surat,45+,New,6,447.28,8.75,Uncle Ji,0,1,Private Label,0
+438,Surat,25-34,Returning,7,340.27,7.81,Uncle Ji,0,0,Grocery,1
+439,Jaipur,25-34,Returning,4,299,8.95,Meme Marketing,1,0,Household,1
+440,Bangalore,35-44,Returning,7,595.23,11.36,Meme Marketing,0,0,Household,1
+441,Mumbai,18-24,Returning,4,623.65,8.64,Festival Offer,0,0,Snacks,0
+442,Surat,25-34,Returning,9,366.18,7.67,Referral,1,0,Snacks,0
+443,Mumbai,25-34,Returning,10,422.66,8.39,Influencer,1,1,Snacks,1
+444,Surat,18-24,Returning,4,583.6,8.99,Festival Offer,1,0,Snacks,0
+445,Hyderabad,25-34,Returning,5,512.29,8.55,Uncle Ji,1,1,Personal Care,1
+446,Bangalore,18-24,New,8,397.59,7.96,Festival Offer,1,0,Snacks,1
+447,Bangalore,18-24,New,10,328.84,6.31,Zepto Pass,1,0,Household,1
+448,Pune,18-24,New,8,319.04,9.75,Festival Offer,1,0,Household,1
+449,Jaipur,45+,Returning,9,534.4,7.46,Festival Offer,0,0,Private Label,1
+450,Pune,25-34,Returning,8,375.96,10.99,Uncle Ji,0,0,Grocery,1
+451,Pune,45+,Returning,8,371.21,8.25,Festival Offer,0,1,Personal Care,0
+452,Pune,25-34,New,6,493.43,8.03,Influencer,1,0,Personal Care,1
+453,Pune,25-34,New,2,429.67,8.09,Uncle Ji,1,1,Private Label,0
+454,Pune,25-34,Returning,9,466.73,9.03,Meme Marketing,0,0,Private Label,1
+455,Chennai,25-34,New,2,381.12,7.5,Meme Marketing,0,1,Snacks,0
+456,Bangalore,18-24,Returning,2,376.13,7.79,Festival Offer,0,0,Private Label,1
+457,Pune,25-34,Returning,4,331.87,9.73,Festival Offer,0,1,Personal Care,1
+458,Surat,18-24,Returning,4,505.08,7.27,Influencer,1,0,Grocery,0
+459,Bangalore,25-34,New,5,430.21,9.62,Referral,1,0,Grocery,1
+460,Bangalore,25-34,New,6,455.18,10.04,Uncle Ji,0,0,Personal Care,1
+461,Delhi,18-24,New,9,297.63,9.8,Influencer,0,0,Snacks,1
+462,Chennai,18-24,Returning,6,503.48,9.15,Festival Offer,0,0,Grocery,1
+463,Pune,35-44,Returning,4,457.45,6.09,Festival Offer,1,0,Grocery,1
+464,Mumbai,25-34,New,5,507.64,6.98,Festival Offer,1,1,Snacks,0
+465,Hyderabad,18-24,Returning,5,461.42,6.77,Festival Offer,1,0,Grocery,0
+466,Jaipur,45+,Returning,5,454.32,8.23,Zepto Pass,1,0,Household,1
+467,Surat,18-24,New,12,201.58,8.85,Festival Offer,1,0,Personal Care,1
+468,Mumbai,25-34,Returning,5,556.53,7.01,Festival Offer,1,1,Grocery,1
+469,Chennai,45+,Returning,5,261.55,8.54,Zepto Pass,1,0,Grocery,1
+470,Hyderabad,18-24,New,4,544.45,9.83,Referral,0,1,Snacks,1
+471,Chennai,18-24,New,7,411.26,7.3,Meme Marketing,1,0,Grocery,0
+472,Surat,18-24,Returning,7,227.19,7.57,Festival Offer,1,0,Snacks,0
+473,Bangalore,25-34,Returning,4,409.66,10.57,Festival Offer,1,0,Personal Care,1
+474,Hyderabad,18-24,Returning,7,239.97,7.41,Influencer,0,1,Household,0
+475,Bangalore,25-34,Returning,6,552.96,9.31,Uncle Ji,0,0,Private Label,1
+476,Surat,18-24,Returning,8,358.11,10.66,Influencer,0,0,Personal Care,1
+477,Mumbai,25-34,Returning,4,295.06,7.03,Festival Offer,0,1,Grocery,0
+478,Surat,45+,Returning,4,499.3,7.14,Referral,1,0,Household,0
+479,Mumbai,35-44,Returning,3,414.92,8.45,Influencer,1,1,Private Label,0
+480,Hyderabad,25-34,New,10,482.42,8.9,Referral,1,1,Private Label,0
+481,Hyderabad,25-34,Returning,9,406.33,7.84,Referral,1,1,Grocery,1
+482,Pune,25-34,Returning,2,558.8,11.76,Festival Offer,1,0,Private Label,0
+483,Chennai,25-34,Returning,4,371.82,9.61,Referral,1,0,Private Label,0
+484,Pune,25-34,Returning,5,230.89,7.59,Influencer,0,1,Personal Care,1
+485,Chennai,18-24,New,5,288.68,6.75,Zepto Pass,1,0,Personal Care,1
+486,Pune,35-44,New,6,472.22,8.71,Uncle Ji,0,0,Private Label,1
+487,Bangalore,25-34,New,3,341.06,9.46,Referral,1,0,Snacks,1
+488,Hyderabad,18-24,Returning,5,574.01,11.56,Festival Offer,1,0,Grocery,1
+489,Mumbai,25-34,Returning,10,279.52,8.91,Meme Marketing,1,1,Snacks,0
+490,Chennai,25-34,New,5,542.19,8.44,Referral,0,1,Snacks,1
+491,Surat,35-44,Returning,4,368.03,7.34,Influencer,0,0,Private Label,1
+492,Chennai,35-44,Returning,6,576.9,9.36,Referral,0,1,Grocery,1
+493,Mumbai,35-44,Returning,3,480.68,10.33,Meme Marketing,1,0,Snacks,0
+494,Pune,18-24,Returning,7,443.1,6.12,Zepto Pass,1,1,Personal Care,1
+495,Chennai,25-34,Returning,4,499.73,8.91,Influencer,0,0,Personal Care,0
+496,Jaipur,25-34,Returning,7,567.2,7.27,Influencer,1,0,Grocery,0
+497,Bangalore,18-24,New,3,413.9,6.76,Festival Offer,0,0,Snacks,1
+498,Hyderabad,18-24,New,6,194.76,11.34,Influencer,1,0,Household,1
+499,Mumbai,35-44,Returning,6,564.01,10.13,Meme Marketing,0,0,Household,0
+500,Hyderabad,18-24,Returning,4,387.45,7.89,Influencer,0,0,Grocery,1
+501,Jaipur,25-34,Returning,8,727.19,8.56,Zepto Pass,1,1,Grocery,1
+502,Chennai,18-24,New,9,347.68,8.32,Uncle Ji,1,1,Household,1
+503,Chennai,18-24,New,1,374.3,7.11,Uncle Ji,0,1,Snacks,1
+504,Surat,18-24,Returning,6,509.33,7.99,Referral,1,1,Snacks,1
+505,Jaipur,45+,New,4,511.39,9.98,Uncle Ji,1,1,Private Label,1
+506,Mumbai,35-44,Returning,9,470.71,7.95,Meme Marketing,1,1,Grocery,1
+507,Surat,45+,Returning,6,352.81,9.5,Uncle Ji,1,0,Snacks,0
+508,Bangalore,25-34,Returning,4,280.78,7.96,Meme Marketing,1,1,Household,0
+509,Surat,18-24,Returning,6,338.75,7.02,Meme Marketing,1,1,Household,0
+510,Delhi,25-34,Returning,3,238,10.59,Referral,1,0,Personal Care,1
+511,Mumbai,25-34,New,6,667.61,5.6,Uncle Ji,1,0,Snacks,1
+512,Delhi,35-44,Returning,10,297.05,11.48,Referral,1,0,Private Label,1
+513,Jaipur,18-24,Returning,8,384.71,10.3,Influencer,1,1,Private Label,0
+514,Pune,25-34,Returning,7,503.09,9.07,Zepto Pass,1,1,Grocery,1
+515,Delhi,18-24,Returning,2,420.63,8.13,Uncle Ji,0,1,Personal Care,1
+516,Bangalore,25-34,Returning,2,349.04,8.25,Influencer,1,1,Household,1
+517,Surat,35-44,Returning,9,402.17,9.1,Festival Offer,1,0,Household,1
+518,Pune,25-34,New,9,346.97,9.08,Influencer,0,1,Grocery,1
+519,Surat,25-34,Returning,10,389.47,7.36,Referral,0,0,Private Label,1
+520,Delhi,25-34,Returning,10,466.87,8.9,Referral,1,0,Private Label,1
+521,Surat,25-34,Returning,3,295.6,9.19,Zepto Pass,1,1,Household,1
+522,Jaipur,35-44,Returning,8,549.65,8.35,Zepto Pass,0,1,Grocery,1
+523,Pune,35-44,New,8,428.72,12.16,Zepto Pass,0,1,Snacks,0
+524,Jaipur,45+,Returning,8,349.98,8.6,Zepto Pass,1,0,Personal Care,0
+525,Delhi,35-44,Returning,5,382.12,6.15,Referral,0,1,Private Label,1
+526,Jaipur,25-34,Returning,4,560.09,7.28,Meme Marketing,1,0,Private Label,1
+527,Bangalore,25-34,Returning,7,518.21,9.86,Referral,1,0,Private Label,1
+528,Delhi,25-34,New,6,448.8,7.72,Meme Marketing,1,0,Snacks,1
+529,Delhi,18-24,New,7,347.94,7.31,Referral,0,1,Snacks,0
+530,Delhi,35-44,Returning,2,488.19,10.89,Festival Offer,0,0,Personal Care,1
+531,Mumbai,18-24,New,4,421.7,9.05,Referral,1,0,Private Label,0
+532,Surat,45+,Returning,2,629.48,7.9,Zepto Pass,1,1,Household,0
+533,Mumbai,25-34,New,6,415.49,4.65,Meme Marketing,0,1,Private Label,1
+534,Mumbai,25-34,New,4,622.06,9.73,Influencer,0,0,Personal Care,1
+535,Bangalore,25-34,Returning,8,443.38,8.82,Festival Offer,1,0,Personal Care,1
+536,Pune,35-44,Returning,1,295.58,10.75,Influencer,1,1,Household,1
+537,Surat,25-34,Returning,7,815.61,7.16,Festival Offer,1,1,Snacks,1
+538,Jaipur,25-34,Returning,2,246.36,8.24,Influencer,0,0,Household,0
+539,Chennai,18-24,New,6,182.79,9.25,Zepto Pass,0,0,Personal Care,1
+540,Delhi,25-34,Returning,6,171.03,10.68,Influencer,0,1,Household,0
+541,Jaipur,18-24,Returning,8,748.76,9.19,Referral,0,0,Private Label,0
+542,Delhi,35-44,New,5,674.88,7.74,Zepto Pass,1,0,Personal Care,1
+543,Bangalore,25-34,Returning,8,437.28,10.75,Influencer,1,0,Snacks,1
+544,Delhi,25-34,Returning,5,472.1,8.33,Zepto Pass,0,0,Snacks,1
+545,Mumbai,18-24,Returning,9,450.11,9.07,Referral,1,1,Household,0
+546,Surat,18-24,New,5,207.52,9.93,Zepto Pass,1,0,Household,0
+547,Chennai,35-44,New,8,595.06,11.14,Influencer,1,0,Household,0
+548,Hyderabad,18-24,New,2,579.34,9.35,Zepto Pass,1,1,Private Label,0
+549,Delhi,18-24,Returning,3,272.27,12.68,Festival Offer,1,1,Snacks,0
+550,Jaipur,18-24,Returning,2,459.08,8.67,Uncle Ji,1,1,Personal Care,1
+551,Mumbai,45+,New,6,411.19,9.24,Influencer,0,0,Personal Care,0
+552,Hyderabad,35-44,Returning,9,394.66,7.87,Referral,0,0,Snacks,0
+553,Chennai,25-34,Returning,5,338.51,9.28,Meme Marketing,1,0,Household,1
+554,Hyderabad,18-24,Returning,1,406.52,9.25,Zepto Pass,1,0,Grocery,1
+555,Mumbai,25-34,Returning,11,356.78,10.37,Festival Offer,0,0,Household,0
+556,Surat,35-44,New,3,547.71,9.47,Zepto Pass,1,1,Snacks,1
+557,Surat,25-34,Returning,11,416.68,8.01,Influencer,0,1,Private Label,1
+558,Pune,18-24,Returning,5,336.89,9.18,Festival Offer,1,1,Household,1
+559,Surat,18-24,Returning,5,416.97,7.79,Influencer,1,1,Personal Care,1
+560,Pune,18-24,Returning,4,403.04,9.62,Uncle Ji,1,1,Private Label,1
+561,Hyderabad,25-34,New,10,397.99,7.96,Referral,1,1,Snacks,1
+562,Bangalore,35-44,Returning,5,501.25,6.7,Festival Offer,1,1,Grocery,1
+563,Jaipur,18-24,New,4,386.8,7.1,Festival Offer,0,1,Household,1
+564,Jaipur,18-24,Returning,3,351.47,7.04,Zepto Pass,1,0,Private Label,1
+565,Hyderabad,18-24,Returning,4,256.79,8.01,Zepto Pass,0,0,Private Label,1
+566,Delhi,45+,New,7,418.97,7.53,Meme Marketing,1,1,Personal Care,1
+567,Delhi,18-24,Returning,3,569.44,8.77,Festival Offer,1,0,Household,1
+568,Surat,35-44,New,4,405.14,8.21,Zepto Pass,1,1,Grocery,1
+569,Jaipur,25-34,Returning,10,359.78,9.57,Zepto Pass,1,1,Private Label,0
+570,Jaipur,25-34,Returning,4,329.13,9.37,Uncle Ji,1,1,Personal Care,1
+571,Pune,18-24,Returning,8,213.14,8.31,Meme Marketing,0,0,Household,1
+572,Bangalore,18-24,Returning,5,561.17,10.66,Zepto Pass,1,0,Household,1
+573,Mumbai,25-34,Returning,3,478.16,7.41,Zepto Pass,0,0,Grocery,0
+574,Delhi,35-44,Returning,9,512.36,10.31,Referral,0,1,Personal Care,1
+575,Jaipur,25-34,Returning,6,450.13,9.03,Festival Offer,0,0,Grocery,1
+576,Pune,25-34,Returning,8,323.36,8.21,Zepto Pass,1,1,Private Label,1
+577,Chennai,18-24,New,5,381.98,10.49,Uncle Ji,1,1,Snacks,1
+578,Pune,45+,Returning,4,359.94,9.64,Zepto Pass,0,1,Snacks,1
+579,Delhi,35-44,New,8,369.98,7.19,Festival Offer,0,1,Grocery,1
+580,Delhi,18-24,Returning,4,370.71,9.35,Zepto Pass,1,1,Grocery,1
+581,Pune,45+,New,7,552.57,9.34,Influencer,1,0,Snacks,1
+582,Mumbai,25-34,New,7,662.61,10.31,Zepto Pass,1,1,Private Label,1
+583,Hyderabad,25-34,Returning,6,315.33,9.68,Meme Marketing,1,0,Grocery,1
+584,Delhi,35-44,Returning,5,399.69,9.79,Festival Offer,1,0,Private Label,1
+585,Pune,35-44,Returning,9,446.01,8.14,Festival Offer,1,0,Private Label,1
+586,Jaipur,25-34,New,7,302.35,8.49,Influencer,1,1,Personal Care,0
+587,Pune,18-24,Returning,10,426.34,8.42,Meme Marketing,1,0,Private Label,1
+588,Bangalore,25-34,Returning,4,462.2,6.4,Meme Marketing,1,1,Household,1
+589,Hyderabad,45+,Returning,2,410.64,10.73,Festival Offer,1,1,Snacks,1
+590,Chennai,18-24,New,9,495.24,7.12,Uncle Ji,1,1,Snacks,1
+591,Mumbai,25-34,Returning,10,420.04,9.2,Zepto Pass,0,0,Grocery,1
+592,Surat,25-34,New,7,120,8.3,Meme Marketing,1,1,Grocery,1
+593,Chennai,25-34,Returning,3,304.74,8.44,Zepto Pass,1,1,Personal Care,0
+594,Hyderabad,25-34,Returning,6,591.89,9.82,Zepto Pass,1,0,Personal Care,0
+595,Hyderabad,45+,Returning,7,482.43,7.63,Uncle Ji,1,1,Household,0
+596,Hyderabad,18-24,Returning,9,120,9.48,Uncle Ji,1,0,Grocery,0
+597,Chennai,18-24,Returning,4,238.78,9.5,Meme Marketing,0,0,Snacks,1
+598,Jaipur,18-24,Returning,8,506.62,7.64,Meme Marketing,0,1,Household,1
+599,Hyderabad,35-44,Returning,10,350.86,10.17,Festival Offer,1,0,Grocery,1
+600,Pune,25-34,Returning,9,120,10.85,Influencer,1,0,Household,1
+601,Chennai,18-24,Returning,8,547.13,11.84,Zepto Pass,1,1,Private Label,1
+602,Surat,35-44,Returning,7,506.86,8.41,Festival Offer,1,0,Private Label,0
+603,Hyderabad,35-44,Returning,6,320.48,9.09,Zepto Pass,1,0,Household,0
+604,Pune,35-44,Returning,7,569.4,9.18,Uncle Ji,1,1,Grocery,1
+605,Jaipur,45+,Returning,8,325.03,9.8,Uncle Ji,0,1,Private Label,0
+606,Bangalore,18-24,Returning,4,345.25,11.42,Festival Offer,1,1,Private Label,1
+607,Jaipur,35-44,New,7,361.72,9.53,Meme Marketing,1,1,Household,0
+608,Surat,25-34,Returning,15,192.54,9.57,Influencer,1,0,Private Label,1
+609,Hyderabad,35-44,Returning,2,469.52,7.16,Influencer,0,1,Snacks,1
+610,Surat,35-44,New,8,482.41,11.87,Uncle Ji,0,1,Private Label,1
+611,Chennai,35-44,New,8,364.98,8.09,Uncle Ji,0,0,Household,0
+612,Delhi,25-34,Returning,3,504.75,4.81,Influencer,1,1,Private Label,0
+613,Hyderabad,18-24,Returning,5,229.06,5.39,Influencer,1,1,Private Label,1
+614,Delhi,25-34,Returning,4,502.33,9.29,Meme Marketing,1,0,Personal Care,1
+615,Pune,45+,New,4,459.05,6.89,Influencer,0,1,Household,0
+616,Bangalore,45+,Returning,3,337.12,8.88,Zepto Pass,0,1,Household,0
+617,Mumbai,18-24,New,4,469.69,6.56,Influencer,0,0,Personal Care,0
+618,Surat,18-24,Returning,6,314.21,9.26,Referral,0,1,Personal Care,1
+619,Jaipur,18-24,New,11,552.61,9.65,Influencer,1,1,Snacks,1
+620,Bangalore,35-44,New,4,483.25,9.06,Uncle Ji,1,1,Private Label,0
+621,Hyderabad,35-44,New,6,463.64,7.76,Uncle Ji,0,0,Grocery,1
+622,Delhi,18-24,Returning,4,364.52,10.12,Referral,0,0,Grocery,1
+623,Jaipur,25-34,New,9,513.02,8.2,Zepto Pass,0,0,Personal Care,1
+624,Delhi,35-44,Returning,8,564.45,8.52,Influencer,0,1,Household,1
+625,Chennai,35-44,Returning,3,612.83,8.04,Influencer,1,1,Household,0
+626,Delhi,25-34,Returning,13,354.57,8.4,Referral,1,0,Snacks,1
+627,Chennai,25-34,Returning,7,518.22,11.61,Meme Marketing,1,0,Grocery,1
+628,Pune,25-34,Returning,9,587.45,8.79,Meme Marketing,1,0,Household,1
+629,Jaipur,18-24,New,4,390.83,6.9,Zepto Pass,0,1,Snacks,1
+630,Jaipur,25-34,Returning,10,588.65,7.36,Influencer,0,1,Snacks,0
+631,Mumbai,25-34,New,6,439.06,8.39,Influencer,0,0,Personal Care,1
+632,Hyderabad,35-44,New,9,297.76,7.61,Influencer,1,0,Grocery,1
+633,Chennai,25-34,Returning,9,334.8,10.22,Uncle Ji,1,0,Snacks,1
+634,Mumbai,35-44,Returning,9,246.79,6.67,Festival Offer,1,0,Snacks,1
+635,Delhi,18-24,Returning,11,415.33,8.62,Meme Marketing,0,1,Snacks,0
+636,Delhi,25-34,Returning,4,400.78,10.32,Festival Offer,1,0,Grocery,0
+637,Mumbai,18-24,Returning,5,442.61,7.85,Referral,0,0,Personal Care,1
+638,Jaipur,18-24,New,2,583.4,9.46,Festival Offer,0,1,Private Label,0
+639,Delhi,35-44,New,7,418.03,8.74,Uncle Ji,1,1,Household,1
+640,Surat,45+,New,5,387.94,8.75,Uncle Ji,1,1,Grocery,1
+641,Pune,18-24,New,8,396.06,9.57,Meme Marketing,1,1,Grocery,0
+642,Pune,25-34,Returning,5,197.6,6.01,Influencer,1,1,Grocery,1
+643,Surat,35-44,Returning,6,502.02,10.61,Zepto Pass,0,1,Private Label,0
+644,Mumbai,18-24,New,5,401.9,5.95,Festival Offer,0,1,Household,1
+645,Surat,25-34,Returning,2,429.64,10.5,Referral,0,1,Household,0
+646,Chennai,35-44,Returning,7,395.91,9.45,Meme Marketing,0,1,Snacks,0
+647,Chennai,25-34,New,9,435.29,9.51,Zepto Pass,0,0,Snacks,1
+648,Mumbai,18-24,New,5,262.59,11.22,Meme Marketing,1,0,Personal Care,1
+649,Surat,25-34,New,5,419.87,10.58,Meme Marketing,0,0,Grocery,0
+650,Chennai,35-44,New,7,347.52,10.02,Meme Marketing,1,1,Personal Care,0
+651,Jaipur,25-34,New,4,424.19,8.36,Meme Marketing,1,1,Grocery,1
+652,Surat,18-24,Returning,9,298.2,8.26,Influencer,0,1,Household,1
+653,Jaipur,35-44,New,1,477.43,10.06,Uncle Ji,1,0,Personal Care,1
+654,Chennai,18-24,Returning,9,422.57,9.48,Festival Offer,1,0,Household,0
+655,Pune,35-44,Returning,1,264.54,9.25,Meme Marketing,1,1,Snacks,1
+656,Chennai,18-24,Returning,6,533.56,8.71,Zepto Pass,0,0,Household,0
+657,Jaipur,45+,Returning,5,358.28,8.19,Festival Offer,1,0,Private Label,0
+658,Bangalore,25-34,New,5,376.97,6.72,Zepto Pass,0,1,Personal Care,1
+659,Hyderabad,25-34,Returning,10,515.79,9.77,Zepto Pass,1,0,Grocery,1
+660,Delhi,18-24,Returning,3,548.81,8.53,Uncle Ji,0,0,Household,1
+661,Surat,25-34,New,4,364.09,8.43,Uncle Ji,1,0,Personal Care,1
+662,Bangalore,35-44,New,6,433.38,6.08,Zepto Pass,1,0,Grocery,1
+663,Chennai,45+,Returning,10,501.84,8.94,Influencer,1,1,Personal Care,0
+664,Pune,25-34,Returning,8,571.59,6.75,Uncle Ji,0,0,Personal Care,1
+665,Mumbai,25-34,Returning,7,430.64,8.15,Uncle Ji,0,0,Private Label,1
+666,Chennai,35-44,Returning,4,476.61,9.99,Influencer,1,0,Household,0
+667,Pune,35-44,Returning,6,310.33,8.89,Meme Marketing,1,1,Private Label,1
+668,Hyderabad,25-34,New,6,238.52,8.64,Uncle Ji,1,0,Snacks,1
+669,Chennai,25-34,New,5,486.59,7.71,Festival Offer,0,0,Personal Care,1
+670,Jaipur,25-34,New,4,323.17,7.98,Zepto Pass,0,0,Household,1
+671,Mumbai,25-34,New,4,309.08,11.18,Zepto Pass,1,0,Snacks,0
+672,Pune,18-24,Returning,5,496.97,9.97,Influencer,0,0,Snacks,0
+673,Pune,25-34,Returning,7,402.31,8.11,Zepto Pass,0,0,Private Label,0
+674,Pune,25-34,Returning,5,447.31,8.64,Referral,1,1,Snacks,1
+675,Hyderabad,35-44,New,6,266.01,9.17,Zepto Pass,1,1,Grocery,1
+676,Chennai,18-24,Returning,8,310.67,9.46,Influencer,0,1,Grocery,1
+677,Hyderabad,25-34,New,5,615.67,8.76,Influencer,0,0,Grocery,0
+678,Surat,25-34,New,4,341.04,6.14,Influencer,1,1,Snacks,1
+679,Delhi,25-34,New,6,395.6,8.75,Festival Offer,0,0,Personal Care,1
+680,Delhi,18-24,Returning,7,448.48,8.66,Referral,1,1,Household,1
+681,Surat,25-34,Returning,7,291.6,11.89,Uncle Ji,0,0,Grocery,0
+682,Chennai,25-34,Returning,8,582.34,12.84,Meme Marketing,0,1,Grocery,1
+683,Jaipur,25-34,Returning,9,420.9,9.76,Zepto Pass,1,1,Grocery,1
+684,Hyderabad,25-34,Returning,1,391.63,7.78,Festival Offer,1,0,Private Label,0
+685,Mumbai,25-34,New,12,548.17,9.82,Uncle Ji,0,0,Private Label,1
+686,Pune,35-44,New,3,529.42,6.25,Influencer,1,1,Grocery,1
+687,Pune,18-24,New,13,656.04,8,Uncle Ji,0,0,Grocery,1
+688,Chennai,35-44,Returning,7,367.56,6.36,Uncle Ji,1,1,Private Label,1
+689,Jaipur,25-34,Returning,3,683.19,9.63,Referral,0,0,Household,1
+690,Delhi,18-24,New,1,497.54,6.98,Influencer,1,0,Personal Care,0
+691,Delhi,18-24,Returning,12,622.85,8.37,Festival Offer,1,1,Household,0
+692,Pune,25-34,Returning,4,538.3,8.73,Festival Offer,1,0,Personal Care,1
+693,Chennai,35-44,New,2,342.96,8.76,Influencer,1,0,Snacks,1
+694,Hyderabad,35-44,Returning,8,319.95,8.09,Zepto Pass,1,1,Snacks,1
+695,Delhi,35-44,Returning,3,203.51,9.31,Festival Offer,1,1,Household,1
+696,Hyderabad,25-34,Returning,4,178.73,6.92,Festival Offer,0,1,Private Label,1
+697,Jaipur,25-34,New,4,346.53,11.41,Zepto Pass,0,1,Grocery,1
+698,Delhi,18-24,Returning,6,572.04,7.25,Zepto Pass,1,0,Snacks,0
+699,Delhi,25-34,New,9,360.22,8.86,Festival Offer,1,0,Private Label,1
+700,Bangalore,25-34,Returning,10,338.83,9.74,Festival Offer,0,0,Private Label,0
+701,Delhi,18-24,Returning,7,503.96,9.82,Festival Offer,1,1,Personal Care,1
+702,Surat,18-24,Returning,6,316.62,9.96,Zepto Pass,1,0,Snacks,0
+703,Mumbai,25-34,Returning,5,640.87,6.41,Festival Offer,1,0,Household,1
+704,Surat,35-44,Returning,10,388.6,7.42,Uncle Ji,0,1,Private Label,1
+705,Chennai,45+,Returning,8,531.68,9,Uncle Ji,0,1,Household,0
+706,Chennai,45+,New,5,395.99,9.52,Zepto Pass,1,1,Household,1
+707,Hyderabad,25-34,Returning,8,422.95,10.69,Zepto Pass,0,0,Snacks,1
+708,Surat,25-34,New,6,555.25,8.03,Zepto Pass,1,1,Household,1
+709,Surat,25-34,Returning,8,447.52,7.44,Meme Marketing,1,0,Household,1
+710,Surat,35-44,Returning,8,599.26,7.98,Zepto Pass,1,1,Grocery,0
+711,Jaipur,18-24,Returning,6,326.01,12.19,Meme Marketing,1,0,Household,0
+712,Delhi,25-34,Returning,5,264.12,11.05,Zepto Pass,1,0,Grocery,0
+713,Mumbai,35-44,Returning,10,210.08,8.55,Influencer,0,0,Snacks,1
+714,Hyderabad,25-34,New,4,570.6,10.73,Referral,1,0,Household,1
+715,Surat,25-34,Returning,6,528.19,7.94,Festival Offer,1,1,Private Label,1
+716,Surat,25-34,Returning,10,388.12,10.23,Festival Offer,1,1,Household,1
+717,Bangalore,18-24,New,6,455.85,6.73,Uncle Ji,0,1,Grocery,1
+718,Hyderabad,25-34,New,5,548.33,9.33,Influencer,0,0,Private Label,1
+719,Surat,25-34,Returning,11,397.17,10.33,Referral,0,1,Snacks,1
+720,Hyderabad,18-24,Returning,6,208.79,8.31,Festival Offer,1,0,Personal Care,1
+721,Delhi,18-24,Returning,7,210.32,9.72,Festival Offer,0,0,Personal Care,0
+722,Bangalore,35-44,Returning,4,288.64,7.96,Meme Marketing,1,0,Grocery,0
+723,Hyderabad,18-24,New,6,432.26,9.26,Uncle Ji,1,0,Snacks,0
+724,Mumbai,25-34,Returning,8,307.01,8.08,Meme Marketing,0,0,Snacks,0
+725,Mumbai,18-24,Returning,2,544.02,10.03,Meme Marketing,1,0,Household,0
+726,Chennai,45+,Returning,5,267.17,6.9,Uncle Ji,0,1,Personal Care,1
+727,Bangalore,18-24,Returning,2,336.78,7.28,Referral,1,1,Household,0
+728,Bangalore,25-34,Returning,4,201.44,10.76,Uncle Ji,0,0,Snacks,1
+729,Chennai,35-44,Returning,8,366.58,5.11,Zepto Pass,0,0,Grocery,1
+730,Hyderabad,35-44,Returning,6,420.85,7.84,Meme Marketing,0,0,Grocery,1
+731,Bangalore,18-24,New,3,549.33,8.59,Zepto Pass,1,0,Private Label,0
+732,Mumbai,35-44,Returning,6,434.4,9.33,Uncle Ji,1,0,Grocery,1
+733,Mumbai,25-34,Returning,5,508.91,8.08,Uncle Ji,1,0,Personal Care,1
+734,Surat,25-34,Returning,8,540.61,7.11,Festival Offer,0,1,Private Label,0
+735,Delhi,18-24,New,4,467.07,10.64,Referral,1,1,Personal Care,1
+736,Bangalore,18-24,Returning,11,312.41,10.38,Meme Marketing,0,0,Household,1
+737,Hyderabad,35-44,New,9,468.55,8.23,Influencer,1,1,Household,0
+738,Chennai,25-34,Returning,7,598.54,6.11,Uncle Ji,1,1,Grocery,0
+739,Chennai,25-34,Returning,4,382.21,9.26,Festival Offer,1,0,Private Label,1
+740,Hyderabad,35-44,Returning,8,486.56,9.07,Influencer,1,0,Personal Care,1
+741,Jaipur,35-44,New,8,483.46,7.8,Meme Marketing,0,1,Personal Care,1
+742,Pune,18-24,Returning,3,375.72,5.87,Zepto Pass,0,1,Snacks,1
+743,Delhi,25-34,Returning,9,532.48,8.39,Meme Marketing,0,0,Grocery,1
+744,Chennai,18-24,Returning,4,373.84,9.95,Referral,0,1,Household,1
+745,Bangalore,35-44,Returning,11,474.37,10.18,Influencer,1,0,Snacks,1
+746,Delhi,25-34,Returning,7,391.28,8.73,Festival Offer,0,1,Household,0
+747,Bangalore,45+,Returning,3,425.24,7.86,Influencer,1,0,Household,0
+748,Jaipur,18-24,New,7,532.03,9.9,Zepto Pass,1,0,Personal Care,0
+749,Mumbai,18-24,New,4,186.36,7.09,Festival Offer,0,1,Household,0
+750,Delhi,18-24,Returning,4,494.04,6.77,Zepto Pass,0,1,Private Label,1
+751,Surat,18-24,Returning,7,504.86,8.67,Uncle Ji,0,0,Household,1
+752,Chennai,18-24,Returning,7,351.01,11.12,Meme Marketing,0,0,Private Label,1
+753,Delhi,45+,New,9,416.24,11.18,Referral,1,0,Household,1
+754,Delhi,18-24,New,10,302.86,6.82,Uncle Ji,1,0,Snacks,1
+755,Delhi,18-24,Returning,4,324.12,8.14,Meme Marketing,1,0,Personal Care,1
+756,Pune,35-44,New,8,452.51,12.45,Zepto Pass,1,1,Snacks,1
+757,Delhi,25-34,Returning,4,735.02,7.77,Referral,0,0,Personal Care,1
+758,Bangalore,35-44,New,7,499.68,11.23,Zepto Pass,0,1,Snacks,1
+759,Mumbai,18-24,Returning,10,318.2,10.26,Festival Offer,1,1,Grocery,1
+760,Jaipur,25-34,Returning,12,513.1,10.59,Zepto Pass,0,0,Household,0
+761,Hyderabad,18-24,New,7,489.71,8.13,Influencer,0,1,Household,1
+762,Delhi,18-24,Returning,5,212.78,8.18,Meme Marketing,1,1,Grocery,1
+763,Chennai,45+,New,7,382.09,7.43,Uncle Ji,1,0,Grocery,0
+764,Delhi,18-24,Returning,6,402.89,10,Influencer,1,1,Private Label,1
+765,Chennai,25-34,Returning,9,434.17,6.35,Festival Offer,0,1,Snacks,0
+766,Bangalore,25-34,Returning,9,416.22,8.55,Meme Marketing,1,1,Household,0
+767,Chennai,25-34,Returning,4,437.73,11.25,Festival Offer,0,0,Private Label,0
+768,Surat,35-44,Returning,4,307.78,9.69,Meme Marketing,1,1,Household,0
+769,Hyderabad,18-24,New,4,380.98,10.3,Meme Marketing,0,0,Grocery,0
+770,Mumbai,25-34,New,2,388.11,6.33,Referral,0,1,Private Label,1
+771,Chennai,45+,Returning,10,559.2,7.31,Influencer,1,1,Private Label,0
+772,Chennai,25-34,Returning,8,336.3,10.58,Uncle Ji,1,0,Private Label,0
+773,Mumbai,45+,Returning,2,390.66,8.99,Influencer,1,0,Snacks,1
+774,Hyderabad,18-24,Returning,4,377.28,7.24,Festival Offer,0,0,Private Label,1
+775,Delhi,25-34,Returning,14,610.49,9.74,Zepto Pass,1,0,Household,0
+776,Chennai,18-24,Returning,2,499.82,8,Festival Offer,1,1,Snacks,1
+777,Mumbai,35-44,Returning,3,307.96,12.61,Meme Marketing,1,0,Household,0
+778,Surat,45+,Returning,5,467.69,9.7,Zepto Pass,0,0,Private Label,1
+779,Surat,18-24,Returning,6,298.61,7.42,Influencer,0,0,Private Label,1
+780,Bangalore,25-34,New,10,451.27,10.12,Uncle Ji,1,1,Household,0
+781,Mumbai,18-24,New,3,583.92,11.22,Zepto Pass,1,0,Personal Care,1
+782,Bangalore,25-34,New,7,185.24,8.79,Zepto Pass,1,1,Private Label,0
+783,Surat,25-34,New,4,299.01,7.65,Referral,0,1,Private Label,1
+784,Hyderabad,45+,New,6,438.7,8.87,Influencer,1,1,Snacks,1
+785,Delhi,25-34,Returning,5,372.48,7.88,Zepto Pass,1,0,Household,0
+786,Mumbai,25-34,Returning,8,445.67,8.41,Influencer,0,0,Private Label,0
+787,Jaipur,18-24,Returning,6,410,6.72,Uncle Ji,1,0,Household,1
+788,Surat,18-24,Returning,1,218.31,10.11,Zepto Pass,0,0,Snacks,1
+789,Surat,18-24,New,5,494.64,7.08,Uncle Ji,0,1,Household,0
+790,Jaipur,18-24,New,9,259.82,9.71,Festival Offer,1,0,Household,0
+791,Pune,35-44,New,4,444.66,8.34,Zepto Pass,1,0,Snacks,1
+792,Surat,25-34,Returning,1,365.46,9.13,Meme Marketing,1,1,Private Label,1
+793,Chennai,25-34,New,4,708.13,8.09,Referral,0,0,Household,0
+794,Hyderabad,18-24,New,8,405.49,9.09,Referral,0,0,Personal Care,1
+795,Mumbai,35-44,Returning,6,462.12,9.45,Referral,1,0,Private Label,1
+796,Jaipur,35-44,Returning,6,486.48,8.27,Uncle Ji,0,1,Snacks,1
+797,Chennai,18-24,New,6,460.51,6.21,Influencer,1,0,Grocery,1
+798,Jaipur,35-44,Returning,2,416.8,9.31,Referral,0,1,Personal Care,1
+799,Mumbai,25-34,Returning,5,301.13,9.39,Festival Offer,1,0,Private Label,0
+800,Bangalore,18-24,Returning,10,406.58,6.65,Zepto Pass,1,0,Snacks,1
+801,Mumbai,25-34,Returning,3,196.09,7.33,Zepto Pass,0,1,Personal Care,1
+802,Pune,25-34,New,8,478.51,8.28,Meme Marketing,1,1,Private Label,0
+803,Mumbai,18-24,New,1,770.46,5.36,Uncle Ji,0,1,Grocery,1
+804,Mumbai,45+,Returning,9,441.2,9.86,Zepto Pass,0,1,Private Label,1
+805,Pune,35-44,Returning,10,460.74,8.07,Zepto Pass,1,0,Grocery,1
+806,Hyderabad,25-34,Returning,5,233.77,9.23,Meme Marketing,1,1,Grocery,1
+807,Surat,25-34,Returning,12,322.08,7.21,Meme Marketing,0,1,Household,1
+808,Mumbai,25-34,Returning,2,527.38,11.83,Influencer,1,1,Snacks,1
+809,Pune,25-34,Returning,5,246.33,6.67,Influencer,0,1,Household,1
+810,Chennai,25-34,Returning,3,332.64,8.05,Influencer,0,0,Grocery,1
+811,Bangalore,18-24,Returning,5,488.14,10.6,Zepto Pass,1,1,Snacks,1
+812,Bangalore,25-34,New,8,517.09,7.08,Meme Marketing,1,1,Snacks,1
+813,Mumbai,35-44,Returning,3,406.91,8.94,Festival Offer,1,0,Snacks,0
+814,Hyderabad,25-34,New,11,434.72,9.74,Uncle Ji,1,0,Personal Care,1
+815,Hyderabad,18-24,New,2,434.44,6.54,Influencer,1,1,Private Label,0
+816,Chennai,35-44,Returning,5,272,7.8,Festival Offer,1,0,Grocery,1
+817,Mumbai,18-24,New,4,411.2,9.09,Referral,0,1,Snacks,0
+818,Bangalore,18-24,New,3,449.03,9.48,Zepto Pass,1,0,Personal Care,1
+819,Hyderabad,18-24,New,9,409.39,7.57,Uncle Ji,1,1,Personal Care,1
+820,Mumbai,25-34,Returning,12,188.93,11.56,Zepto Pass,1,0,Grocery,1
+821,Jaipur,35-44,Returning,4,604.28,9.52,Festival Offer,1,0,Household,0
+822,Hyderabad,25-34,Returning,7,288.8,9.96,Influencer,0,1,Personal Care,0
+823,Pune,18-24,New,2,428.66,9.88,Festival Offer,0,1,Grocery,1
+824,Jaipur,35-44,Returning,5,458.61,6.46,Festival Offer,1,0,Personal Care,1
+825,Surat,35-44,Returning,5,365.42,8.63,Zepto Pass,0,0,Grocery,0
+826,Hyderabad,35-44,New,3,449.34,8.78,Influencer,1,1,Snacks,1
+827,Bangalore,18-24,Returning,6,326.97,8.42,Zepto Pass,1,1,Household,0
+828,Delhi,25-34,New,11,677.65,9.11,Influencer,1,1,Personal Care,1
+829,Jaipur,45+,Returning,4,388.74,5.64,Meme Marketing,1,1,Personal Care,1
+830,Surat,35-44,Returning,7,527.88,8.99,Meme Marketing,0,0,Personal Care,0
+831,Chennai,18-24,Returning,9,288.88,8.35,Meme Marketing,1,1,Private Label,0
+832,Chennai,18-24,New,6,506.55,5.63,Meme Marketing,1,1,Private Label,1
+833,Bangalore,25-34,Returning,8,333.94,9.43,Meme Marketing,1,0,Snacks,0
+834,Hyderabad,45+,Returning,10,252.82,7.03,Referral,0,0,Personal Care,1
+835,Mumbai,25-34,Returning,9,292.19,8.23,Zepto Pass,0,1,Household,1
+836,Hyderabad,25-34,Returning,5,318.25,8.42,Festival Offer,1,1,Private Label,0
+837,Bangalore,18-24,Returning,4,433.37,6.03,Meme Marketing,0,1,Grocery,1
+838,Chennai,25-34,New,6,765.09,6.2,Referral,0,1,Grocery,0
+839,Hyderabad,35-44,Returning,6,748.28,9.62,Referral,0,0,Grocery,0
+840,Chennai,25-34,Returning,8,381.38,7.89,Zepto Pass,1,1,Snacks,1
+841,Jaipur,35-44,Returning,9,535.13,8.21,Zepto Pass,1,1,Personal Care,1
+842,Surat,45+,New,10,269.55,8.91,Influencer,1,0,Personal Care,1
+843,Mumbai,18-24,Returning,3,167.51,6.16,Influencer,1,0,Private Label,0
+844,Jaipur,25-34,New,8,423.67,8.19,Meme Marketing,0,1,Grocery,1
+845,Chennai,18-24,Returning,2,485.55,8.63,Uncle Ji,1,1,Snacks,1
+846,Chennai,35-44,Returning,4,513.99,11.45,Influencer,0,0,Household,1
+847,Delhi,25-34,Returning,3,549.56,7.42,Uncle Ji,1,0,Personal Care,1
+848,Delhi,25-34,New,3,380.35,9.98,Festival Offer,1,0,Personal Care,0
+849,Jaipur,35-44,Returning,8,428.64,8.8,Influencer,0,0,Snacks,1
+850,Pune,25-34,New,6,518.55,7.1,Festival Offer,0,0,Private Label,1
+851,Jaipur,45+,New,6,563.22,7.85,Referral,1,1,Snacks,0
+852,Delhi,25-34,Returning,7,311.14,10.1,Referral,0,1,Private Label,1
+853,Chennai,18-24,Returning,7,445.28,9.97,Festival Offer,1,1,Personal Care,0
+854,Bangalore,25-34,Returning,4,497.95,8.02,Referral,1,0,Private Label,1
+855,Jaipur,35-44,Returning,3,437.71,9.32,Festival Offer,1,1,Private Label,1
+856,Chennai,25-34,Returning,9,345.35,7.24,Uncle Ji,1,1,Private Label,0
+857,Bangalore,35-44,Returning,2,420.37,8.54,Meme Marketing,1,0,Private Label,0
+858,Bangalore,45+,New,5,483.57,8.16,Festival Offer,0,0,Grocery,1
+859,Delhi,18-24,Returning,5,328.72,10.2,Influencer,0,1,Grocery,1
+860,Jaipur,45+,Returning,7,276.33,9.49,Influencer,1,1,Grocery,1
+861,Hyderabad,18-24,New,4,667.15,7.79,Uncle Ji,1,1,Grocery,0
+862,Mumbai,18-24,New,8,442.5,7.94,Festival Offer,0,0,Snacks,1
+863,Delhi,18-24,Returning,7,532.6,8.76,Referral,0,1,Household,0
+864,Delhi,35-44,New,5,445.14,8.56,Meme Marketing,0,0,Private Label,1
+865,Hyderabad,25-34,New,8,546.04,8.38,Influencer,1,1,Snacks,1
+866,Mumbai,18-24,New,8,429.5,8.27,Meme Marketing,1,1,Grocery,1
+867,Chennai,25-34,Returning,1,490.45,10.87,Meme Marketing,1,0,Private Label,0
+868,Pune,25-34,Returning,8,286.86,8.12,Zepto Pass,1,0,Household,1
+869,Jaipur,18-24,New,9,208.19,9.25,Meme Marketing,1,0,Private Label,1
+870,Pune,35-44,Returning,7,362.82,12.43,Festival Offer,1,0,Personal Care,1
+871,Chennai,35-44,Returning,1,248.9,7.53,Zepto Pass,0,0,Personal Care,1
+872,Surat,25-34,Returning,8,165.96,9.09,Uncle Ji,0,1,Snacks,1
+873,Delhi,45+,New,8,456.21,9.17,Referral,1,1,Household,1
+874,Mumbai,25-34,Returning,7,207.68,8.78,Zepto Pass,0,1,Snacks,0
+875,Delhi,45+,Returning,4,533.94,8.86,Meme Marketing,0,1,Private Label,1
+876,Bangalore,25-34,Returning,8,592.94,7.48,Referral,1,1,Household,1
+877,Delhi,25-34,New,5,246.84,9.34,Meme Marketing,1,1,Snacks,0
+878,Delhi,18-24,Returning,5,454.64,6.04,Meme Marketing,1,0,Private Label,0
+879,Chennai,35-44,Returning,5,642.95,11.5,Zepto Pass,0,1,Grocery,1
+880,Chennai,25-34,Returning,8,363.36,11.37,Uncle Ji,0,0,Private Label,0
+881,Chennai,18-24,New,11,493.3,8.31,Meme Marketing,1,0,Snacks,1
+882,Pune,18-24,New,7,707.15,10.38,Festival Offer,1,1,Household,1
+883,Bangalore,25-34,Returning,6,218.74,8.36,Zepto Pass,1,0,Household,0
+884,Surat,25-34,Returning,3,297.69,8.81,Festival Offer,0,1,Grocery,0
+885,Surat,35-44,New,9,487.69,7.78,Festival Offer,0,0,Snacks,0
+886,Chennai,35-44,Returning,6,680.69,10.03,Meme Marketing,1,0,Grocery,0
+887,Mumbai,18-24,New,5,334.65,7.93,Festival Offer,0,1,Personal Care,0
+888,Pune,35-44,Returning,5,712.29,9.98,Referral,0,0,Private Label,1
+889,Hyderabad,18-24,Returning,6,435.83,8.74,Uncle Ji,0,0,Personal Care,1
+890,Mumbai,35-44,Returning,5,183.93,8.77,Meme Marketing,1,0,Personal Care,0
+891,Jaipur,35-44,Returning,6,610.86,6.56,Festival Offer,1,1,Grocery,0
+892,Jaipur,25-34,New,6,364.37,8.89,Uncle Ji,0,0,Grocery,1
+893,Mumbai,35-44,Returning,5,473.82,7.08,Uncle Ji,1,0,Private Label,1
+894,Chennai,25-34,New,4,220.9,8.89,Referral,0,1,Grocery,1
+895,Hyderabad,25-34,Returning,4,329.61,11.71,Referral,1,1,Grocery,0
+896,Hyderabad,35-44,Returning,5,240.38,6.72,Influencer,1,1,Grocery,1
+897,Pune,25-34,Returning,7,227.64,8.58,Uncle Ji,1,0,Grocery,0
+898,Hyderabad,25-34,New,9,431.76,7.85,Meme Marketing,0,1,Grocery,1
+899,Jaipur,25-34,Returning,7,488.01,7.24,Referral,1,1,Personal Care,1
+900,Bangalore,35-44,New,4,354.39,7.61,Meme Marketing,1,0,Personal Care,1
+901,Chennai,25-34,New,1,247.54,11.01,Uncle Ji,1,0,Private Label,1
+902,Hyderabad,18-24,Returning,4,266.87,11.4,Referral,1,1,Household,1
+903,Pune,35-44,Returning,6,464.6,7.23,Influencer,1,1,Private Label,1
+904,Jaipur,35-44,Returning,4,433.28,9.4,Uncle Ji,0,1,Snacks,0
+905,Bangalore,18-24,Returning,6,466.57,7.42,Meme Marketing,0,1,Private Label,1
+906,Delhi,18-24,New,10,607.01,7.78,Influencer,0,1,Private Label,0
+907,Delhi,18-24,Returning,6,489.04,5.73,Uncle Ji,1,0,Grocery,1
+908,Bangalore,25-34,Returning,5,469.08,12,Referral,1,0,Grocery,0
+909,Jaipur,25-34,New,3,704.25,10.45,Festival Offer,1,1,Grocery,0
+910,Pune,35-44,Returning,11,387.03,7.82,Uncle Ji,1,0,Household,1
+911,Bangalore,25-34,Returning,3,706.04,9.23,Zepto Pass,1,0,Grocery,1
+912,Chennai,25-34,Returning,7,590.87,8.2,Meme Marketing,0,1,Snacks,0
+913,Chennai,25-34,Returning,7,384.25,10.22,Referral,0,0,Personal Care,1
+914,Delhi,35-44,Returning,5,516.58,8.29,Referral,1,0,Snacks,1
+915,Hyderabad,25-34,Returning,7,394.18,8.51,Zepto Pass,0,1,Household,1
+916,Pune,45+,Returning,5,247.63,7.81,Festival Offer,1,1,Grocery,1
+917,Delhi,25-34,New,6,419.04,9.71,Influencer,0,0,Private Label,0
+918,Hyderabad,18-24,Returning,8,243.94,12.11,Referral,1,1,Personal Care,0
+919,Hyderabad,25-34,Returning,6,447.96,8.37,Influencer,1,1,Household,1
+920,Surat,25-34,Returning,2,516.06,8.36,Influencer,0,0,Snacks,1
+921,Chennai,25-34,Returning,10,393.97,8.76,Influencer,1,0,Grocery,1
+922,Jaipur,18-24,Returning,2,447.71,9.19,Festival Offer,0,0,Household,1
+923,Mumbai,18-24,Returning,4,445.73,8.35,Uncle Ji,1,1,Household,0
+924,Jaipur,35-44,New,9,521.32,8.21,Zepto Pass,0,0,Private Label,1
+925,Mumbai,18-24,Returning,9,430.74,8.92,Meme Marketing,1,1,Private Label,0
+926,Bangalore,35-44,Returning,7,382.23,6.17,Zepto Pass,0,1,Private Label,1
+927,Chennai,18-24,New,6,515.87,7.98,Referral,1,0,Snacks,0
+928,Hyderabad,25-34,Returning,4,439.03,5.8,Zepto Pass,1,0,Private Label,1
+929,Pune,25-34,Returning,4,163.73,8.06,Meme Marketing,1,0,Household,0
+930,Mumbai,25-34,Returning,11,377.97,7.38,Uncle Ji,1,0,Household,1
+931,Jaipur,25-34,New,8,357.94,9.74,Referral,0,1,Household,1
+932,Hyderabad,18-24,New,5,437.7,7.7,Uncle Ji,1,1,Personal Care,1
+933,Mumbai,18-24,Returning,2,424.8,8.25,Referral,1,0,Personal Care,1
+934,Mumbai,25-34,New,4,185.96,5.58,Meme Marketing,1,0,Snacks,1
+935,Surat,25-34,Returning,5,240.99,10.33,Uncle Ji,1,0,Private Label,1
+936,Mumbai,45+,Returning,9,305.66,7.17,Meme Marketing,0,1,Household,0
+937,Pune,35-44,New,9,427.73,8.08,Meme Marketing,1,1,Private Label,1
+938,Chennai,35-44,New,5,548.86,9.97,Festival Offer,0,1,Household,1
+939,Pune,35-44,Returning,8,227.56,9.97,Zepto Pass,1,0,Personal Care,0
+940,Delhi,25-34,Returning,5,339.35,7.13,Referral,1,0,Household,1
+941,Hyderabad,18-24,Returning,8,414.18,9.59,Influencer,0,0,Snacks,0
+942,Chennai,45+,Returning,1,308.23,7.08,Influencer,1,1,Grocery,0
+943,Surat,25-34,New,5,430.49,9.15,Uncle Ji,1,1,Household,1
+944,Chennai,25-34,Returning,6,496.83,7.62,Meme Marketing,1,1,Snacks,1
+945,Chennai,18-24,Returning,4,329.18,7.28,Zepto Pass,1,1,Personal Care,1
+946,Jaipur,25-34,Returning,6,459.31,8.85,Referral,1,0,Personal Care,1
+947,Chennai,25-34,Returning,8,406.26,7.71,Uncle Ji,1,0,Grocery,1
+948,Surat,35-44,Returning,6,282.11,11.83,Meme Marketing,0,0,Private Label,1
+949,Pune,25-34,New,8,403.09,7.87,Festival Offer,1,0,Private Label,1
+950,Chennai,25-34,Returning,8,474.8,7.01,Influencer,1,0,Household,1
+951,Bangalore,45+,New,10,589.65,7.45,Influencer,1,0,Personal Care,0
+952,Hyderabad,18-24,New,6,617.31,8.77,Referral,1,1,Snacks,1
+953,Chennai,25-34,Returning,7,351.88,8.97,Referral,1,1,Grocery,0
+954,Hyderabad,18-24,Returning,6,344.65,9.26,Referral,1,1,Private Label,1
+955,Bangalore,35-44,Returning,11,424.85,10.17,Uncle Ji,1,0,Household,1
+956,Bangalore,45+,Returning,8,354.88,6.29,Referral,1,0,Household,1
+957,Hyderabad,18-24,Returning,9,565.56,10.24,Uncle Ji,1,1,Personal Care,1
+958,Mumbai,35-44,New,4,432.08,7.43,Zepto Pass,0,1,Snacks,1
+959,Delhi,18-24,Returning,6,426.63,9.4,Meme Marketing,1,1,Snacks,1
+960,Jaipur,45+,Returning,10,497.2,11.38,Influencer,1,1,Private Label,1
+961,Mumbai,35-44,Returning,3,439.18,7.6,Uncle Ji,1,1,Household,1
+962,Mumbai,35-44,Returning,8,456.63,7.54,Meme Marketing,1,0,Personal Care,0
+963,Pune,18-24,New,3,451.58,7.26,Festival Offer,0,0,Snacks,1
+964,Jaipur,45+,Returning,4,402.64,8.29,Referral,1,0,Household,1
+965,Jaipur,35-44,Returning,4,311.71,10.7,Influencer,1,1,Snacks,1
+966,Mumbai,25-34,New,4,631.08,7.13,Festival Offer,0,0,Grocery,1
+967,Chennai,35-44,Returning,6,311.31,8.06,Uncle Ji,0,1,Snacks,0
+968,Pune,18-24,Returning,4,618.51,10.26,Referral,0,1,Snacks,1
+969,Pune,35-44,Returning,8,460.97,9.74,Meme Marketing,1,0,Household,1
+970,Bangalore,18-24,Returning,11,347.81,8.05,Zepto Pass,1,1,Snacks,1
+971,Surat,35-44,New,2,486.58,8.48,Meme Marketing,1,0,Snacks,1
+972,Jaipur,25-34,New,4,514.31,10.17,Uncle Ji,1,1,Grocery,0
+973,Mumbai,18-24,New,6,626.18,11.17,Zepto Pass,1,1,Snacks,1
+974,Bangalore,18-24,Returning,12,262.12,11.35,Zepto Pass,1,0,Snacks,1
+975,Hyderabad,18-24,New,3,403.2,10.87,Referral,0,0,Household,1
+976,Delhi,25-34,New,7,585.27,7.79,Meme Marketing,0,0,Personal Care,1
+977,Surat,25-34,Returning,11,509.59,11.53,Uncle Ji,1,1,Grocery,0
+978,Surat,25-34,Returning,7,478.32,7.69,Festival Offer,0,0,Snacks,1
+979,Surat,18-24,Returning,6,597.42,6.32,Festival Offer,0,1,Personal Care,0
+980,Pune,18-24,New,4,398.41,8.97,Zepto Pass,0,0,Household,1
+981,Hyderabad,35-44,New,4,132.24,11.01,Referral,0,1,Grocery,0
+982,Surat,18-24,New,8,376.02,9.8,Festival Offer,0,1,Household,0
+983,Hyderabad,45+,Returning,5,661.41,8.69,Zepto Pass,1,1,Personal Care,0
+984,Chennai,35-44,Returning,4,455.82,9.24,Meme Marketing,0,0,Grocery,1
+985,Surat,25-34,Returning,2,318.91,9.6,Festival Offer,0,1,Snacks,1
+986,Delhi,25-34,New,5,580.1,9.02,Influencer,0,0,Personal Care,1
+987,Hyderabad,35-44,Returning,5,521.38,8.36,Uncle Ji,1,0,Household,0
+988,Hyderabad,18-24,New,5,437.64,7.69,Influencer,1,0,Grocery,0
+989,Delhi,18-24,Returning,7,490.22,8.97,Meme Marketing,1,0,Personal Care,1
+990,Surat,18-24,Returning,1,297.93,8.62,Influencer,1,1,Personal Care,1
+991,Delhi,35-44,Returning,3,376.55,8.81,Meme Marketing,0,0,Household,1
+992,Hyderabad,18-24,New,6,412.21,10.37,Meme Marketing,0,1,Household,1
+993,Delhi,25-34,New,3,551.9,8.43,Referral,0,0,Snacks,1
+994,Hyderabad,45+,Returning,9,354.15,8.49,Influencer,1,0,Snacks,0
+995,Hyderabad,35-44,New,3,416.91,9.08,Zepto Pass,1,0,Personal Care,1
+996,Chennai,25-34,New,4,592.92,12.74,Meme Marketing,0,0,Household,0
+997,Mumbai,18-24,New,11,722.92,7.16,Influencer,0,0,Personal Care,1
+998,Hyderabad,35-44,New,1,315.52,10.44,Zepto Pass,1,1,Private Label,1
+999,Surat,25-34,Returning,10,436.79,8.35,Uncle Ji,0,1,Household,1
+1000,Bangalore,18-24,Returning,4,239.05,8.71,Zepto Pass,1,0,Private Label,1
+1001,Pune,18-24,New,10,418.26,6.83,Influencer,1,0,Private Label,1
+1002,Jaipur,45+,Returning,2,385.19,11.62,Influencer,1,0,Household,1
+1003,Mumbai,25-34,Returning,5,570.12,9.13,Zepto Pass,1,1,Snacks,1
+1004,Mumbai,35-44,Returning,5,279.25,9.79,Zepto Pass,0,1,Personal Care,1
+1005,Mumbai,35-44,Returning,8,262.8,6.55,Festival Offer,1,1,Grocery,1
+1006,Chennai,25-34,Returning,4,602.51,7.84,Meme Marketing,1,0,Grocery,1
+1007,Hyderabad,25-34,New,2,344.02,9.42,Influencer,0,0,Household,1
+1008,Chennai,25-34,Returning,6,443.69,8.56,Meme Marketing,1,0,Snacks,1
+1009,Hyderabad,25-34,Returning,7,455.41,9.47,Meme Marketing,1,1,Snacks,1
+1010,Surat,25-34,Returning,6,325.52,11.95,Uncle Ji,0,0,Snacks,0
+1011,Chennai,35-44,Returning,7,325.65,9.56,Influencer,1,1,Grocery,1
+1012,Chennai,25-34,Returning,3,555.23,8.13,Meme Marketing,0,0,Private Label,0
+1013,Pune,35-44,Returning,5,501.25,7.82,Uncle Ji,1,0,Grocery,1
+1014,Bangalore,25-34,New,10,418.12,7.65,Festival Offer,0,0,Snacks,1
+1015,Chennai,25-34,Returning,5,403.58,8.16,Meme Marketing,1,1,Grocery,1
+1016,Pune,25-34,Returning,8,457.99,8.22,Meme Marketing,0,0,Grocery,0
+1017,Delhi,25-34,Returning,6,465.86,8.98,Festival Offer,0,1,Personal Care,1
+1018,Bangalore,35-44,New,8,571.34,9.59,Influencer,1,0,Household,1
+1019,Surat,18-24,Returning,6,417.5,9.45,Zepto Pass,1,0,Private Label,1
+1020,Chennai,25-34,New,5,473.16,9,Festival Offer,1,0,Personal Care,1
+1021,Jaipur,18-24,New,5,506.18,9.1,Zepto Pass,1,1,Household,1
+1022,Mumbai,25-34,Returning,5,508.29,12.6,Influencer,1,0,Snacks,0
+1023,Delhi,25-34,New,5,593.97,7.72,Zepto Pass,1,0,Personal Care,1
+1024,Delhi,25-34,Returning,8,418.49,8.74,Referral,0,0,Household,0
+1025,Surat,45+,New,7,352.1,6.12,Zepto Pass,0,0,Personal Care,1
+1026,Pune,25-34,Returning,4,377.04,8.23,Festival Offer,0,1,Grocery,1
+1027,Delhi,35-44,New,3,496.9,7.45,Meme Marketing,0,0,Grocery,1
+1028,Bangalore,25-34,New,3,407.03,7.71,Meme Marketing,0,1,Personal Care,0
+1029,Chennai,25-34,New,7,694.42,7.02,Uncle Ji,1,1,Personal Care,0
+1030,Chennai,18-24,New,2,421.51,6.77,Festival Offer,1,1,Private Label,1
+1031,Jaipur,18-24,New,9,305.41,8.98,Influencer,1,0,Snacks,1
+1032,Surat,25-34,New,6,458.72,9.87,Uncle Ji,1,0,Grocery,1
+1033,Mumbai,25-34,Returning,9,604.66,7.64,Meme Marketing,1,1,Personal Care,1
+1034,Pune,18-24,New,10,322.11,5.76,Meme Marketing,0,1,Household,1
+1035,Mumbai,18-24,Returning,4,318.65,8.97,Uncle Ji,1,0,Snacks,1
+1036,Delhi,18-24,Returning,5,397.58,9.5,Festival Offer,1,0,Household,0
+1037,Surat,45+,Returning,7,342.49,9.81,Referral,1,1,Snacks,0
+1038,Jaipur,25-34,Returning,4,257.97,7.27,Zepto Pass,1,0,Household,0
+1039,Mumbai,25-34,Returning,5,235.1,7.89,Referral,0,1,Grocery,0
+1040,Bangalore,18-24,New,7,447.89,7.14,Referral,1,0,Personal Care,1
+1041,Chennai,25-34,New,7,505.81,7.69,Referral,0,0,Personal Care,1
+1042,Delhi,18-24,Returning,5,335.86,7.62,Festival Offer,0,0,Private Label,1
+1043,Jaipur,18-24,New,10,411.54,8.04,Referral,1,0,Personal Care,1
+1044,Mumbai,25-34,New,6,442.2,8.42,Zepto Pass,0,0,Grocery,1
+1045,Pune,18-24,New,7,287.37,8.97,Influencer,1,1,Snacks,1
+1046,Bangalore,18-24,New,6,523.06,7.53,Uncle Ji,0,1,Snacks,1
+1047,Bangalore,18-24,New,7,445.43,8.59,Referral,1,1,Personal Care,1
+1048,Mumbai,18-24,Returning,8,482.94,7.44,Referral,1,1,Household,0
+1049,Chennai,18-24,New,5,501.6,6.17,Uncle Ji,1,0,Personal Care,0
+1050,Mumbai,25-34,Returning,5,711.09,9.61,Uncle Ji,0,0,Snacks,1
+1051,Delhi,35-44,New,5,297.05,7.81,Influencer,1,1,Private Label,1
+1052,Mumbai,25-34,New,9,312.87,6.2,Meme Marketing,1,0,Snacks,1
+1053,Bangalore,25-34,Returning,3,621.95,9.64,Influencer,0,0,Household,1
+1054,Jaipur,18-24,New,2,498.27,8.42,Meme Marketing,0,1,Household,1
+1055,Mumbai,45+,Returning,7,428.28,9.48,Festival Offer,0,0,Private Label,0
+1056,Chennai,25-34,Returning,3,362.63,9.43,Zepto Pass,0,1,Household,0
+1057,Surat,18-24,New,3,392.17,7.16,Influencer,0,1,Personal Care,1
+1058,Jaipur,25-34,Returning,5,394.5,10.2,Zepto Pass,1,0,Personal Care,1
+1059,Pune,18-24,New,5,240.6,6.05,Uncle Ji,0,0,Snacks,0
+1060,Hyderabad,25-34,Returning,2,536.78,8.2,Influencer,1,1,Grocery,1
+1061,Mumbai,25-34,New,7,178.72,8.1,Festival Offer,1,0,Personal Care,1
+1062,Chennai,35-44,Returning,5,318.11,7.64,Uncle Ji,1,0,Personal Care,1
+1063,Jaipur,25-34,New,12,368.19,10.64,Festival Offer,0,0,Private Label,0
+1064,Chennai,35-44,Returning,5,677.22,9.25,Festival Offer,1,1,Personal Care,0
+1065,Pune,45+,Returning,6,407.9,6.69,Referral,0,1,Snacks,1
+1066,Bangalore,18-24,Returning,10,457.98,6.9,Uncle Ji,0,1,Private Label,1
+1067,Chennai,18-24,Returning,1,314.7,12.03,Festival Offer,0,1,Personal Care,1
+1068,Jaipur,25-34,Returning,11,524.25,8.08,Referral,1,1,Snacks,1
+1069,Chennai,25-34,Returning,6,774.23,7.61,Meme Marketing,1,0,Private Label,0
+1070,Chennai,25-34,New,5,478.98,10.53,Referral,0,1,Grocery,0
+1071,Chennai,45+,New,7,379.74,6.13,Meme Marketing,1,0,Snacks,0
+1072,Delhi,35-44,New,7,176.19,10.88,Referral,0,0,Personal Care,0
+1073,Delhi,25-34,Returning,5,503.24,7.6,Referral,1,1,Private Label,0
+1074,Bangalore,25-34,Returning,8,301.69,9.57,Zepto Pass,1,0,Grocery,1
+1075,Mumbai,35-44,Returning,6,329.31,8.08,Zepto Pass,0,1,Snacks,1
+1076,Chennai,45+,New,5,531.81,6.44,Uncle Ji,0,0,Grocery,1
+1077,Pune,35-44,Returning,7,363.16,9.07,Festival Offer,1,1,Snacks,1
+1078,Mumbai,18-24,New,3,408.7,10.22,Zepto Pass,1,0,Personal Care,1
+1079,Pune,25-34,New,6,509.97,5.28,Meme Marketing,0,0,Snacks,0
+1080,Mumbai,18-24,Returning,5,335.27,7.07,Zepto Pass,1,0,Personal Care,1
+1081,Bangalore,18-24,Returning,14,265.33,10.66,Uncle Ji,0,0,Snacks,0
+1082,Chennai,18-24,Returning,5,475.72,9.4,Influencer,1,0,Private Label,1
+1083,Chennai,25-34,Returning,13,510.52,9.5,Meme Marketing,0,1,Snacks,0
+1084,Hyderabad,25-34,New,6,350.69,10.2,Influencer,1,1,Snacks,0
+1085,Pune,18-24,Returning,2,344.74,9.5,Meme Marketing,1,0,Household,0
+1086,Mumbai,25-34,New,4,287.99,9.02,Festival Offer,1,0,Household,1
+1087,Mumbai,25-34,Returning,4,505.62,10.47,Festival Offer,1,0,Snacks,1
+1088,Surat,25-34,Returning,5,650.27,8.21,Festival Offer,1,0,Household,0
+1089,Surat,18-24,New,3,531.79,8.78,Uncle Ji,0,1,Personal Care,1
+1090,Delhi,25-34,New,10,409.06,10.04,Zepto Pass,0,0,Household,0
+1091,Hyderabad,35-44,Returning,5,505.97,7.65,Influencer,0,1,Snacks,0
+1092,Jaipur,18-24,Returning,4,320.18,10.94,Influencer,0,0,Grocery,0
+1093,Surat,18-24,Returning,6,464.21,9.24,Zepto Pass,1,1,Grocery,1
+1094,Jaipur,25-34,New,8,289.77,7.08,Uncle Ji,0,1,Snacks,1
+1095,Delhi,45+,New,6,405.34,8.51,Zepto Pass,0,0,Snacks,1
+1096,Delhi,25-34,Returning,7,549.08,6.72,Referral,1,1,Grocery,1
+1097,Delhi,25-34,Returning,3,517.44,8.93,Referral,1,1,Private Label,0
+1098,Pune,25-34,New,10,488.22,8.23,Festival Offer,1,1,Household,1
+1099,Pune,25-34,Returning,7,469.95,7.5,Referral,0,0,Private Label,1
+1100,Bangalore,18-24,New,10,331.67,6.13,Influencer,0,1,Personal Care,1
+1101,Bangalore,25-34,Returning,3,437.1,7.61,Festival Offer,1,1,Grocery,1
+1102,Delhi,45+,Returning,3,513.99,8.53,Influencer,1,0,Grocery,1
+1103,Hyderabad,25-34,Returning,5,390.82,8.24,Uncle Ji,0,0,Private Label,1
+1104,Mumbai,35-44,New,8,395.45,6.67,Meme Marketing,1,0,Personal Care,0
+1105,Pune,35-44,Returning,4,363.57,8.83,Zepto Pass,1,0,Private Label,0
+1106,Hyderabad,18-24,New,11,385.81,7.32,Meme Marketing,1,1,Personal Care,0
+1107,Chennai,45+,New,4,327.2,10.18,Influencer,1,0,Snacks,1
+1108,Pune,18-24,Returning,11,422.89,10.4,Zepto Pass,1,1,Snacks,0
+1109,Pune,25-34,Returning,2,381.57,8.41,Influencer,1,0,Grocery,1
+1110,Bangalore,18-24,Returning,4,243.09,11.16,Uncle Ji,1,0,Snacks,1
+1111,Mumbai,18-24,Returning,3,732.11,8.59,Festival Offer,1,1,Private Label,1
+1112,Mumbai,25-34,Returning,2,295.51,6.85,Zepto Pass,1,0,Personal Care,1
+1113,Surat,18-24,New,8,403.84,10.58,Influencer,1,1,Grocery,0
+1114,Jaipur,25-34,New,3,427.34,11.22,Referral,1,1,Snacks,0
+1115,Jaipur,25-34,New,11,355.82,10.29,Referral,1,1,Grocery,0
+1116,Jaipur,18-24,Returning,4,409.23,7.65,Influencer,1,1,Grocery,1
+1117,Jaipur,18-24,Returning,6,321.77,6.95,Meme Marketing,1,1,Personal Care,1
+1118,Chennai,25-34,New,3,507.26,8.27,Festival Offer,1,1,Private Label,0
+1119,Chennai,25-34,Returning,7,417.33,12.51,Uncle Ji,1,0,Private Label,1
+1120,Pune,35-44,Returning,3,506.21,7.03,Uncle Ji,0,1,Household,1
+1121,Delhi,25-34,Returning,3,596.39,10.03,Influencer,1,1,Private Label,0
+1122,Bangalore,35-44,New,5,386.25,8.66,Uncle Ji,1,0,Snacks,1
+1123,Bangalore,25-34,New,13,512.81,10.22,Zepto Pass,1,0,Household,0
+1124,Jaipur,25-34,New,6,604.36,6.91,Uncle Ji,1,1,Household,1
+1125,Pune,25-34,New,5,405.18,8.43,Referral,0,1,Household,1
+1126,Surat,18-24,Returning,7,502.93,7.45,Influencer,1,0,Household,0
+1127,Hyderabad,25-34,Returning,13,364.17,7.54,Zepto Pass,1,1,Private Label,0
+1128,Delhi,35-44,Returning,6,563.67,9.9,Uncle Ji,1,1,Household,0
+1129,Pune,25-34,Returning,6,360.02,7.12,Referral,0,1,Snacks,1
+1130,Delhi,35-44,Returning,2,504.37,9.23,Festival Offer,1,0,Snacks,1
+1131,Delhi,35-44,New,7,539.41,8.88,Meme Marketing,1,0,Grocery,1
+1132,Delhi,35-44,Returning,3,278.52,7.37,Uncle Ji,1,1,Snacks,1
+1133,Pune,45+,Returning,5,339.99,7.69,Referral,1,1,Grocery,1
+1134,Jaipur,25-34,New,9,335.14,9.3,Festival Offer,0,0,Snacks,1
+1135,Bangalore,25-34,New,5,549.59,8.76,Festival Offer,1,0,Household,0
+1136,Bangalore,25-34,Returning,6,278.96,8.86,Referral,1,0,Personal Care,0
+1137,Jaipur,25-34,New,3,459.08,8.45,Referral,1,0,Household,0
+1138,Delhi,25-34,Returning,6,507.18,8.35,Referral,1,1,Private Label,1
+1139,Hyderabad,35-44,New,7,440.33,8.77,Meme Marketing,1,1,Grocery,1
+1140,Mumbai,25-34,Returning,5,572.97,10.96,Influencer,1,1,Personal Care,0
+1141,Pune,25-34,New,5,189.05,9.59,Referral,1,0,Snacks,1
+1142,Mumbai,18-24,New,4,492.95,8.6,Influencer,1,0,Household,0
+1143,Surat,25-34,Returning,12,398.19,7.18,Festival Offer,1,0,Grocery,0
+1144,Jaipur,18-24,New,5,239.38,8.17,Meme Marketing,1,1,Grocery,1
+1145,Hyderabad,35-44,Returning,3,290.27,7.42,Festival Offer,1,0,Snacks,1
+1146,Pune,25-34,New,7,607.81,7.61,Meme Marketing,1,1,Grocery,1
+1147,Jaipur,18-24,New,1,495.87,5.99,Festival Offer,1,0,Snacks,1
+1148,Delhi,18-24,New,3,516.23,8.78,Zepto Pass,0,0,Snacks,0
+1149,Bangalore,25-34,New,12,535.08,11.9,Zepto Pass,0,0,Household,1
+1150,Mumbai,25-34,Returning,4,257.18,9.09,Referral,1,1,Grocery,1
+1151,Chennai,25-34,New,8,449.49,9.89,Influencer,1,0,Private Label,1
+1152,Chennai,18-24,Returning,7,551.81,10.24,Festival Offer,0,0,Private Label,1
+1153,Hyderabad,25-34,New,6,371.69,8.37,Meme Marketing,1,1,Household,0
+1154,Delhi,25-34,New,8,583.49,8.47,Uncle Ji,1,1,Household,1
+1155,Surat,25-34,Returning,7,346.49,6.7,Zepto Pass,1,0,Snacks,1
+1156,Mumbai,25-34,New,5,434.97,9.1,Zepto Pass,1,0,Private Label,1
+1157,Delhi,25-34,Returning,5,467.7,8.88,Festival Offer,0,0,Grocery,1
+1158,Mumbai,18-24,New,4,510.55,7.52,Uncle Ji,1,1,Private Label,1
+1159,Hyderabad,45+,Returning,7,385.47,10.52,Influencer,0,1,Household,0
+1160,Hyderabad,25-34,Returning,3,541.45,7.64,Influencer,1,0,Household,1
+1161,Surat,25-34,Returning,6,471.36,13.07,Influencer,1,1,Snacks,1
+1162,Chennai,18-24,Returning,3,223.34,9.41,Referral,1,0,Grocery,1
+1163,Delhi,25-34,Returning,6,640.39,8.77,Referral,1,0,Household,1
+1164,Pune,18-24,New,6,305.06,11.71,Festival Offer,0,1,Grocery,1
+1165,Chennai,25-34,New,4,650.28,5.38,Uncle Ji,0,0,Private Label,0
+1166,Delhi,45+,Returning,4,401.08,8.37,Festival Offer,1,1,Snacks,1
+1167,Chennai,25-34,New,13,378.73,8.15,Meme Marketing,1,1,Private Label,1
+1168,Pune,18-24,Returning,9,467.91,8.53,Uncle Ji,1,0,Household,0
+1169,Bangalore,18-24,Returning,9,336.17,9.14,Meme Marketing,0,0,Household,1
+1170,Bangalore,25-34,New,2,193.69,8.48,Uncle Ji,0,0,Grocery,1
+1171,Surat,18-24,Returning,6,406.88,10.9,Referral,1,1,Household,0
+1172,Bangalore,18-24,Returning,2,465.01,9.45,Influencer,1,0,Grocery,1
+1173,Bangalore,35-44,Returning,3,604.53,9.53,Zepto Pass,0,0,Personal Care,1
+1174,Jaipur,25-34,Returning,10,277.04,9.49,Uncle Ji,1,0,Household,1
+1175,Mumbai,18-24,New,7,489.63,6.87,Uncle Ji,0,1,Private Label,1
+1176,Jaipur,45+,New,3,407.53,9.1,Zepto Pass,1,0,Private Label,1
+1177,Jaipur,18-24,Returning,7,423.97,9.15,Uncle Ji,0,0,Grocery,0
+1178,Surat,45+,New,6,536.65,7.11,Influencer,1,1,Personal Care,0
+1179,Jaipur,25-34,Returning,9,358.63,10.13,Festival Offer,0,0,Household,0
+1180,Bangalore,35-44,Returning,7,440.1,5.74,Zepto Pass,1,0,Snacks,1
+1181,Pune,25-34,Returning,5,550.79,12.58,Zepto Pass,1,1,Snacks,0
+1182,Surat,35-44,New,9,543.55,8.74,Influencer,0,1,Private Label,1
+1183,Surat,45+,Returning,3,273.57,7.52,Influencer,1,0,Household,0
+1184,Hyderabad,18-24,Returning,3,346.45,9.73,Zepto Pass,0,0,Snacks,1
+1185,Surat,45+,Returning,6,402.75,9.74,Influencer,0,0,Grocery,0
+1186,Hyderabad,25-34,Returning,8,517.67,11.87,Festival Offer,1,0,Household,0
+1187,Surat,25-34,Returning,5,389.86,11.47,Influencer,1,1,Private Label,1
+1188,Mumbai,25-34,Returning,6,429.93,6.81,Festival Offer,1,1,Personal Care,1
+1189,Bangalore,25-34,Returning,9,570.04,8.39,Influencer,1,1,Grocery,1
+1190,Surat,18-24,Returning,6,379.36,7.44,Zepto Pass,1,0,Grocery,1
+1191,Bangalore,25-34,New,6,596.78,9.91,Uncle Ji,1,1,Household,1
+1192,Bangalore,25-34,Returning,5,227.35,10.92,Meme Marketing,1,0,Personal Care,1
+1193,Chennai,35-44,Returning,8,372.87,6.83,Zepto Pass,0,1,Grocery,0
+1194,Surat,35-44,Returning,5,256.18,8.71,Meme Marketing,0,0,Personal Care,1
+1195,Delhi,25-34,Returning,4,434,7.85,Influencer,1,1,Private Label,0
+1196,Chennai,25-34,Returning,10,510.12,10.07,Influencer,1,0,Grocery,1
+1197,Delhi,18-24,Returning,4,400.65,9.41,Uncle Ji,0,0,Snacks,1
+1198,Bangalore,18-24,Returning,7,363.07,10.56,Influencer,1,1,Private Label,0
+1199,Bangalore,18-24,Returning,11,256.85,8.17,Meme Marketing,0,0,Private Label,1
+1200,Chennai,25-34,Returning,8,621.76,8.63,Zepto Pass,0,1,Grocery,0
+1201,Chennai,18-24,Returning,10,417.31,9.39,Zepto Pass,1,1,Snacks,0
+1202,Delhi,45+,New,7,365.74,8.39,Festival Offer,1,1,Personal Care,1
+1203,Hyderabad,25-34,Returning,7,607.5,9.25,Uncle Ji,1,1,Snacks,1
+1204,Delhi,25-34,Returning,12,377.75,10.71,Meme Marketing,0,0,Private Label,0
+1205,Chennai,25-34,Returning,11,310.76,12,Influencer,1,0,Grocery,1
+1206,Pune,18-24,Returning,5,334.77,8.07,Referral,0,1,Snacks,1
+1207,Chennai,25-34,Returning,6,317.13,12.02,Uncle Ji,1,0,Snacks,0
+1208,Pune,25-34,Returning,5,292.08,8.05,Uncle Ji,1,1,Private Label,1
+1209,Mumbai,25-34,New,7,336.79,10.1,Referral,1,0,Personal Care,1
+1210,Chennai,25-34,Returning,6,709.79,8.06,Zepto Pass,1,0,Snacks,1
+1211,Mumbai,45+,Returning,4,282.02,7.26,Festival Offer,1,0,Snacks,0
+1212,Hyderabad,35-44,New,7,240.94,10.63,Zepto Pass,0,1,Household,1
+1213,Delhi,25-34,New,4,453.36,8.73,Zepto Pass,0,0,Private Label,1
+1214,Pune,25-34,Returning,6,410.88,10.73,Referral,0,0,Household,1
+1215,Delhi,25-34,Returning,9,499.2,9.93,Influencer,0,0,Private Label,0
+1216,Mumbai,18-24,New,3,353.51,9.42,Influencer,1,0,Private Label,0
+1217,Pune,25-34,Returning,8,315.78,9.63,Festival Offer,0,0,Household,0
+1218,Delhi,18-24,Returning,6,620.85,10.43,Festival Offer,1,0,Personal Care,1
+1219,Chennai,25-34,Returning,7,226.6,10.19,Meme Marketing,1,1,Personal Care,0
+1220,Bangalore,25-34,Returning,5,463.27,8.19,Meme Marketing,1,0,Private Label,1
+1221,Mumbai,18-24,Returning,6,502.84,9.43,Zepto Pass,1,0,Household,0
+1222,Delhi,45+,Returning,4,518.6,11.05,Referral,1,1,Snacks,1
+1223,Mumbai,45+,Returning,10,383.59,8.87,Festival Offer,0,0,Private Label,0
+1224,Jaipur,35-44,Returning,8,270.21,8.06,Uncle Ji,1,1,Private Label,1
+1225,Mumbai,25-34,New,6,599.94,7.87,Influencer,0,0,Grocery,1
+1226,Pune,35-44,Returning,8,366.53,10.07,Referral,1,0,Personal Care,1
+1227,Jaipur,18-24,New,4,603.6,8.44,Festival Offer,0,0,Household,1
+1228,Surat,35-44,New,2,464.17,9.34,Meme Marketing,0,0,Snacks,1
+1229,Pune,18-24,New,4,361.93,8.37,Festival Offer,1,1,Snacks,0
+1230,Bangalore,35-44,New,11,467.21,10.56,Influencer,1,0,Private Label,0
+1231,Jaipur,18-24,Returning,6,558.1,9.03,Festival Offer,1,1,Snacks,1
+1232,Surat,35-44,New,10,429.85,10.94,Influencer,0,0,Snacks,0
+1233,Chennai,45+,Returning,8,331.49,10.89,Referral,0,0,Private Label,0
+1234,Mumbai,18-24,Returning,5,205.49,8.67,Festival Offer,0,1,Personal Care,0
+1235,Delhi,25-34,Returning,6,369.09,10.8,Festival Offer,1,1,Grocery,1
+1236,Hyderabad,45+,New,4,516.92,8.29,Meme Marketing,1,0,Personal Care,1
+1237,Mumbai,25-34,Returning,8,298.76,9.2,Referral,1,0,Personal Care,0
+1238,Surat,35-44,Returning,3,501.74,7.63,Uncle Ji,1,1,Grocery,0
+1239,Mumbai,25-34,Returning,1,423.38,9.69,Influencer,1,1,Private Label,1
+1240,Bangalore,25-34,Returning,3,509.46,9.25,Referral,1,0,Personal Care,1
+1241,Chennai,18-24,Returning,5,139.29,9.57,Referral,0,1,Household,1
+1242,Hyderabad,18-24,Returning,5,249.56,6.76,Uncle Ji,1,0,Household,1
+1243,Jaipur,35-44,New,9,364.49,5.82,Referral,1,1,Grocery,1
+1244,Jaipur,25-34,Returning,5,643.95,7.1,Influencer,0,1,Household,1
+1245,Jaipur,25-34,New,7,329.49,9.55,Zepto Pass,1,1,Private Label,1
+1246,Surat,25-34,Returning,5,404.79,9.81,Zepto Pass,0,1,Snacks,1
+1247,Pune,25-34,New,5,678.09,10.49,Meme Marketing,0,0,Private Label,0
+1248,Pune,35-44,New,9,471.44,8.19,Uncle Ji,1,0,Grocery,1
+1249,Delhi,45+,Returning,7,523.16,9.11,Meme Marketing,0,0,Snacks,1
+1250,Hyderabad,25-34,Returning,5,342.92,7.75,Zepto Pass,0,0,Household,1
+1251,Jaipur,35-44,Returning,8,561.48,10.85,Uncle Ji,1,0,Personal Care,0
+1252,Pune,35-44,Returning,12,579.77,7.74,Referral,1,1,Household,1
+1253,Surat,25-34,Returning,5,480.19,10.57,Referral,0,0,Private Label,1
+1254,Delhi,45+,New,3,409.68,8.42,Influencer,0,0,Private Label,1
+1255,Chennai,18-24,Returning,4,487.13,11.16,Festival Offer,1,0,Grocery,0
+1256,Delhi,18-24,New,10,224.92,9.07,Zepto Pass,1,1,Personal Care,1
+1257,Pune,35-44,Returning,6,550.64,9.04,Referral,1,0,Personal Care,1
+1258,Bangalore,25-34,Returning,7,318.11,7.67,Uncle Ji,0,0,Snacks,1
+1259,Surat,35-44,New,4,386.57,12.05,Festival Offer,0,1,Snacks,0
+1260,Bangalore,35-44,Returning,8,578.11,10.29,Festival Offer,0,1,Private Label,1
+1261,Jaipur,18-24,New,5,551.71,9.57,Referral,1,1,Grocery,1
+1262,Bangalore,35-44,Returning,2,225.46,9.16,Meme Marketing,1,1,Private Label,1
+1263,Jaipur,25-34,Returning,3,306.32,7.81,Meme Marketing,1,0,Personal Care,0
+1264,Jaipur,25-34,Returning,3,496.81,9.81,Meme Marketing,1,1,Personal Care,1
+1265,Pune,25-34,New,6,211.27,8.7,Festival Offer,1,0,Private Label,1
+1266,Bangalore,45+,New,2,590.32,8.89,Meme Marketing,1,0,Personal Care,1
+1267,Jaipur,18-24,New,5,434.15,10.14,Meme Marketing,0,0,Snacks,1
+1268,Hyderabad,25-34,New,4,589.55,9.23,Festival Offer,0,0,Personal Care,1
+1269,Chennai,25-34,Returning,6,330.61,8.83,Influencer,0,0,Snacks,0
+1270,Delhi,35-44,Returning,4,341.26,10.95,Meme Marketing,0,0,Household,1
+1271,Delhi,25-34,Returning,5,544.1,7.57,Influencer,1,1,Grocery,1
+1272,Pune,18-24,Returning,5,384.44,6.32,Influencer,0,0,Grocery,1
+1273,Bangalore,18-24,Returning,6,271.09,7.61,Referral,1,1,Personal Care,0
+1274,Bangalore,25-34,Returning,3,487.38,9.03,Festival Offer,0,0,Grocery,1
+1275,Jaipur,35-44,Returning,8,228.92,9.84,Uncle Ji,0,1,Household,0
+1276,Surat,18-24,Returning,2,593.06,7.68,Meme Marketing,0,0,Personal Care,1
+1277,Mumbai,18-24,New,12,442.11,14.33,Uncle Ji,0,1,Snacks,0
+1278,Jaipur,45+,New,8,313.24,9.07,Zepto Pass,1,1,Household,0
+1279,Chennai,18-24,Returning,6,557.42,9.03,Influencer,1,1,Household,1
+1280,Hyderabad,45+,New,4,559.53,6.87,Zepto Pass,1,0,Grocery,1
+1281,Delhi,25-34,New,6,420.45,6.64,Influencer,1,0,Snacks,1
+1282,Jaipur,35-44,Returning,3,693.05,6.13,Meme Marketing,0,0,Private Label,1
+1283,Mumbai,18-24,Returning,4,690.28,10.86,Zepto Pass,1,0,Household,1
+1284,Mumbai,18-24,Returning,5,458.8,10.62,Festival Offer,0,0,Grocery,0
+1285,Jaipur,35-44,New,6,547.85,8.8,Referral,1,1,Household,0
+1286,Pune,35-44,Returning,8,577.06,6.98,Zepto Pass,1,0,Snacks,1
+1287,Delhi,35-44,Returning,4,283.81,8.38,Influencer,0,0,Snacks,1
+1288,Pune,18-24,Returning,5,454.41,10.93,Festival Offer,1,0,Personal Care,1
+1289,Hyderabad,35-44,Returning,5,338.18,8.04,Influencer,1,0,Private Label,1
+1290,Mumbai,35-44,Returning,7,321.25,7.45,Uncle Ji,0,1,Private Label,1
+1291,Mumbai,25-34,Returning,5,434.59,8.23,Zepto Pass,0,1,Grocery,0
+1292,Chennai,35-44,Returning,7,443.61,8.36,Referral,0,0,Private Label,1
+1293,Hyderabad,35-44,New,4,226.56,9.91,Meme Marketing,1,0,Snacks,1
+1294,Mumbai,25-34,Returning,12,461.25,5.49,Uncle Ji,0,1,Private Label,1
+1295,Hyderabad,18-24,Returning,3,389.89,9.05,Zepto Pass,1,0,Grocery,1
+1296,Delhi,25-34,Returning,1,587.75,7.75,Uncle Ji,1,1,Household,1
+1297,Bangalore,18-24,Returning,10,559.53,8,Zepto Pass,1,1,Private Label,0
+1298,Mumbai,25-34,Returning,14,317.28,9.93,Meme Marketing,0,0,Private Label,0
+1299,Chennai,25-34,New,6,577.53,6.85,Meme Marketing,1,0,Snacks,1
+1300,Delhi,18-24,Returning,5,484.31,9.07,Referral,0,0,Snacks,1
+1301,Jaipur,25-34,New,3,393.81,9.52,Uncle Ji,1,1,Household,0
+1302,Hyderabad,18-24,Returning,3,358.54,9.67,Referral,1,0,Personal Care,0
+1303,Jaipur,35-44,New,7,282.28,9.86,Zepto Pass,1,0,Private Label,0
+1304,Pune,45+,New,6,273.84,9.66,Meme Marketing,1,1,Snacks,0
+1305,Delhi,18-24,Returning,5,200.74,9.88,Meme Marketing,1,1,Personal Care,0
+1306,Jaipur,45+,Returning,4,422.51,7.48,Influencer,0,0,Private Label,0
+1307,Surat,25-34,Returning,6,172.79,10.85,Influencer,1,0,Private Label,0
+1308,Surat,18-24,New,10,316.02,7.02,Referral,0,1,Personal Care,1
+1309,Mumbai,18-24,Returning,3,498.82,9.36,Uncle Ji,0,0,Snacks,1
+1310,Hyderabad,25-34,New,2,599.19,7.78,Zepto Pass,0,0,Household,0
+1311,Bangalore,35-44,Returning,5,282.19,6.22,Referral,1,1,Private Label,1
+1312,Delhi,35-44,Returning,7,493.15,7.94,Meme Marketing,1,0,Grocery,0
+1313,Mumbai,18-24,Returning,7,382.84,8.62,Meme Marketing,1,0,Grocery,1
+1314,Chennai,18-24,New,10,358.06,10.88,Meme Marketing,1,0,Grocery,1
+1315,Pune,25-34,Returning,7,438.56,11.53,Zepto Pass,1,0,Household,0
+1316,Hyderabad,18-24,New,8,341.42,8.61,Referral,1,1,Private Label,0
+1317,Delhi,18-24,Returning,8,409.9,6.72,Zepto Pass,0,1,Snacks,1
+1318,Surat,18-24,New,7,428.51,6.84,Festival Offer,1,1,Snacks,0
+1319,Delhi,35-44,Returning,3,559.27,9.96,Meme Marketing,1,1,Household,0
+1320,Bangalore,45+,New,7,585.3,9.86,Influencer,1,1,Private Label,1
+1321,Surat,25-34,Returning,6,348.17,7.89,Referral,0,0,Personal Care,0
+1322,Bangalore,45+,Returning,5,387.61,7.04,Influencer,0,0,Personal Care,1
+1323,Chennai,25-34,Returning,9,516.51,10.29,Referral,1,1,Private Label,1
+1324,Pune,25-34,New,4,398.28,6.96,Meme Marketing,0,0,Private Label,1
+1325,Chennai,18-24,Returning,9,505.72,8.13,Influencer,1,0,Snacks,1
+1326,Mumbai,25-34,Returning,5,528.26,9.51,Influencer,0,0,Household,1
+1327,Mumbai,45+,Returning,5,542.3,5.8,Referral,0,0,Household,0
+1328,Chennai,25-34,New,9,430.53,10.23,Festival Offer,0,0,Snacks,1
+1329,Pune,25-34,Returning,7,280.38,12.37,Festival Offer,1,1,Grocery,1
+1330,Chennai,25-34,Returning,4,399.85,8.97,Influencer,1,0,Personal Care,1
+1331,Pune,18-24,New,9,359.13,8.75,Influencer,0,1,Private Label,1
+1332,Pune,35-44,New,6,513.26,8.87,Meme Marketing,0,0,Personal Care,1
+1333,Jaipur,25-34,Returning,4,603.06,9.14,Referral,1,0,Personal Care,1
+1334,Surat,25-34,New,5,606.44,7.71,Referral,0,0,Household,0
+1335,Hyderabad,25-34,New,4,526.26,7.11,Uncle Ji,1,0,Snacks,0
+1336,Pune,25-34,Returning,10,307.83,8.27,Referral,0,1,Grocery,1
+1337,Bangalore,18-24,Returning,5,588.38,9.03,Meme Marketing,1,0,Grocery,0
+1338,Pune,25-34,New,7,471.18,7.3,Influencer,1,0,Snacks,0
+1339,Pune,18-24,Returning,6,321.03,6.78,Uncle Ji,1,0,Personal Care,1
+1340,Pune,35-44,New,3,523.43,8.14,Influencer,1,0,Snacks,1
+1341,Jaipur,35-44,New,6,393.47,6.8,Referral,0,0,Snacks,1
+1342,Surat,35-44,New,8,186.06,9.81,Zepto Pass,0,0,Private Label,0
+1343,Jaipur,25-34,Returning,9,302.37,3.64,Influencer,1,0,Private Label,0
+1344,Mumbai,25-34,New,13,412.16,7.05,Festival Offer,1,1,Personal Care,0
+1345,Jaipur,18-24,New,5,407.43,10.92,Referral,0,1,Household,1
+1346,Bangalore,35-44,Returning,7,292.21,8.47,Festival Offer,1,0,Grocery,1
+1347,Bangalore,18-24,Returning,6,510.13,9.08,Meme Marketing,1,1,Private Label,1
+1348,Jaipur,25-34,New,7,482.37,8.61,Festival Offer,1,1,Personal Care,0
+1349,Surat,18-24,Returning,4,247.71,7.86,Referral,0,1,Snacks,0
+1350,Chennai,18-24,New,5,736.01,10.44,Uncle Ji,1,0,Private Label,1
+1351,Hyderabad,25-34,Returning,10,274.25,7.94,Festival Offer,0,0,Snacks,0
+1352,Surat,18-24,Returning,1,365.07,7.56,Zepto Pass,1,0,Snacks,1
+1353,Jaipur,35-44,Returning,7,465.05,9.79,Zepto Pass,0,0,Private Label,0
+1354,Pune,25-34,New,7,365.45,5.9,Zepto Pass,1,0,Personal Care,0
+1355,Delhi,18-24,New,4,594.51,8.37,Festival Offer,0,0,Grocery,0
+1356,Hyderabad,25-34,New,3,398.97,8.02,Meme Marketing,0,1,Personal Care,1
+1357,Hyderabad,18-24,Returning,4,309.39,8.34,Zepto Pass,0,0,Household,0
+1358,Bangalore,18-24,New,1,493.74,8.07,Influencer,0,0,Household,1
+1359,Hyderabad,35-44,Returning,5,120,9.36,Meme Marketing,1,1,Grocery,1
+1360,Jaipur,18-24,Returning,4,484.06,10.45,Referral,0,1,Household,1
+1361,Pune,35-44,Returning,9,574.79,9.49,Uncle Ji,1,0,Snacks,1
+1362,Pune,18-24,Returning,8,143.2,8.29,Meme Marketing,1,0,Household,1
+1363,Mumbai,18-24,Returning,4,371.52,9.75,Uncle Ji,1,0,Private Label,1
+1364,Pune,35-44,Returning,8,222.46,9.92,Meme Marketing,0,1,Snacks,1
+1365,Surat,25-34,New,1,421.58,9.34,Referral,1,0,Personal Care,1
+1366,Pune,18-24,Returning,3,689.22,10.37,Uncle Ji,0,0,Grocery,0
+1367,Bangalore,25-34,Returning,6,447.51,5.28,Meme Marketing,1,0,Private Label,0
+1368,Pune,18-24,Returning,8,393.77,8.84,Uncle Ji,0,1,Private Label,1
+1369,Mumbai,35-44,Returning,6,120,9.26,Zepto Pass,1,1,Grocery,1
+1370,Delhi,25-34,New,7,287.27,6.58,Zepto Pass,0,0,Household,1
+1371,Jaipur,35-44,New,5,404.04,9.13,Festival Offer,1,0,Grocery,1
+1372,Bangalore,35-44,Returning,4,431.18,10.17,Zepto Pass,0,1,Grocery,1
+1373,Surat,25-34,New,4,461.17,8.46,Influencer,0,1,Household,1
+1374,Delhi,45+,Returning,7,512.17,9.78,Zepto Pass,1,1,Personal Care,1
+1375,Bangalore,25-34,Returning,4,311.32,10.33,Zepto Pass,1,1,Grocery,1
+1376,Chennai,45+,Returning,4,424.81,10.81,Referral,1,0,Household,0
+1377,Hyderabad,18-24,Returning,8,360.44,10.54,Uncle Ji,0,0,Private Label,0
+1378,Chennai,25-34,New,6,307.4,10.85,Uncle Ji,1,0,Grocery,1
+1379,Pune,25-34,New,6,315.38,8.05,Zepto Pass,1,0,Grocery,1
+1380,Delhi,25-34,Returning,5,484.9,8.21,Uncle Ji,0,0,Personal Care,1
+1381,Pune,25-34,Returning,6,120,5.09,Meme Marketing,0,0,Personal Care,1
+1382,Hyderabad,35-44,Returning,6,197.39,7.2,Festival Offer,1,0,Private Label,1
+1383,Bangalore,18-24,New,4,800.06,10.63,Zepto Pass,1,0,Personal Care,1
+1384,Hyderabad,18-24,New,2,340.26,7.89,Festival Offer,1,1,Private Label,0
+1385,Mumbai,35-44,Returning,6,596.26,9.4,Zepto Pass,1,0,Grocery,1
+1386,Hyderabad,25-34,Returning,6,412.24,9.16,Influencer,0,0,Household,0
+1387,Mumbai,45+,Returning,4,352.61,10.66,Festival Offer,1,0,Personal Care,1
+1388,Hyderabad,35-44,New,4,498.86,5.77,Meme Marketing,1,1,Private Label,1
+1389,Jaipur,45+,Returning,4,429.67,9.33,Zepto Pass,1,1,Personal Care,0
+1390,Mumbai,35-44,Returning,8,398.51,9.3,Zepto Pass,1,0,Personal Care,1
+1391,Delhi,18-24,Returning,5,414.72,7.51,Uncle Ji,1,0,Snacks,1
+1392,Pune,18-24,New,5,467.28,10.24,Zepto Pass,0,1,Grocery,0
+1393,Surat,35-44,Returning,4,337.42,6.7,Festival Offer,0,0,Personal Care,1
+1394,Pune,25-34,Returning,5,362.18,10.4,Festival Offer,0,1,Household,1
+1395,Chennai,18-24,Returning,5,302.7,5.57,Zepto Pass,1,0,Snacks,1
+1396,Pune,25-34,Returning,6,275.11,7.44,Zepto Pass,0,0,Private Label,1
+1397,Bangalore,45+,Returning,7,642.01,8.59,Zepto Pass,1,1,Private Label,1
+1398,Jaipur,25-34,Returning,8,311.25,9.13,Influencer,0,0,Household,1
+1399,Hyderabad,25-34,Returning,8,539.83,6,Meme Marketing,0,0,Household,1
+1400,Chennai,25-34,New,12,377.3,10.36,Festival Offer,1,0,Grocery,0
+1401,Bangalore,18-24,New,4,484.86,9.93,Influencer,1,1,Household,0
+1402,Bangalore,25-34,New,2,419.77,11.65,Uncle Ji,0,0,Private Label,0
+1403,Mumbai,25-34,Returning,4,205.05,9.85,Referral,1,0,Grocery,1
+1404,Pune,18-24,Returning,3,423.47,7.7,Zepto Pass,1,0,Household,0
+1405,Delhi,35-44,Returning,11,492.69,7.19,Festival Offer,0,1,Household,1
+1406,Surat,25-34,New,8,305.4,8.17,Uncle Ji,0,0,Private Label,1
+1407,Delhi,35-44,New,8,698.61,12.07,Festival Offer,1,0,Grocery,1
+1408,Chennai,35-44,Returning,6,517.46,8.87,Referral,0,1,Snacks,1
+1409,Jaipur,18-24,Returning,11,518.52,8.94,Zepto Pass,1,1,Snacks,0
+1410,Delhi,25-34,New,3,531.26,10.87,Festival Offer,1,1,Grocery,1
+1411,Hyderabad,25-34,Returning,3,139.92,7.05,Zepto Pass,0,0,Household,0
+1412,Delhi,35-44,New,2,504.58,9.61,Referral,0,1,Household,0
+1413,Chennai,18-24,New,6,693.13,9.57,Influencer,0,0,Grocery,1
+1414,Surat,25-34,Returning,4,511.13,10.24,Referral,1,0,Snacks,1
+1415,Delhi,25-34,New,14,388.46,10.08,Referral,1,1,Personal Care,0
+1416,Hyderabad,18-24,Returning,5,286.16,8.71,Festival Offer,1,0,Private Label,0
+1417,Mumbai,18-24,New,5,274.58,6.73,Meme Marketing,0,1,Grocery,1
+1418,Jaipur,25-34,New,8,260.17,7.95,Zepto Pass,0,1,Personal Care,0
+1419,Chennai,35-44,New,8,371.95,10.06,Festival Offer,0,1,Private Label,0
+1420,Mumbai,25-34,Returning,7,291.82,11.58,Zepto Pass,0,0,Personal Care,1
+1421,Mumbai,25-34,Returning,6,401.76,6.97,Influencer,1,1,Personal Care,1
+1422,Mumbai,25-34,Returning,10,444.47,6.87,Influencer,1,0,Private Label,1
+1423,Bangalore,35-44,New,4,213.62,6.44,Meme Marketing,1,0,Personal Care,1
+1424,Jaipur,18-24,New,9,328.19,7.65,Meme Marketing,1,0,Snacks,0
+1425,Surat,35-44,Returning,8,350.51,10.22,Meme Marketing,0,0,Grocery,1
+1426,Pune,18-24,Returning,6,347.13,10.77,Influencer,0,1,Snacks,1
+1427,Jaipur,25-34,Returning,6,422.15,5.68,Referral,0,0,Snacks,1
+1428,Bangalore,18-24,New,10,434.97,6.99,Festival Offer,0,1,Private Label,1
+1429,Pune,18-24,Returning,8,369.09,6.71,Zepto Pass,1,1,Private Label,1
+1430,Jaipur,25-34,Returning,9,339.3,7.5,Zepto Pass,0,0,Private Label,0
+1431,Mumbai,18-24,Returning,4,417.53,8.47,Festival Offer,1,1,Personal Care,1
+1432,Chennai,35-44,Returning,4,593.08,8.2,Uncle Ji,1,1,Personal Care,1
+1433,Pune,18-24,New,8,245.35,9.57,Influencer,0,1,Grocery,1
+1434,Hyderabad,25-34,Returning,6,555.8,5.91,Influencer,1,0,Personal Care,1
+1435,Hyderabad,25-34,Returning,4,223.96,8.02,Meme Marketing,1,0,Grocery,0
+1436,Delhi,18-24,Returning,4,463.42,10.85,Festival Offer,0,0,Snacks,0
+1437,Pune,18-24,Returning,6,545.95,10.91,Uncle Ji,1,0,Grocery,0
+1438,Chennai,25-34,Returning,10,261.18,11.3,Uncle Ji,0,0,Grocery,0
+1439,Surat,25-34,Returning,6,462.09,9.39,Influencer,1,1,Private Label,0
+1440,Bangalore,25-34,New,5,294.45,7.82,Meme Marketing,0,0,Personal Care,1
+1441,Mumbai,25-34,New,2,560.44,9.06,Zepto Pass,0,1,Household,1
+1442,Delhi,25-34,Returning,8,227.99,12.59,Meme Marketing,1,1,Household,1
+1443,Hyderabad,18-24,Returning,6,312.9,8,Zepto Pass,1,0,Private Label,0
+1444,Bangalore,25-34,Returning,5,435.77,11.55,Influencer,0,0,Snacks,1
+1445,Bangalore,45+,New,10,505.38,5.14,Meme Marketing,0,1,Snacks,1
+1446,Mumbai,25-34,Returning,2,431.13,9.66,Uncle Ji,1,1,Snacks,1
+1447,Surat,25-34,Returning,10,479.42,9.77,Festival Offer,0,1,Grocery,0
+1448,Surat,25-34,New,1,354.09,9.36,Referral,1,0,Personal Care,1
+1449,Pune,35-44,Returning,6,289.07,9.46,Uncle Ji,1,0,Snacks,1
+1450,Hyderabad,35-44,New,4,595.75,9.58,Festival Offer,1,1,Household,1
+1451,Surat,25-34,New,7,479.85,9.65,Zepto Pass,1,0,Grocery,0
+1452,Chennai,45+,Returning,3,361.47,8.3,Influencer,1,1,Snacks,0
+1453,Surat,18-24,Returning,4,221.55,8.39,Meme Marketing,1,0,Snacks,0
+1454,Bangalore,18-24,Returning,5,566.78,6.76,Influencer,1,1,Personal Care,1
+1455,Mumbai,35-44,Returning,5,571.72,9.9,Influencer,0,0,Personal Care,1
+1456,Chennai,35-44,Returning,4,393.9,10.75,Zepto Pass,1,1,Grocery,1
+1457,Pune,18-24,Returning,3,340.73,11.42,Influencer,1,0,Household,1
+1458,Hyderabad,18-24,Returning,7,388.88,7.57,Meme Marketing,1,1,Private Label,1
+1459,Pune,18-24,Returning,9,394.71,6.21,Uncle Ji,1,0,Household,0
+1460,Bangalore,18-24,New,11,512.34,9.36,Influencer,0,0,Personal Care,0
+1461,Chennai,35-44,Returning,7,283.46,7.07,Meme Marketing,1,0,Personal Care,1
+1462,Chennai,25-34,New,9,349.97,9.66,Meme Marketing,1,1,Private Label,0
+1463,Chennai,25-34,New,5,397.96,5.49,Zepto Pass,0,1,Household,1
+1464,Bangalore,25-34,Returning,7,451.01,10.43,Influencer,0,0,Household,0
+1465,Bangalore,18-24,Returning,7,523.97,9.03,Zepto Pass,0,0,Private Label,1
+1466,Pune,18-24,Returning,4,457.32,5.92,Uncle Ji,1,0,Personal Care,1
+1467,Delhi,25-34,Returning,6,630.25,9.26,Uncle Ji,1,0,Grocery,1
+1468,Pune,45+,Returning,4,301.01,8.94,Festival Offer,1,0,Household,1
+1469,Hyderabad,35-44,New,5,595.4,9.58,Meme Marketing,1,1,Snacks,1
+1470,Mumbai,18-24,New,6,305.54,10,Influencer,1,0,Household,0
+1471,Chennai,35-44,New,3,372.56,5.18,Festival Offer,1,1,Household,1
+1472,Delhi,35-44,Returning,5,466.47,8.09,Meme Marketing,0,1,Household,0
+1473,Mumbai,35-44,New,7,561.34,8.67,Influencer,0,1,Personal Care,0
+1474,Delhi,25-34,Returning,9,372.76,8.36,Zepto Pass,1,1,Snacks,0
+1475,Surat,25-34,Returning,7,467.1,8.27,Uncle Ji,0,0,Household,1
+1476,Surat,25-34,New,6,382.13,10.38,Festival Offer,0,1,Grocery,1
+1477,Jaipur,18-24,Returning,6,144.53,6.2,Festival Offer,0,0,Snacks,0
+1478,Surat,18-24,Returning,7,415.39,8.36,Uncle Ji,0,0,Private Label,1
+1479,Pune,18-24,New,3,271.02,8.48,Zepto Pass,1,1,Grocery,0
+1480,Surat,25-34,Returning,7,572.58,8.64,Referral,1,1,Private Label,1
+1481,Bangalore,35-44,Returning,10,573.41,7.33,Referral,1,0,Household,1
+1482,Chennai,25-34,Returning,6,319.68,12.01,Referral,1,0,Personal Care,1
+1483,Pune,18-24,Returning,8,301.24,10.27,Influencer,1,1,Household,1
+1484,Mumbai,45+,Returning,5,344.52,12.12,Festival Offer,1,0,Household,1
+1485,Jaipur,45+,Returning,5,483.89,9.76,Zepto Pass,0,1,Private Label,0
+1486,Jaipur,35-44,New,9,484.36,9.94,Influencer,1,0,Household,0
+1487,Jaipur,45+,Returning,3,828.97,8.79,Influencer,0,0,Grocery,1
+1488,Mumbai,25-34,Returning,4,382.96,11.14,Zepto Pass,1,0,Personal Care,1
+1489,Mumbai,45+,New,11,430.96,9.65,Influencer,1,1,Private Label,1
+1490,Mumbai,18-24,Returning,6,651.81,8.51,Festival Offer,0,1,Snacks,1
+1491,Mumbai,25-34,Returning,10,454.36,11.57,Zepto Pass,0,1,Household,1
+1492,Jaipur,18-24,Returning,2,289.43,6.85,Referral,0,0,Private Label,1
+1493,Jaipur,18-24,Returning,5,461.04,7.7,Referral,0,1,Household,1
+1494,Delhi,18-24,Returning,3,504.58,13.02,Influencer,1,0,Household,0
+1495,Pune,25-34,Returning,8,379,9.81,Uncle Ji,1,1,Private Label,0
+1496,Chennai,35-44,Returning,7,515.43,4.85,Zepto Pass,1,0,Grocery,1
+1497,Surat,25-34,Returning,6,504.75,10.33,Meme Marketing,1,0,Snacks,0
+1498,Surat,18-24,Returning,7,364.99,7.27,Meme Marketing,0,0,Household,0
+1499,Bangalore,35-44,Returning,7,606.2,7.94,Influencer,0,1,Grocery,1
+1500,Jaipur,25-34,Returning,7,325.97,12.63,Uncle Ji,1,0,Household,0
+1501,Bangalore,25-34,Returning,8,472.48,11.28,Zepto Pass,1,1,Household,1
+1502,Pune,25-34,Returning,7,347.75,11.8,Referral,1,0,Grocery,1
+1503,Pune,18-24,Returning,4,216.85,7.89,Influencer,0,0,Household,1
+1504,Bangalore,25-34,New,12,463,8.36,Zepto Pass,1,0,Snacks,1
+1505,Jaipur,45+,Returning,7,651.52,9.13,Zepto Pass,1,0,Private Label,1
+1506,Bangalore,18-24,Returning,7,413.54,10.1,Zepto Pass,1,1,Grocery,0
+1507,Surat,25-34,New,6,240.79,8.29,Uncle Ji,1,1,Personal Care,1
+1508,Delhi,35-44,Returning,12,446.65,11.62,Zepto Pass,1,1,Household,0
+1509,Surat,35-44,Returning,5,321.76,9.54,Uncle Ji,0,0,Private Label,1
+1510,Hyderabad,18-24,Returning,8,546.46,11.04,Uncle Ji,1,1,Snacks,1
+1511,Jaipur,18-24,New,2,392.56,7.63,Festival Offer,0,0,Snacks,0
+1512,Jaipur,18-24,Returning,12,207.29,8.17,Zepto Pass,1,1,Personal Care,0
+1513,Chennai,25-34,Returning,3,481.02,9.17,Festival Offer,1,0,Snacks,0
+1514,Mumbai,25-34,New,4,445.07,8.11,Referral,1,1,Private Label,0
+1515,Hyderabad,18-24,Returning,4,384.01,10.37,Festival Offer,0,1,Personal Care,0
+1516,Pune,45+,Returning,2,295.34,10.4,Festival Offer,0,0,Grocery,1
+1517,Jaipur,25-34,New,6,634.7,8.44,Zepto Pass,1,0,Personal Care,1
+1518,Bangalore,18-24,Returning,10,365.77,9.79,Referral,0,1,Grocery,0
+1519,Hyderabad,25-34,Returning,4,527.65,11.86,Influencer,1,0,Snacks,1
+1520,Chennai,25-34,New,8,364.41,10.37,Meme Marketing,0,0,Private Label,0
+1521,Pune,18-24,New,6,501.7,9.78,Influencer,1,1,Household,0
+1522,Mumbai,18-24,New,4,426.41,10.74,Uncle Ji,0,1,Personal Care,1
+1523,Mumbai,35-44,New,6,423.36,11.32,Influencer,1,1,Snacks,1
+1524,Chennai,25-34,Returning,9,320.82,11.08,Meme Marketing,1,0,Private Label,1
+1525,Chennai,25-34,Returning,2,483.38,8.69,Meme Marketing,1,0,Household,1
+1526,Bangalore,25-34,New,7,588.61,10.15,Referral,0,0,Personal Care,1
+1527,Jaipur,18-24,New,6,295.87,8.35,Influencer,1,1,Private Label,1
+1528,Mumbai,18-24,New,6,320.13,8.72,Uncle Ji,1,1,Snacks,1
+1529,Pune,25-34,Returning,9,773.35,9.52,Festival Offer,0,1,Personal Care,1
+1530,Hyderabad,18-24,New,4,299.81,6.63,Festival Offer,1,1,Personal Care,0
+1531,Pune,18-24,Returning,3,353.45,9.35,Uncle Ji,1,1,Grocery,1
+1532,Delhi,35-44,Returning,5,586.04,7.76,Referral,0,1,Grocery,0
+1533,Delhi,45+,New,4,589.66,7.02,Festival Offer,1,0,Personal Care,0
+1534,Chennai,35-44,Returning,6,128.63,9.99,Referral,1,1,Private Label,1
+1535,Bangalore,35-44,Returning,11,511.85,8.41,Festival Offer,0,1,Snacks,1
+1536,Delhi,18-24,Returning,10,396.6,9.13,Festival Offer,0,0,Household,0
+1537,Mumbai,45+,Returning,8,402.08,8.45,Influencer,1,0,Grocery,1
+1538,Pune,18-24,New,1,559.81,7.88,Referral,1,0,Snacks,1
+1539,Pune,45+,New,5,378.22,8.98,Meme Marketing,1,1,Personal Care,1
+1540,Chennai,45+,Returning,5,358.57,6.76,Uncle Ji,1,1,Snacks,1
+1541,Jaipur,35-44,New,11,381.42,8.66,Festival Offer,0,0,Snacks,1
+1542,Jaipur,45+,New,7,378.11,11.77,Meme Marketing,0,1,Snacks,1
+1543,Hyderabad,25-34,New,5,461.68,7,Zepto Pass,1,0,Personal Care,0
+1544,Chennai,18-24,New,9,578.8,10.94,Meme Marketing,1,1,Grocery,1
+1545,Surat,25-34,Returning,6,471.31,11.93,Uncle Ji,0,1,Household,0
+1546,Hyderabad,25-34,New,5,418.46,7.62,Zepto Pass,1,1,Private Label,1
+1547,Surat,18-24,Returning,5,485.57,9.29,Influencer,1,0,Grocery,1
+1548,Jaipur,25-34,Returning,2,513.62,6.85,Zepto Pass,1,1,Household,1
+1549,Chennai,45+,Returning,7,489.36,6.63,Referral,0,0,Personal Care,0
+1550,Surat,18-24,New,11,339.92,9.05,Uncle Ji,0,0,Household,1
+1551,Chennai,35-44,Returning,6,470.95,9.41,Referral,1,0,Personal Care,0
+1552,Chennai,45+,New,9,165.65,7.95,Meme Marketing,1,1,Household,1
+1553,Jaipur,45+,Returning,6,604.07,7.1,Influencer,0,1,Grocery,1
+1554,Hyderabad,45+,Returning,11,603.73,7.62,Uncle Ji,1,1,Personal Care,0
+1555,Hyderabad,25-34,Returning,5,526.73,10.14,Influencer,0,1,Snacks,1
+1556,Chennai,45+,Returning,5,569.51,10.15,Festival Offer,0,0,Personal Care,0
+1557,Delhi,35-44,Returning,7,411.1,9.76,Uncle Ji,0,0,Personal Care,1
+1558,Bangalore,18-24,Returning,15,329.94,8.22,Referral,0,0,Household,1
+1559,Jaipur,25-34,Returning,7,269.53,7.19,Meme Marketing,1,0,Personal Care,1
+1560,Bangalore,35-44,Returning,14,540.98,10.77,Zepto Pass,1,1,Household,0
+1561,Bangalore,18-24,New,1,329.93,11.26,Influencer,0,1,Grocery,0
+1562,Hyderabad,25-34,Returning,1,375.15,8.01,Uncle Ji,1,0,Personal Care,1
+1563,Hyderabad,25-34,Returning,9,446.9,8.56,Uncle Ji,1,1,Snacks,1
+1564,Delhi,18-24,Returning,3,415.5,6.6,Festival Offer,0,0,Snacks,1
+1565,Bangalore,25-34,Returning,5,451.77,9.6,Influencer,1,0,Grocery,1
+1566,Bangalore,35-44,Returning,3,203.03,11.91,Zepto Pass,1,0,Snacks,1
+1567,Chennai,25-34,New,7,391.98,10.22,Meme Marketing,1,1,Household,1
+1568,Hyderabad,18-24,Returning,6,518.9,12.12,Uncle Ji,1,1,Personal Care,0
+1569,Bangalore,18-24,New,6,368.18,8.21,Uncle Ji,0,0,Private Label,1
+1570,Pune,25-34,Returning,8,316.54,6.84,Influencer,0,0,Personal Care,0
+1571,Delhi,45+,New,10,534.58,11.06,Influencer,1,0,Personal Care,1
+1572,Surat,18-24,New,5,369.09,9.06,Uncle Ji,1,0,Private Label,1
+1573,Pune,25-34,Returning,9,442.14,7.46,Uncle Ji,0,1,Snacks,1
+1574,Pune,18-24,Returning,9,394.75,11.61,Festival Offer,0,0,Snacks,1
+1575,Surat,25-34,New,7,419.95,7.89,Uncle Ji,1,1,Personal Care,0
+1576,Jaipur,35-44,Returning,5,603.55,7.12,Referral,0,0,Snacks,1
+1577,Jaipur,35-44,New,7,488.63,9.7,Uncle Ji,0,0,Household,1
+1578,Delhi,18-24,New,11,273.39,6.85,Meme Marketing,0,0,Household,0
+1579,Pune,25-34,Returning,4,375.35,10.33,Meme Marketing,1,0,Private Label,1
+1580,Bangalore,18-24,Returning,2,370.49,7.07,Festival Offer,0,1,Personal Care,0
+1581,Hyderabad,25-34,New,10,445.96,9.18,Zepto Pass,1,0,Household,1
+1582,Delhi,25-34,New,1,529.05,9.28,Influencer,0,0,Grocery,0
+1583,Chennai,18-24,New,5,423.82,9.2,Zepto Pass,1,1,Snacks,1
+1584,Surat,18-24,New,8,420.3,6.87,Uncle Ji,1,1,Personal Care,0
+1585,Pune,25-34,Returning,2,152.21,8.51,Influencer,1,1,Household,1
+1586,Delhi,45+,Returning,9,578.89,10.86,Uncle Ji,1,0,Private Label,1
+1587,Mumbai,45+,New,6,399.86,8.5,Influencer,1,0,Household,1
+1588,Mumbai,18-24,Returning,7,451.04,7.07,Festival Offer,0,1,Grocery,1
+1589,Jaipur,35-44,Returning,7,450.75,8.13,Referral,0,1,Household,0
+1590,Surat,25-34,New,9,327.69,6.91,Referral,0,0,Personal Care,1
+1591,Hyderabad,25-34,Returning,11,390.73,5.53,Referral,0,0,Private Label,0
+1592,Bangalore,35-44,Returning,7,326.75,8.54,Festival Offer,1,0,Private Label,1
+1593,Hyderabad,45+,New,7,586,8.95,Zepto Pass,1,0,Grocery,0
+1594,Hyderabad,45+,New,3,153.14,9.85,Influencer,1,1,Personal Care,1
+1595,Hyderabad,25-34,Returning,9,305.6,9.5,Zepto Pass,1,0,Grocery,1
+1596,Surat,25-34,Returning,2,381.35,9.72,Influencer,1,0,Grocery,1
+1597,Hyderabad,35-44,New,6,599.7,8.74,Uncle Ji,0,0,Grocery,0
+1598,Chennai,18-24,New,8,504.94,11.99,Referral,1,0,Household,0
+1599,Surat,25-34,Returning,3,223.44,7.54,Referral,1,0,Snacks,1
+1600,Chennai,25-34,Returning,5,406.14,8.32,Influencer,0,0,Household,1
+1601,Surat,25-34,Returning,5,506.56,11.29,Zepto Pass,1,1,Personal Care,0
+1602,Jaipur,18-24,Returning,3,687.23,8.22,Zepto Pass,1,0,Grocery,1
+1603,Delhi,18-24,New,3,379.23,8.63,Meme Marketing,1,1,Grocery,1
+1604,Mumbai,45+,Returning,7,277.87,9.41,Referral,1,1,Snacks,1
+1605,Hyderabad,18-24,Returning,7,458.68,10.55,Referral,1,0,Private Label,1
+1606,Jaipur,25-34,Returning,7,414.81,9.01,Zepto Pass,0,0,Grocery,1
+1607,Delhi,18-24,New,5,475.6,7.47,Referral,1,0,Household,1
+1608,Mumbai,18-24,Returning,5,502.86,8.18,Zepto Pass,1,1,Grocery,0
+1609,Pune,18-24,Returning,7,458.39,9.61,Meme Marketing,1,1,Personal Care,1
+1610,Bangalore,18-24,Returning,9,483.38,8.36,Influencer,1,0,Snacks,1
+1611,Chennai,35-44,Returning,10,616.28,8.1,Influencer,1,1,Private Label,0
+1612,Pune,18-24,New,12,385.07,7.4,Meme Marketing,0,1,Personal Care,1
+1613,Surat,45+,Returning,7,273.07,10.59,Referral,1,0,Household,0
+1614,Mumbai,25-34,Returning,8,457.68,8.62,Uncle Ji,1,1,Personal Care,1
+1615,Pune,25-34,Returning,10,266.24,8.63,Referral,1,0,Grocery,0
+1616,Bangalore,25-34,Returning,3,285.41,9.82,Zepto Pass,1,1,Snacks,1
+1617,Jaipur,25-34,Returning,4,321.35,6.76,Festival Offer,1,0,Grocery,1
+1618,Mumbai,35-44,Returning,7,269.91,8.86,Uncle Ji,0,1,Snacks,0
+1619,Pune,18-24,Returning,6,560.23,11.06,Meme Marketing,1,0,Household,1
+1620,Chennai,25-34,New,6,425.87,8.7,Influencer,1,1,Personal Care,0
+1621,Chennai,35-44,Returning,5,504.81,9.13,Influencer,1,0,Snacks,1
+1622,Delhi,45+,New,8,481.23,9.1,Referral,0,1,Personal Care,1
+1623,Pune,35-44,Returning,7,394.81,10.39,Influencer,1,0,Snacks,1
+1624,Hyderabad,25-34,Returning,8,535.26,9.1,Referral,1,0,Grocery,1
+1625,Pune,35-44,Returning,6,362.09,12.5,Zepto Pass,1,0,Snacks,0
+1626,Jaipur,25-34,Returning,7,399.84,9.15,Zepto Pass,1,0,Snacks,1
+1627,Mumbai,25-34,Returning,6,335.06,8.15,Meme Marketing,1,1,Private Label,1
+1628,Mumbai,18-24,New,9,588.04,11.07,Festival Offer,0,1,Household,1
+1629,Jaipur,25-34,Returning,4,407.14,8.48,Zepto Pass,1,1,Grocery,1
+1630,Pune,18-24,New,6,491.76,7.9,Referral,0,1,Grocery,1
+1631,Jaipur,25-34,New,9,350.22,7.02,Influencer,0,0,Personal Care,1
+1632,Bangalore,35-44,Returning,5,521.64,9.52,Zepto Pass,0,0,Snacks,1
+1633,Surat,18-24,New,10,512.74,8.11,Zepto Pass,1,1,Snacks,1
+1634,Jaipur,18-24,New,6,224.94,7.63,Referral,0,1,Snacks,1
+1635,Chennai,18-24,Returning,6,420.5,7.95,Zepto Pass,0,1,Grocery,0
+1636,Jaipur,45+,Returning,6,434.03,8.26,Influencer,0,0,Private Label,0
+1637,Mumbai,25-34,Returning,8,384.03,10.05,Festival Offer,1,0,Personal Care,1
+1638,Chennai,25-34,Returning,3,586.17,9.53,Influencer,1,0,Snacks,1
+1639,Mumbai,35-44,Returning,5,273.93,8.58,Festival Offer,1,0,Private Label,0
+1640,Delhi,35-44,Returning,5,366.21,9.64,Influencer,1,1,Household,0
+1641,Hyderabad,25-34,New,4,318.08,8.64,Influencer,0,0,Grocery,1
+1642,Mumbai,25-34,Returning,6,543.59,9.11,Uncle Ji,0,1,Household,0
+1643,Chennai,35-44,Returning,6,296.57,7.8,Influencer,0,1,Grocery,1
+1644,Delhi,25-34,Returning,4,200.09,7.81,Uncle Ji,1,1,Personal Care,0
+1645,Mumbai,18-24,Returning,5,471.77,9.03,Influencer,1,1,Household,1
+1646,Bangalore,35-44,Returning,4,403.3,9.03,Influencer,0,0,Personal Care,1
+1647,Jaipur,25-34,New,6,544.84,10.32,Referral,1,1,Personal Care,1
+1648,Hyderabad,18-24,Returning,9,517.48,9.55,Festival Offer,1,0,Personal Care,1
+1649,Mumbai,25-34,Returning,5,414.9,8.06,Influencer,0,1,Household,0
+1650,Delhi,18-24,Returning,3,246.82,6.88,Zepto Pass,0,0,Household,1
+1651,Bangalore,18-24,New,8,276.23,10.12,Influencer,1,0,Household,1
+1652,Pune,35-44,Returning,5,207.22,9.3,Meme Marketing,0,0,Snacks,0
+1653,Delhi,18-24,Returning,1,403.41,10.25,Referral,0,0,Personal Care,1
+1654,Jaipur,25-34,New,4,340.96,9.49,Referral,0,1,Snacks,1
+1655,Delhi,25-34,New,5,398.31,11.51,Influencer,1,1,Grocery,1
+1656,Bangalore,18-24,Returning,10,440.83,8.48,Meme Marketing,1,0,Household,1
+1657,Delhi,45+,Returning,8,647.8,8.86,Festival Offer,0,0,Private Label,1
+1658,Bangalore,18-24,Returning,3,489.7,9.99,Influencer,0,1,Grocery,1
+1659,Mumbai,25-34,New,5,428.56,10.09,Zepto Pass,0,0,Personal Care,1
+1660,Surat,25-34,Returning,6,232.22,9.29,Referral,0,1,Personal Care,1
+1661,Bangalore,18-24,Returning,9,423.15,6.41,Referral,1,0,Snacks,1
+1662,Bangalore,18-24,New,7,525.82,6.15,Festival Offer,1,1,Household,0
+1663,Hyderabad,35-44,Returning,4,466.9,8.22,Meme Marketing,0,1,Household,1
+1664,Bangalore,45+,New,7,294.26,8.83,Uncle Ji,0,0,Grocery,0
+1665,Bangalore,18-24,New,6,374.83,6,Festival Offer,0,0,Grocery,1
+1666,Pune,25-34,Returning,7,428.8,8.76,Meme Marketing,0,1,Grocery,1
+1667,Surat,35-44,Returning,6,371.03,9.78,Zepto Pass,1,1,Private Label,1
+1668,Mumbai,35-44,New,11,345.95,8.71,Meme Marketing,0,1,Private Label,0
+1669,Jaipur,25-34,Returning,6,162.34,9.24,Festival Offer,0,1,Personal Care,1
+1670,Hyderabad,25-34,New,7,327.82,9.68,Uncle Ji,0,0,Personal Care,1
+1671,Pune,25-34,New,2,450.14,6.4,Zepto Pass,1,0,Personal Care,1
+1672,Chennai,35-44,New,6,525.01,9.78,Zepto Pass,1,0,Household,1
+1673,Surat,35-44,Returning,5,429.14,7.7,Uncle Ji,0,1,Personal Care,1
+1674,Mumbai,18-24,Returning,6,547.13,8.44,Influencer,1,0,Snacks,1
+1675,Mumbai,25-34,Returning,6,410.57,7.81,Meme Marketing,0,1,Grocery,1
+1676,Chennai,45+,Returning,6,314.67,10.41,Festival Offer,1,1,Household,0
+1677,Jaipur,35-44,Returning,10,363.12,7.04,Zepto Pass,1,1,Private Label,0
+1678,Bangalore,45+,New,9,479.88,10.87,Festival Offer,1,0,Grocery,0
+1679,Pune,35-44,Returning,7,387.83,12.39,Meme Marketing,1,0,Personal Care,0
+1680,Delhi,25-34,Returning,13,342.9,6.47,Uncle Ji,1,1,Private Label,1
+1681,Hyderabad,25-34,Returning,6,233.1,7.92,Referral,1,0,Private Label,1
+1682,Delhi,25-34,New,5,312.82,9.72,Uncle Ji,1,1,Private Label,1
+1683,Chennai,18-24,Returning,6,372.35,7.31,Meme Marketing,1,1,Grocery,1
+1684,Mumbai,25-34,New,13,350.24,8.39,Zepto Pass,1,0,Household,0
+1685,Jaipur,35-44,Returning,5,303.05,9.06,Meme Marketing,0,0,Grocery,1
+1686,Mumbai,18-24,Returning,8,606.89,7.73,Referral,0,0,Snacks,1
+1687,Hyderabad,35-44,New,6,492.05,8.92,Zepto Pass,0,1,Personal Care,1
+1688,Mumbai,25-34,Returning,3,683.06,10.22,Referral,1,0,Household,0
+1689,Mumbai,45+,New,3,227.38,8.68,Influencer,1,1,Household,0
+1690,Hyderabad,18-24,Returning,4,457.58,7.24,Festival Offer,0,1,Personal Care,1
+1691,Pune,18-24,Returning,2,367.85,10.55,Uncle Ji,1,0,Snacks,0
+1692,Pune,25-34,New,7,422.36,10.88,Influencer,1,1,Private Label,1
+1693,Hyderabad,18-24,New,10,642.09,9.35,Meme Marketing,0,1,Personal Care,0
+1694,Jaipur,35-44,Returning,9,211.26,7.33,Influencer,0,1,Private Label,1
+1695,Chennai,35-44,New,5,351.27,7.48,Uncle Ji,1,0,Personal Care,1
+1696,Surat,18-24,New,8,330.22,5.25,Zepto Pass,1,0,Grocery,1
+1697,Mumbai,25-34,New,3,351.59,7.91,Festival Offer,0,0,Snacks,0
+1698,Jaipur,25-34,Returning,11,166.72,10.4,Referral,1,0,Snacks,1
+1699,Mumbai,25-34,Returning,6,574.24,7.77,Zepto Pass,1,0,Personal Care,0
+1700,Surat,45+,New,3,579.01,7.37,Festival Offer,1,1,Snacks,0
+1701,Chennai,35-44,New,2,489.83,10.33,Influencer,1,0,Private Label,1
+1702,Pune,25-34,New,6,259.39,10.53,Meme Marketing,1,1,Snacks,1
+1703,Jaipur,35-44,New,10,453.32,8,Influencer,1,1,Snacks,1
+1704,Bangalore,25-34,Returning,7,523.92,9.56,Uncle Ji,0,0,Snacks,1
+1705,Bangalore,45+,Returning,5,466.61,7.5,Uncle Ji,1,0,Household,1
+1706,Surat,25-34,New,10,414.08,8.29,Meme Marketing,1,1,Personal Care,0
+1707,Bangalore,35-44,Returning,5,589.27,6.07,Festival Offer,0,1,Grocery,1
+1708,Pune,35-44,Returning,3,334.9,9.34,Zepto Pass,1,0,Grocery,1
+1709,Surat,18-24,Returning,3,399.74,8.65,Uncle Ji,0,1,Household,1
+1710,Pune,35-44,Returning,4,495.07,7.79,Uncle Ji,0,0,Household,1
+1711,Chennai,18-24,Returning,2,458.14,8.66,Meme Marketing,1,1,Grocery,1
+1712,Mumbai,25-34,New,5,487.2,8.48,Zepto Pass,0,0,Private Label,1
+1713,Chennai,25-34,New,4,484.02,7.56,Influencer,0,0,Grocery,1
+1714,Chennai,45+,New,7,482.98,9.4,Referral,1,0,Grocery,1
+1715,Pune,35-44,New,7,376.22,8.35,Meme Marketing,1,1,Personal Care,0
+1716,Surat,35-44,Returning,7,336.3,8.6,Zepto Pass,1,1,Grocery,1
+1717,Surat,35-44,Returning,9,436.46,6.61,Referral,0,0,Grocery,1
+1718,Bangalore,25-34,Returning,5,601.34,8.61,Meme Marketing,0,0,Snacks,1
+1719,Delhi,45+,Returning,9,417.02,8.53,Influencer,0,0,Household,1
+1720,Mumbai,25-34,Returning,6,491.93,7.56,Influencer,1,0,Grocery,0
+1721,Pune,25-34,Returning,5,433.49,9.6,Zepto Pass,1,0,Grocery,1
+1722,Bangalore,18-24,New,6,664.05,5.64,Zepto Pass,1,0,Private Label,0
+1723,Jaipur,35-44,New,8,403.45,8.08,Influencer,1,0,Grocery,0
+1724,Delhi,35-44,Returning,12,492.34,9.26,Influencer,0,0,Personal Care,0
+1725,Delhi,25-34,New,4,333.73,11.95,Meme Marketing,1,1,Private Label,0
+1726,Pune,18-24,Returning,3,285.55,6.75,Festival Offer,0,1,Grocery,1
+1727,Hyderabad,35-44,New,7,419.17,8.93,Festival Offer,0,1,Personal Care,0
+1728,Mumbai,18-24,Returning,8,561.73,9.62,Zepto Pass,1,1,Household,1
+1729,Delhi,35-44,Returning,6,496.03,8.9,Referral,0,0,Grocery,1
+1730,Pune,45+,New,6,169.63,6.95,Influencer,1,0,Household,1
+1731,Pune,25-34,Returning,4,507.94,8.07,Referral,0,1,Grocery,0
+1732,Bangalore,18-24,New,5,236.24,5.14,Zepto Pass,1,1,Private Label,0
+1733,Jaipur,35-44,Returning,15,520.8,8.81,Zepto Pass,0,0,Private Label,0
+1734,Hyderabad,35-44,Returning,7,485.33,6.68,Uncle Ji,1,0,Personal Care,1
+1735,Mumbai,25-34,Returning,2,402.02,9.48,Influencer,0,1,Snacks,1
+1736,Surat,45+,Returning,3,507.27,7.82,Festival Offer,1,1,Personal Care,1
+1737,Chennai,18-24,New,7,388.3,7.68,Festival Offer,1,1,Grocery,1
+1738,Jaipur,25-34,Returning,4,437.92,9.05,Zepto Pass,1,1,Household,0
+1739,Jaipur,35-44,Returning,5,247.41,9.19,Zepto Pass,1,0,Household,0
+1740,Bangalore,35-44,Returning,6,389.26,10.11,Influencer,1,0,Grocery,1
+1741,Surat,18-24,New,5,530.86,8.41,Uncle Ji,1,1,Snacks,0
+1742,Delhi,35-44,Returning,8,260.26,8.64,Uncle Ji,1,0,Snacks,1
+1743,Delhi,25-34,Returning,9,518.23,6.72,Uncle Ji,0,0,Snacks,1
+1744,Bangalore,25-34,New,9,177.75,10.97,Uncle Ji,1,1,Grocery,1
+1745,Pune,18-24,Returning,5,277.25,7.4,Meme Marketing,1,0,Private Label,1
+1746,Delhi,35-44,New,7,382.23,9.89,Influencer,1,1,Private Label,0
+1747,Hyderabad,18-24,Returning,8,438.43,9.9,Influencer,0,0,Grocery,0
+1748,Mumbai,25-34,Returning,6,351.27,9.4,Influencer,1,1,Private Label,0
+1749,Jaipur,18-24,Returning,4,348,8.44,Festival Offer,0,1,Snacks,0
+1750,Jaipur,35-44,Returning,9,552.86,8.26,Uncle Ji,1,0,Private Label,0
+1751,Hyderabad,25-34,Returning,6,562.64,8.7,Uncle Ji,1,0,Grocery,1
+1752,Surat,35-44,New,10,369.07,5.94,Festival Offer,1,0,Private Label,0
+1753,Delhi,18-24,New,6,372.71,8.76,Festival Offer,1,0,Private Label,1
+1754,Jaipur,25-34,Returning,4,385.55,11.03,Zepto Pass,0,0,Private Label,0
+1755,Chennai,25-34,New,6,686.13,8.46,Meme Marketing,1,0,Private Label,0
+1756,Surat,35-44,New,6,422.04,8.75,Festival Offer,0,1,Grocery,1
+1757,Mumbai,45+,Returning,5,608.52,7.26,Influencer,1,1,Personal Care,1
+1758,Mumbai,18-24,New,4,507.84,9.08,Meme Marketing,1,0,Private Label,1
+1759,Jaipur,25-34,New,5,407.42,7.63,Festival Offer,0,0,Personal Care,1
+1760,Bangalore,18-24,Returning,8,342.31,10.07,Influencer,1,0,Grocery,1
+1761,Surat,25-34,New,9,513.5,10.51,Uncle Ji,1,1,Household,1
+1762,Jaipur,18-24,Returning,8,325.66,10.84,Uncle Ji,0,0,Personal Care,0
+1763,Bangalore,25-34,Returning,11,373.62,6.63,Influencer,1,0,Grocery,1
+1764,Jaipur,25-34,Returning,6,499.06,9.88,Referral,1,0,Household,1
+1765,Chennai,25-34,New,12,391.13,9.77,Uncle Ji,0,1,Private Label,1
+1766,Surat,25-34,Returning,10,372.61,8.18,Zepto Pass,0,1,Grocery,1
+1767,Pune,35-44,Returning,8,383.05,10.59,Festival Offer,1,1,Snacks,1
+1768,Mumbai,25-34,Returning,3,337.6,9.42,Uncle Ji,0,0,Household,1
+1769,Jaipur,18-24,New,9,473.94,10.86,Zepto Pass,0,0,Snacks,0
+1770,Chennai,35-44,Returning,6,424.35,6.9,Meme Marketing,0,0,Private Label,1
+1771,Bangalore,18-24,Returning,9,257.26,7.73,Uncle Ji,1,1,Private Label,1
+1772,Bangalore,25-34,Returning,3,361.5,8.94,Festival Offer,1,0,Personal Care,1
+1773,Mumbai,25-34,Returning,6,375.96,10.56,Uncle Ji,0,0,Private Label,0
+1774,Hyderabad,25-34,Returning,2,375.11,9.48,Festival Offer,1,0,Personal Care,1
+1775,Jaipur,18-24,Returning,11,491.89,7.38,Meme Marketing,1,1,Household,1
+1776,Surat,25-34,New,5,335.74,11.46,Festival Offer,1,0,Snacks,1
+1777,Delhi,45+,Returning,3,744.47,8.36,Zepto Pass,1,0,Household,0
+1778,Bangalore,25-34,New,5,586.27,7.43,Referral,1,1,Snacks,1
+1779,Surat,25-34,Returning,3,585.69,7.64,Festival Offer,0,0,Grocery,1
+1780,Surat,25-34,New,9,295.96,6.8,Festival Offer,0,1,Household,1
+1781,Pune,18-24,Returning,10,176.33,5.43,Zepto Pass,1,0,Grocery,0
+1782,Surat,25-34,New,7,379.31,8.63,Influencer,1,1,Snacks,1
+1783,Surat,35-44,Returning,12,455.22,6.47,Influencer,1,0,Personal Care,1
+1784,Pune,18-24,Returning,5,400.56,9.27,Influencer,0,0,Household,1
+1785,Bangalore,18-24,New,6,356.42,10.28,Festival Offer,1,1,Household,1
+1786,Surat,18-24,New,3,211.08,9.36,Meme Marketing,1,0,Personal Care,1
+1787,Hyderabad,25-34,New,12,339.34,8.87,Zepto Pass,1,1,Personal Care,1
+1788,Hyderabad,45+,Returning,6,390.83,6.49,Festival Offer,1,1,Private Label,1
+1789,Chennai,18-24,Returning,12,360.56,10.07,Uncle Ji,0,1,Private Label,1
+1790,Pune,25-34,Returning,7,359.87,11.72,Festival Offer,1,0,Snacks,0
+1791,Chennai,18-24,New,4,324.21,10.91,Influencer,1,1,Household,1
+1792,Pune,45+,Returning,4,618.58,6.8,Zepto Pass,1,1,Personal Care,0
+1793,Jaipur,18-24,Returning,5,505.01,8.68,Uncle Ji,0,1,Personal Care,0
+1794,Jaipur,25-34,Returning,3,534.72,8.38,Zepto Pass,1,0,Grocery,1
+1795,Surat,35-44,Returning,8,452.73,8.2,Meme Marketing,0,1,Private Label,1
+1796,Delhi,35-44,New,8,259.79,8.84,Influencer,0,0,Grocery,0
+1797,Jaipur,25-34,New,5,508.61,12.05,Referral,0,0,Personal Care,1
+1798,Delhi,25-34,New,10,581.79,8.96,Festival Offer,0,1,Household,1
+1799,Jaipur,25-34,New,7,599.29,8.13,Influencer,1,1,Household,1
+1800,Mumbai,18-24,New,4,494.84,9.25,Influencer,0,0,Grocery,0
+1801,Jaipur,18-24,New,9,420.12,6.83,Meme Marketing,1,1,Private Label,1
+1802,Chennai,25-34,Returning,7,419.77,7.73,Uncle Ji,0,0,Snacks,0
+1803,Bangalore,18-24,Returning,9,482.25,10.28,Influencer,0,0,Household,0
+1804,Surat,18-24,Returning,7,223.08,9.08,Uncle Ji,1,1,Snacks,1
+1805,Chennai,25-34,Returning,2,496.63,11.95,Uncle Ji,0,0,Private Label,1
+1806,Bangalore,45+,Returning,9,361.72,9.2,Meme Marketing,0,1,Grocery,1
+1807,Hyderabad,25-34,New,1,685.14,6.93,Influencer,0,1,Private Label,1
+1808,Chennai,18-24,Returning,7,383.94,6.42,Festival Offer,1,0,Personal Care,0
+1809,Hyderabad,18-24,New,3,443.34,10.3,Meme Marketing,1,1,Private Label,1
+1810,Delhi,45+,Returning,5,437.37,7.24,Meme Marketing,0,0,Grocery,1
+1811,Delhi,18-24,New,4,336.94,7.1,Referral,1,0,Grocery,1
+1812,Mumbai,18-24,Returning,5,474.88,8.03,Festival Offer,1,1,Private Label,1
+1813,Jaipur,25-34,New,4,461.05,10.29,Meme Marketing,1,1,Grocery,0
+1814,Chennai,25-34,New,2,542.74,8.25,Referral,0,0,Personal Care,1
+1815,Hyderabad,25-34,Returning,3,506.45,7.54,Uncle Ji,1,0,Snacks,0
+1816,Bangalore,18-24,New,7,442.46,10.62,Festival Offer,0,0,Private Label,1
+1817,Delhi,18-24,Returning,1,321.75,10.36,Festival Offer,0,0,Grocery,0
+1818,Jaipur,45+,Returning,9,325.23,11.3,Uncle Ji,0,1,Snacks,0
+1819,Delhi,18-24,Returning,5,618.84,10.83,Zepto Pass,1,0,Personal Care,1
+1820,Bangalore,25-34,Returning,4,430.46,10.39,Festival Offer,1,0,Private Label,1
+1821,Jaipur,35-44,Returning,3,669.19,7.67,Zepto Pass,1,1,Grocery,1
+1822,Jaipur,25-34,New,7,321.81,9.79,Uncle Ji,1,0,Snacks,1
+1823,Hyderabad,25-34,Returning,3,683.26,10.62,Influencer,1,0,Personal Care,1
+1824,Hyderabad,18-24,Returning,3,306.78,11.58,Zepto Pass,1,1,Household,0
+1825,Chennai,25-34,Returning,6,367.39,9.06,Meme Marketing,0,0,Grocery,1
+1826,Chennai,35-44,New,8,473.06,8.06,Festival Offer,1,1,Personal Care,1
+1827,Pune,45+,Returning,5,539.7,7.47,Zepto Pass,0,0,Snacks,1
+1828,Surat,18-24,Returning,5,501.37,10.27,Festival Offer,1,0,Private Label,1
+1829,Pune,18-24,Returning,7,190.43,7.8,Uncle Ji,1,0,Snacks,1
+1830,Mumbai,45+,Returning,5,351.31,8.96,Influencer,1,0,Private Label,1
+1831,Delhi,35-44,New,5,282.54,7.48,Uncle Ji,1,0,Personal Care,1
+1832,Chennai,35-44,Returning,3,254.24,8.56,Influencer,0,0,Personal Care,1
+1833,Hyderabad,18-24,Returning,10,418.05,9.46,Festival Offer,1,0,Snacks,1
+1834,Bangalore,25-34,Returning,4,166.61,9.2,Zepto Pass,0,0,Snacks,1
+1835,Hyderabad,35-44,Returning,7,539.99,9.91,Meme Marketing,1,0,Private Label,0
+1836,Delhi,25-34,New,6,509.37,6.74,Meme Marketing,0,1,Grocery,0
+1837,Pune,25-34,Returning,4,614.33,8.63,Uncle Ji,1,1,Snacks,1
+1838,Hyderabad,18-24,Returning,7,292,8.09,Festival Offer,1,1,Grocery,0
+1839,Surat,25-34,Returning,6,303.81,7.33,Influencer,1,1,Grocery,1
+1840,Mumbai,18-24,Returning,3,546.26,7.68,Zepto Pass,1,0,Grocery,1
+1841,Delhi,25-34,New,12,555.34,7.46,Influencer,0,1,Personal Care,1
+1842,Pune,45+,Returning,8,581.84,9.32,Influencer,1,1,Personal Care,1
+1843,Surat,25-34,New,3,558.5,9.4,Influencer,0,0,Grocery,0
+1844,Bangalore,35-44,Returning,8,446.3,10.11,Festival Offer,1,0,Grocery,1
+1845,Pune,18-24,Returning,6,364.79,9.29,Zepto Pass,1,0,Personal Care,1
+1846,Jaipur,25-34,Returning,7,508.2,9.04,Festival Offer,0,0,Private Label,1
+1847,Surat,45+,Returning,5,366.98,8.92,Influencer,1,0,Household,1
+1848,Surat,18-24,Returning,7,432.63,9.81,Festival Offer,1,1,Snacks,0
+1849,Mumbai,18-24,Returning,10,374.19,5.64,Meme Marketing,0,1,Grocery,1
+1850,Delhi,25-34,Returning,4,452,8.71,Uncle Ji,1,0,Personal Care,1
+1851,Bangalore,18-24,New,4,569.05,9.28,Referral,1,1,Grocery,0
+1852,Mumbai,35-44,New,5,378.07,11.48,Influencer,1,0,Grocery,1
+1853,Pune,45+,New,5,359.83,7.13,Meme Marketing,1,1,Grocery,1
+1854,Mumbai,25-34,Returning,5,407.26,7.08,Festival Offer,0,1,Grocery,1
+1855,Surat,18-24,New,14,278.52,5.39,Meme Marketing,0,1,Private Label,1
+1856,Delhi,25-34,Returning,10,499.69,6.71,Uncle Ji,1,1,Snacks,1
+1857,Chennai,35-44,Returning,7,433.98,8.57,Uncle Ji,0,0,Snacks,1
+1858,Mumbai,18-24,Returning,6,415.75,7.71,Referral,0,0,Personal Care,1
+1859,Jaipur,25-34,Returning,2,459.44,7.68,Referral,1,1,Private Label,0
+1860,Mumbai,25-34,Returning,3,243.13,8.83,Referral,1,1,Private Label,1
+1861,Pune,25-34,New,9,588.08,9.67,Zepto Pass,1,1,Snacks,1
+1862,Pune,18-24,Returning,8,357.64,8.82,Zepto Pass,0,1,Personal Care,0
+1863,Bangalore,35-44,Returning,3,375.03,8.84,Meme Marketing,0,1,Private Label,1
+1864,Pune,18-24,New,7,523.8,9.41,Festival Offer,1,1,Personal Care,1
+1865,Hyderabad,18-24,Returning,7,493.35,6.05,Uncle Ji,1,1,Snacks,0
+1866,Delhi,35-44,Returning,4,659.86,8.99,Influencer,1,0,Grocery,1
+1867,Delhi,35-44,Returning,8,304.18,8.69,Uncle Ji,1,0,Private Label,0
+1868,Chennai,18-24,New,10,307.48,8.79,Zepto Pass,1,1,Personal Care,0
+1869,Chennai,18-24,Returning,12,276.5,7.92,Meme Marketing,1,0,Grocery,0
+1870,Delhi,18-24,New,5,436.02,8.49,Influencer,0,1,Snacks,0
+1871,Jaipur,18-24,New,6,387.53,9.4,Referral,1,0,Household,0
+1872,Chennai,18-24,Returning,7,336.56,11.21,Referral,1,0,Private Label,0
+1873,Bangalore,18-24,Returning,6,412.12,6.26,Zepto Pass,0,1,Private Label,0
+1874,Pune,25-34,Returning,6,296.14,9.66,Meme Marketing,1,0,Personal Care,1
+1875,Delhi,35-44,New,4,605.51,10.63,Festival Offer,0,0,Snacks,1
+1876,Surat,25-34,Returning,7,336.09,6.89,Uncle Ji,1,0,Snacks,1
+1877,Chennai,25-34,Returning,3,351.46,8.53,Zepto Pass,0,1,Private Label,0
+1878,Delhi,18-24,New,6,133.57,9.21,Festival Offer,1,1,Private Label,0
+1879,Hyderabad,45+,Returning,5,222.54,11.81,Festival Offer,1,1,Personal Care,0
+1880,Mumbai,35-44,New,4,349.44,12.06,Uncle Ji,0,0,Personal Care,1
+1881,Pune,35-44,Returning,2,383.34,6.89,Influencer,1,1,Household,1
+1882,Delhi,35-44,Returning,6,506.33,8.35,Uncle Ji,0,0,Grocery,1
+1883,Mumbai,45+,New,8,240.53,9.1,Influencer,1,0,Personal Care,0
+1884,Chennai,25-34,New,7,474.26,9.63,Festival Offer,1,0,Grocery,1
+1885,Mumbai,18-24,New,2,494.9,9.1,Meme Marketing,1,0,Private Label,1
+1886,Pune,25-34,New,11,501.23,7.38,Zepto Pass,1,0,Household,1
+1887,Delhi,35-44,Returning,9,544.28,7.31,Uncle Ji,1,0,Household,0
+1888,Hyderabad,35-44,Returning,6,280.57,6.49,Meme Marketing,0,0,Household,0
+1889,Jaipur,25-34,New,7,484.95,5.77,Meme Marketing,0,1,Snacks,1
+1890,Chennai,18-24,New,8,631.82,6.45,Uncle Ji,1,0,Private Label,0
+1891,Delhi,25-34,Returning,7,588.03,10.54,Referral,1,1,Snacks,1
+1892,Pune,45+,Returning,3,647.03,9.87,Festival Offer,1,1,Snacks,0
+1893,Chennai,25-34,New,6,448.92,9.63,Referral,0,0,Household,0
+1894,Bangalore,25-34,New,6,348.98,8.47,Influencer,0,0,Snacks,0
+1895,Mumbai,18-24,Returning,6,120,8.74,Meme Marketing,1,1,Private Label,0
+1896,Jaipur,25-34,New,8,270.87,8.4,Zepto Pass,0,1,Private Label,1
+1897,Pune,35-44,New,7,356.95,6.42,Zepto Pass,1,1,Snacks,0
+1898,Bangalore,25-34,Returning,8,378.59,9.77,Meme Marketing,1,1,Private Label,0
+1899,Surat,35-44,Returning,1,324.99,10.08,Referral,1,0,Grocery,1
+1900,Delhi,25-34,Returning,8,460.75,7.07,Festival Offer,0,0,Snacks,0
+1901,Hyderabad,25-34,Returning,4,443.38,7.07,Meme Marketing,1,1,Household,0
+1902,Chennai,18-24,Returning,7,424.91,9.33,Influencer,0,1,Household,0
+1903,Mumbai,35-44,New,4,514.24,9.31,Meme Marketing,0,1,Private Label,0
+1904,Chennai,25-34,Returning,8,363.64,9.9,Uncle Ji,1,1,Private Label,1
+1905,Jaipur,25-34,New,5,551.52,10.92,Referral,0,0,Household,0
+1906,Delhi,25-34,New,7,275.55,7.21,Uncle Ji,0,1,Grocery,1
+1907,Chennai,45+,Returning,5,383.57,8.68,Uncle Ji,0,1,Household,1
+1908,Mumbai,18-24,Returning,9,458.23,7.3,Meme Marketing,1,0,Snacks,1
+1909,Delhi,35-44,Returning,8,189.76,7.41,Festival Offer,1,0,Household,1
+1910,Chennai,18-24,Returning,3,359.53,8.16,Meme Marketing,1,0,Personal Care,0
+1911,Hyderabad,25-34,New,4,505.41,10.96,Festival Offer,1,1,Grocery,1
+1912,Pune,18-24,New,9,368.72,10.46,Zepto Pass,0,0,Grocery,1
+1913,Delhi,25-34,Returning,4,201.29,8.69,Festival Offer,0,0,Household,1
+1914,Pune,25-34,Returning,1,313.52,5.57,Uncle Ji,0,0,Personal Care,1
+1915,Surat,18-24,Returning,2,258.59,9.39,Meme Marketing,1,0,Snacks,0
+1916,Delhi,25-34,Returning,7,479.54,9.35,Zepto Pass,0,0,Household,0
+1917,Hyderabad,45+,Returning,4,434.07,7.4,Uncle Ji,1,1,Snacks,0
+1918,Pune,18-24,Returning,9,232.62,10.05,Zepto Pass,0,1,Personal Care,1
+1919,Bangalore,35-44,New,11,223.44,7.37,Referral,1,1,Household,1
+1920,Mumbai,25-34,Returning,5,333.02,10.04,Influencer,1,1,Household,1
+1921,Bangalore,25-34,Returning,8,423.75,9.16,Uncle Ji,0,1,Snacks,1
+1922,Chennai,18-24,New,5,339.38,6.61,Meme Marketing,1,1,Household,0
+1923,Hyderabad,18-24,Returning,7,462.03,8.26,Festival Offer,0,0,Personal Care,0
+1924,Bangalore,18-24,New,3,457.87,9.02,Referral,0,0,Household,1
+1925,Delhi,18-24,Returning,5,483.88,9.25,Zepto Pass,0,0,Private Label,1
+1926,Chennai,18-24,New,6,250.4,10.35,Influencer,1,1,Personal Care,1
+1927,Chennai,25-34,Returning,6,386.9,10.54,Festival Offer,0,1,Grocery,1
+1928,Bangalore,35-44,New,5,549.05,8.44,Uncle Ji,0,1,Snacks,1
+1929,Surat,35-44,Returning,10,339.38,9.64,Influencer,1,1,Personal Care,0
+1930,Bangalore,25-34,New,9,322.37,11.21,Referral,0,1,Grocery,0
+1931,Surat,18-24,New,6,361.4,7.27,Influencer,1,1,Grocery,0
+1932,Hyderabad,18-24,Returning,7,358.39,7.89,Uncle Ji,1,0,Personal Care,1
+1933,Mumbai,25-34,Returning,1,434.58,6.32,Referral,0,1,Grocery,0
+1934,Bangalore,18-24,New,3,350.22,7.85,Zepto Pass,0,1,Grocery,0
+1935,Jaipur,25-34,New,3,177.62,9.11,Uncle Ji,1,1,Private Label,1
+1936,Surat,25-34,Returning,14,562.24,5.63,Influencer,0,0,Household,1
+1937,Bangalore,25-34,Returning,4,480.77,9.46,Uncle Ji,0,1,Private Label,0
+1938,Pune,25-34,Returning,6,437.89,8.09,Referral,1,0,Household,0
+1939,Delhi,35-44,New,7,408.7,8.71,Influencer,1,1,Grocery,1
+1940,Jaipur,35-44,Returning,4,381.28,7.05,Zepto Pass,0,1,Household,1
+1941,Jaipur,25-34,New,5,324,8.65,Festival Offer,0,0,Private Label,1
+1942,Surat,45+,New,2,194.69,11.32,Meme Marketing,0,0,Snacks,1
+1943,Pune,45+,Returning,7,615.29,8.2,Zepto Pass,0,1,Snacks,0
+1944,Pune,25-34,Returning,6,422.51,5.48,Uncle Ji,1,1,Household,1
+1945,Chennai,25-34,Returning,6,226.67,10.62,Meme Marketing,0,1,Snacks,1
+1946,Surat,25-34,New,10,296.86,9.61,Festival Offer,1,1,Personal Care,1
+1947,Mumbai,45+,Returning,6,456.54,8.94,Festival Offer,1,1,Snacks,1
+1948,Delhi,35-44,Returning,7,454.14,9.65,Referral,0,0,Household,0
+1949,Hyderabad,18-24,Returning,7,330.3,8.92,Festival Offer,0,1,Grocery,0
+1950,Jaipur,25-34,New,5,290.66,11.26,Influencer,0,1,Private Label,1
+1951,Hyderabad,25-34,New,8,351.33,9.93,Influencer,0,1,Snacks,0
+1952,Bangalore,25-34,Returning,6,188.47,8.12,Referral,1,0,Household,1
+1953,Bangalore,18-24,Returning,8,362.92,11.04,Festival Offer,1,0,Private Label,1
+1954,Hyderabad,35-44,New,5,364.2,11.53,Uncle Ji,0,0,Personal Care,1
+1955,Bangalore,25-34,Returning,6,603.2,10.17,Zepto Pass,1,1,Grocery,0
+1956,Mumbai,35-44,New,5,365.92,9.41,Meme Marketing,1,0,Private Label,1
+1957,Pune,35-44,Returning,7,450.34,7.52,Referral,0,0,Private Label,0
+1958,Bangalore,35-44,New,6,611.79,9.83,Festival Offer,1,0,Household,0
+1959,Chennai,25-34,Returning,2,291.93,9.38,Uncle Ji,1,0,Personal Care,1
+1960,Bangalore,25-34,Returning,4,345.04,8.76,Uncle Ji,0,1,Snacks,0
+1961,Delhi,18-24,New,5,355.27,9.85,Meme Marketing,1,1,Personal Care,1
+1962,Mumbai,25-34,Returning,6,219.05,8.93,Referral,1,1,Grocery,0
+1963,Delhi,18-24,Returning,8,388.62,9.62,Zepto Pass,0,0,Snacks,1
+1964,Delhi,25-34,Returning,9,559.61,10.35,Zepto Pass,1,0,Personal Care,1
+1965,Chennai,18-24,Returning,8,521.47,6.8,Referral,0,1,Grocery,1
+1966,Mumbai,18-24,New,6,561.87,7.26,Influencer,0,0,Private Label,1
+1967,Mumbai,18-24,New,4,343.94,7.43,Festival Offer,1,1,Private Label,0
+1968,Surat,18-24,New,11,284.5,11.71,Zepto Pass,0,0,Private Label,1
+1969,Mumbai,35-44,New,5,690.73,9.75,Influencer,1,0,Private Label,1
+1970,Mumbai,35-44,New,12,445.77,9.89,Referral,0,0,Snacks,1
+1971,Mumbai,25-34,New,8,226.52,10.49,Festival Offer,1,1,Private Label,1
+1972,Chennai,18-24,Returning,4,727.25,7.23,Uncle Ji,1,0,Snacks,1
+1973,Bangalore,18-24,Returning,2,409.2,5.74,Referral,1,1,Snacks,1
+1974,Surat,18-24,New,5,120,8.71,Uncle Ji,0,1,Personal Care,1
+1975,Delhi,18-24,New,8,594.54,10.15,Referral,0,0,Private Label,1
+1976,Mumbai,35-44,Returning,3,142.76,8.5,Influencer,0,0,Household,1
+1977,Jaipur,18-24,New,5,454.61,6.75,Festival Offer,1,1,Private Label,1
+1978,Bangalore,25-34,New,10,521.09,7.44,Influencer,0,0,Household,1
+1979,Bangalore,18-24,New,3,501.77,7.03,Festival Offer,1,1,Private Label,1
+1980,Delhi,18-24,Returning,3,606.73,7.88,Referral,0,1,Snacks,1
+1981,Chennai,25-34,Returning,8,542.06,7.06,Uncle Ji,1,0,Private Label,1
+1982,Hyderabad,25-34,Returning,1,642.8,9.02,Referral,1,0,Private Label,1
+1983,Hyderabad,18-24,Returning,9,408.84,7.98,Uncle Ji,1,0,Private Label,1
+1984,Bangalore,18-24,Returning,7,370.37,9.75,Influencer,1,0,Private Label,0
+1985,Pune,25-34,Returning,2,378.4,7.34,Meme Marketing,1,0,Personal Care,0
+1986,Pune,18-24,Returning,8,584.84,9.18,Zepto Pass,1,1,Personal Care,1
+1987,Delhi,18-24,Returning,6,343.27,8.74,Influencer,1,1,Snacks,1
+1988,Hyderabad,45+,New,7,521.69,9.39,Referral,1,1,Snacks,0
+1989,Bangalore,25-34,New,9,316.81,9.61,Referral,1,1,Household,1
+1990,Chennai,25-34,Returning,8,318.98,9.77,Uncle Ji,1,0,Snacks,0
+1991,Hyderabad,25-34,Returning,9,562.11,10.05,Zepto Pass,1,0,Personal Care,1
+1992,Bangalore,25-34,Returning,5,472.4,9.61,Festival Offer,0,0,Snacks,1
+1993,Bangalore,25-34,Returning,8,160.84,9.25,Influencer,1,0,Household,1
+1994,Mumbai,25-34,Returning,7,317.54,7.8,Zepto Pass,0,0,Household,0
+1995,Chennai,35-44,New,9,120,10.08,Zepto Pass,1,0,Personal Care,0
+1996,Mumbai,18-24,Returning,5,374.94,7.75,Influencer,1,1,Snacks,0
+1997,Delhi,25-34,Returning,7,387.19,8.36,Uncle Ji,1,1,Household,0
+1998,Mumbai,25-34,Returning,3,363.12,7.51,Festival Offer,1,0,Snacks,1
+1999,Jaipur,35-44,Returning,8,564.78,7.48,Uncle Ji,1,1,Snacks,1
+2000,Mumbai,25-34,Returning,5,469.57,8.32,Uncle Ji,0,1,Personal Care,0
+2001,Jaipur,25-34,New,6,715.9,8.45,Meme Marketing,0,0,Personal Care,0
+2002,Hyderabad,18-24,Returning,7,484.09,7.58,Zepto Pass,1,0,Snacks,0
+2003,Pune,25-34,New,5,486.3,8.83,Meme Marketing,1,1,Private Label,1
+2004,Surat,18-24,Returning,9,452.64,9.04,Uncle Ji,1,1,Private Label,0
+2005,Surat,25-34,Returning,6,387.72,7.98,Festival Offer,0,1,Grocery,0
+2006,Bangalore,18-24,Returning,6,342.04,12.23,Influencer,0,0,Grocery,0
+2007,Surat,25-34,Returning,7,391.8,9.3,Zepto Pass,1,0,Grocery,1
+2008,Jaipur,18-24,Returning,6,397.31,8.98,Influencer,1,0,Personal Care,1
+2009,Chennai,25-34,Returning,3,408.69,7.79,Referral,0,1,Snacks,1
+2010,Mumbai,35-44,New,8,496.32,9.01,Zepto Pass,1,0,Household,1
+2011,Jaipur,18-24,Returning,9,456.01,9.16,Influencer,0,0,Snacks,0
+2012,Chennai,25-34,Returning,11,357.97,8.79,Uncle Ji,0,0,Snacks,0
+2013,Pune,25-34,Returning,2,331.42,10.93,Meme Marketing,0,0,Grocery,1
+2014,Surat,18-24,New,3,446.91,6.25,Influencer,1,0,Snacks,1
+2015,Pune,35-44,Returning,6,308.79,8.23,Festival Offer,1,1,Grocery,1
+2016,Surat,18-24,Returning,4,368.77,9.87,Referral,0,0,Snacks,0
+2017,Mumbai,25-34,New,7,356.24,7.46,Uncle Ji,0,0,Household,0
+2018,Delhi,25-34,New,7,711.13,6.48,Referral,1,0,Private Label,1
+2019,Mumbai,25-34,New,4,267.1,8.02,Festival Offer,1,1,Private Label,1
+2020,Hyderabad,25-34,Returning,5,324.88,10.37,Festival Offer,0,0,Personal Care,1
+2021,Jaipur,18-24,Returning,4,353.33,7.49,Meme Marketing,0,0,Household,0
+2022,Bangalore,18-24,Returning,6,365.76,8.27,Referral,0,1,Snacks,1
+2023,Delhi,35-44,New,7,539.98,9.43,Festival Offer,0,0,Household,1
+2024,Mumbai,25-34,Returning,5,389.47,7.93,Influencer,1,0,Snacks,1
+2025,Chennai,35-44,New,4,261.1,8.14,Festival Offer,1,1,Household,1
+2026,Delhi,35-44,Returning,6,591.71,7.82,Festival Offer,1,0,Household,1
+2027,Jaipur,35-44,Returning,10,451.64,7.95,Influencer,1,0,Private Label,0
+2028,Surat,25-34,New,9,470.46,7.06,Uncle Ji,1,1,Household,0
+2029,Delhi,25-34,Returning,5,498.1,8.41,Meme Marketing,1,1,Personal Care,0
+2030,Surat,35-44,New,4,272.16,10.4,Meme Marketing,0,1,Snacks,1
+2031,Jaipur,25-34,Returning,5,419.17,11.17,Zepto Pass,0,0,Grocery,1
+2032,Mumbai,18-24,Returning,6,518.55,10.67,Zepto Pass,1,0,Household,1
+2033,Jaipur,35-44,Returning,5,343.17,9.01,Influencer,0,1,Grocery,0
+2034,Delhi,35-44,New,6,456.8,11.29,Festival Offer,0,0,Private Label,1
+2035,Chennai,25-34,New,4,485.22,12.25,Referral,1,0,Grocery,0
+2036,Pune,18-24,Returning,10,244.81,9.07,Festival Offer,0,1,Personal Care,0
+2037,Delhi,25-34,New,10,296.11,7.31,Festival Offer,1,0,Personal Care,0
+2038,Jaipur,35-44,Returning,9,145.83,10.77,Referral,0,1,Private Label,0
+2039,Pune,45+,Returning,2,447.21,6.99,Uncle Ji,1,0,Personal Care,1
+2040,Jaipur,18-24,New,8,646.2,7.47,Meme Marketing,0,0,Snacks,0
+2041,Chennai,18-24,New,8,336.94,5.68,Influencer,1,1,Personal Care,0
+2042,Jaipur,35-44,Returning,13,396.88,9.89,Referral,0,0,Household,1
+2043,Mumbai,25-34,Returning,3,541.6,5.33,Zepto Pass,1,1,Personal Care,1
+2044,Bangalore,25-34,Returning,4,451.91,10.29,Influencer,1,0,Snacks,0
+2045,Surat,45+,Returning,7,303.16,11.51,Uncle Ji,0,0,Private Label,0
+2046,Surat,18-24,Returning,5,603.16,11.39,Influencer,0,0,Personal Care,0
+2047,Delhi,25-34,New,7,443.68,6.9,Referral,0,0,Snacks,1
+2048,Bangalore,18-24,Returning,6,392.13,6,Uncle Ji,1,1,Household,1
+2049,Jaipur,25-34,Returning,3,402.07,7.84,Festival Offer,1,1,Grocery,1
+2050,Chennai,35-44,New,8,490.9,10.12,Zepto Pass,0,1,Grocery,0
+2051,Delhi,25-34,New,13,346.39,10.61,Zepto Pass,1,1,Private Label,1
+2052,Jaipur,45+,New,9,608.59,9.8,Referral,1,1,Private Label,1
+2053,Pune,25-34,New,8,571.04,9.59,Uncle Ji,0,0,Grocery,0
+2054,Hyderabad,25-34,Returning,7,421.02,12.34,Zepto Pass,1,0,Grocery,1
+2055,Jaipur,18-24,Returning,5,427.39,8.08,Uncle Ji,1,1,Private Label,1
+2056,Bangalore,25-34,New,9,318.47,7.63,Influencer,1,0,Grocery,1
+2057,Delhi,25-34,New,7,343.52,7.02,Meme Marketing,0,0,Personal Care,1
+2058,Bangalore,18-24,Returning,8,283.75,9.45,Meme Marketing,0,1,Snacks,1
+2059,Delhi,25-34,Returning,5,395.51,8.53,Meme Marketing,0,0,Private Label,1
+2060,Jaipur,25-34,Returning,5,427.48,10.04,Zepto Pass,1,0,Snacks,1
+2061,Mumbai,35-44,New,6,229.19,8.12,Referral,1,0,Household,1
+2062,Pune,25-34,Returning,6,502.67,9.74,Meme Marketing,0,1,Household,0
+2063,Jaipur,35-44,Returning,11,315.49,8.22,Festival Offer,0,0,Personal Care,1
+2064,Surat,18-24,New,8,469.42,8.56,Referral,0,0,Household,0
+2065,Bangalore,18-24,New,1,516.87,8.7,Meme Marketing,1,0,Private Label,0
+2066,Hyderabad,25-34,New,5,576.85,6.25,Influencer,0,0,Personal Care,1
+2067,Hyderabad,25-34,New,7,551.65,8.59,Meme Marketing,1,0,Personal Care,1
+2068,Chennai,18-24,Returning,9,618.8,9.64,Referral,1,1,Private Label,1
+2069,Delhi,35-44,Returning,9,517.86,7.32,Zepto Pass,1,0,Grocery,1
+2070,Bangalore,35-44,Returning,4,440.13,11.67,Festival Offer,1,1,Snacks,1
+2071,Chennai,25-34,Returning,11,363.28,8.81,Influencer,0,1,Private Label,1
+2072,Bangalore,18-24,Returning,7,405.67,7.86,Referral,1,0,Grocery,1
+2073,Surat,35-44,Returning,3,615.54,7.81,Uncle Ji,1,0,Grocery,0
+2074,Delhi,25-34,Returning,8,396.26,10.86,Meme Marketing,1,0,Household,1
+2075,Jaipur,35-44,New,8,419.38,7.56,Influencer,0,1,Personal Care,1
+2076,Jaipur,35-44,Returning,4,597.15,9.25,Zepto Pass,0,0,Personal Care,1
+2077,Hyderabad,35-44,Returning,9,392,10.12,Uncle Ji,1,0,Household,1
+2078,Jaipur,25-34,New,6,324.62,9.63,Meme Marketing,1,0,Household,1
+2079,Jaipur,18-24,Returning,9,555.98,7.96,Influencer,1,0,Personal Care,0
+2080,Surat,25-34,Returning,1,320.7,10.06,Festival Offer,1,0,Private Label,0
+2081,Mumbai,25-34,Returning,5,468.46,9.03,Referral,1,1,Private Label,1
+2082,Hyderabad,35-44,Returning,3,447.46,6.22,Meme Marketing,0,0,Private Label,1
+2083,Chennai,18-24,Returning,9,457.89,10.63,Influencer,1,0,Private Label,0
+2084,Pune,18-24,Returning,12,129.63,7.88,Meme Marketing,1,1,Household,1
+2085,Mumbai,35-44,Returning,12,513.66,8.54,Festival Offer,1,1,Snacks,1
+2086,Chennai,35-44,Returning,5,412.86,9.26,Influencer,1,0,Snacks,0
+2087,Delhi,45+,Returning,7,493.95,8,Referral,0,0,Personal Care,1
+2088,Mumbai,35-44,Returning,4,480.1,9.94,Meme Marketing,0,0,Snacks,0
+2089,Surat,25-34,Returning,7,457.91,7.14,Influencer,1,0,Private Label,1
+2090,Chennai,25-34,Returning,5,372.34,7.94,Uncle Ji,0,0,Household,1
+2091,Delhi,35-44,Returning,3,373.66,10.64,Zepto Pass,1,0,Private Label,1
+2092,Hyderabad,25-34,New,4,413.48,8.84,Festival Offer,1,0,Grocery,1
+2093,Pune,25-34,New,6,440.58,7.21,Influencer,0,1,Household,1
+2094,Delhi,18-24,New,8,369.12,8.92,Influencer,1,0,Grocery,1
+2095,Jaipur,25-34,Returning,2,533.15,9.4,Influencer,0,0,Grocery,1
+2096,Bangalore,35-44,New,10,380.66,6.42,Meme Marketing,1,1,Personal Care,1
+2097,Delhi,18-24,New,4,302.42,11.28,Festival Offer,0,1,Grocery,1
+2098,Delhi,18-24,Returning,9,491.43,11.48,Zepto Pass,1,0,Snacks,0
+2099,Pune,25-34,New,7,645.74,8.98,Festival Offer,1,0,Snacks,1
+2100,Bangalore,18-24,Returning,2,279.89,8.5,Meme Marketing,1,1,Grocery,0
+2101,Jaipur,18-24,New,2,404.96,8.83,Influencer,1,0,Personal Care,1
+2102,Chennai,25-34,Returning,6,547.67,10.14,Festival Offer,1,1,Grocery,0
+2103,Chennai,45+,Returning,8,488.38,9.48,Influencer,1,1,Household,0
+2104,Delhi,25-34,Returning,3,494.55,9.16,Zepto Pass,1,0,Household,1
+2105,Surat,18-24,Returning,5,423.66,10.87,Uncle Ji,1,1,Household,1
+2106,Surat,18-24,Returning,3,120,10.5,Meme Marketing,1,1,Household,1
+2107,Bangalore,25-34,New,5,450.94,7.36,Uncle Ji,0,1,Grocery,1
+2108,Bangalore,25-34,New,2,464.82,10.13,Festival Offer,1,0,Private Label,1
+2109,Jaipur,35-44,New,6,555.1,10.53,Influencer,0,1,Private Label,0
+2110,Pune,25-34,Returning,9,329.88,9.22,Influencer,0,1,Household,0
+2111,Hyderabad,35-44,Returning,7,621.94,9.7,Referral,0,1,Personal Care,1
+2112,Chennai,18-24,Returning,5,382.75,8.34,Referral,0,1,Personal Care,0
+2113,Pune,25-34,New,10,362.08,6.99,Uncle Ji,1,0,Grocery,1
+2114,Mumbai,18-24,Returning,3,333.51,11.63,Referral,0,0,Private Label,0
+2115,Chennai,45+,Returning,4,545.56,6.79,Festival Offer,1,0,Grocery,0
+2116,Pune,25-34,Returning,7,288.48,11.32,Zepto Pass,1,0,Snacks,0
+2117,Chennai,25-34,Returning,6,495.83,8.7,Festival Offer,1,0,Household,1
+2118,Hyderabad,18-24,New,4,323.09,10.67,Uncle Ji,1,0,Snacks,0
+2119,Mumbai,18-24,Returning,2,414.7,8.83,Festival Offer,0,0,Snacks,0
+2120,Surat,25-34,Returning,9,237.04,10.21,Referral,1,1,Personal Care,1
+2121,Surat,18-24,New,1,514.25,9.47,Referral,1,1,Private Label,0
+2122,Hyderabad,25-34,New,7,402,7.8,Zepto Pass,0,1,Household,1
+2123,Jaipur,18-24,Returning,5,486.89,9,Festival Offer,0,0,Grocery,1
+2124,Mumbai,25-34,Returning,9,398.53,8.59,Zepto Pass,0,0,Household,0
+2125,Delhi,35-44,Returning,5,483.33,9.76,Uncle Ji,0,0,Grocery,1
+2126,Pune,35-44,New,6,414.47,9.01,Meme Marketing,1,1,Grocery,1
+2127,Mumbai,35-44,Returning,4,508.88,9.23,Festival Offer,0,1,Private Label,1
+2128,Jaipur,18-24,Returning,6,484.05,7.26,Festival Offer,1,0,Snacks,0
+2129,Jaipur,18-24,Returning,2,443.55,6.88,Zepto Pass,1,1,Grocery,0
+2130,Hyderabad,25-34,Returning,4,311.98,8.91,Referral,0,1,Private Label,1
+2131,Chennai,25-34,New,8,367.51,9.07,Uncle Ji,1,1,Snacks,0
+2132,Mumbai,25-34,Returning,8,327.33,7.22,Meme Marketing,0,0,Snacks,1
+2133,Pune,18-24,Returning,6,591.44,9.66,Festival Offer,0,0,Household,1
+2134,Mumbai,18-24,Returning,6,513.64,9.72,Uncle Ji,1,0,Household,0
+2135,Bangalore,18-24,Returning,6,424.53,9.03,Referral,0,0,Household,1
+2136,Chennai,35-44,Returning,7,352.54,8.82,Meme Marketing,0,0,Personal Care,0
+2137,Pune,18-24,Returning,9,325.23,6.9,Meme Marketing,0,0,Snacks,0
+2138,Surat,25-34,Returning,5,434.7,6.87,Zepto Pass,1,0,Personal Care,1
+2139,Pune,18-24,Returning,10,641.19,9.39,Influencer,1,0,Household,0
+2140,Delhi,25-34,Returning,5,420.71,7.56,Referral,1,0,Private Label,1
+2141,Hyderabad,25-34,Returning,4,564.23,7.66,Influencer,1,0,Household,1
+2142,Delhi,35-44,Returning,10,453.08,9.22,Referral,0,0,Grocery,1
+2143,Pune,35-44,Returning,4,487.51,11.86,Uncle Ji,0,0,Private Label,1
+2144,Chennai,25-34,New,6,362.89,8.2,Influencer,0,1,Private Label,0
+2145,Mumbai,45+,Returning,7,396.35,11.88,Festival Offer,1,1,Snacks,1
+2146,Surat,45+,New,8,320.3,8.69,Festival Offer,1,0,Personal Care,1
+2147,Mumbai,35-44,Returning,4,456.55,9.65,Festival Offer,0,0,Grocery,0
+2148,Chennai,35-44,New,6,390.79,10.24,Meme Marketing,0,1,Private Label,0
+2149,Pune,18-24,Returning,2,463.19,10.35,Zepto Pass,0,1,Personal Care,1
+2150,Jaipur,25-34,Returning,9,301.77,9.31,Referral,1,0,Personal Care,0
+2151,Mumbai,18-24,Returning,6,474.69,8.46,Zepto Pass,1,1,Grocery,1
+2152,Jaipur,18-24,Returning,3,440.27,10.04,Referral,0,0,Grocery,1
+2153,Mumbai,45+,New,7,436.42,9.44,Festival Offer,0,1,Household,0
+2154,Mumbai,25-34,Returning,7,466.73,8.15,Meme Marketing,0,1,Household,1
+2155,Surat,35-44,New,6,391.49,10.91,Meme Marketing,1,0,Private Label,1
+2156,Hyderabad,35-44,Returning,7,876.81,9.49,Meme Marketing,1,1,Private Label,0
+2157,Hyderabad,35-44,Returning,5,476.21,7.68,Meme Marketing,0,0,Private Label,1
+2158,Bangalore,45+,Returning,8,432.61,7.5,Meme Marketing,0,0,Household,0
+2159,Delhi,18-24,New,4,509.04,11.74,Festival Offer,0,0,Private Label,1
+2160,Chennai,18-24,New,1,357.45,8.06,Zepto Pass,1,1,Private Label,1
+2161,Chennai,25-34,Returning,6,353.48,9.93,Uncle Ji,1,0,Household,1
+2162,Chennai,18-24,Returning,3,516.04,9.37,Influencer,1,1,Household,0
+2163,Bangalore,18-24,Returning,6,526.7,9.88,Zepto Pass,1,1,Private Label,1
+2164,Hyderabad,25-34,Returning,10,563.01,11.67,Festival Offer,0,0,Private Label,1
+2165,Pune,35-44,Returning,2,248.98,10.3,Influencer,1,0,Personal Care,1
+2166,Jaipur,25-34,New,6,404.83,10.05,Uncle Ji,0,0,Snacks,0
+2167,Surat,25-34,Returning,6,459.56,8.5,Referral,0,1,Household,1
+2168,Jaipur,25-34,Returning,4,506.44,7.8,Uncle Ji,1,1,Snacks,1
+2169,Pune,18-24,New,5,483.19,12.43,Uncle Ji,1,0,Household,1
+2170,Surat,18-24,Returning,5,317.87,8.74,Festival Offer,1,1,Personal Care,0
+2171,Bangalore,35-44,New,7,481.77,8.64,Referral,1,0,Snacks,0
+2172,Pune,25-34,Returning,9,458.55,9.23,Influencer,1,0,Personal Care,0
+2173,Chennai,35-44,New,4,458.22,9.09,Meme Marketing,0,0,Grocery,0
+2174,Delhi,18-24,Returning,5,288.43,11.19,Referral,1,1,Snacks,0
+2175,Mumbai,35-44,New,6,307.86,9.61,Referral,1,1,Snacks,1
+2176,Jaipur,25-34,Returning,2,637.47,6.84,Uncle Ji,1,1,Snacks,1
+2177,Hyderabad,25-34,Returning,8,538.33,7.81,Referral,1,0,Grocery,0
+2178,Hyderabad,25-34,Returning,2,412.44,8.82,Zepto Pass,1,1,Grocery,1
+2179,Bangalore,35-44,Returning,5,414.49,10.34,Meme Marketing,1,0,Personal Care,0
+2180,Surat,25-34,Returning,12,686.74,6.52,Uncle Ji,0,0,Grocery,1
+2181,Hyderabad,25-34,New,7,425.44,9.54,Influencer,1,0,Household,0
+2182,Chennai,45+,New,5,405.99,9.9,Influencer,1,0,Private Label,0
+2183,Jaipur,35-44,New,6,324.79,10.12,Influencer,0,1,Snacks,0
+2184,Pune,25-34,Returning,9,391.96,8.68,Influencer,1,0,Personal Care,1
+2185,Chennai,35-44,Returning,1,218.06,10.37,Influencer,0,1,Personal Care,1
+2186,Bangalore,25-34,Returning,9,482.5,7.58,Uncle Ji,0,0,Personal Care,1
+2187,Chennai,18-24,Returning,7,571.11,10.22,Zepto Pass,1,0,Personal Care,1
+2188,Pune,25-34,New,4,572.45,8.71,Zepto Pass,1,0,Snacks,1
+2189,Delhi,45+,New,3,335.7,8.86,Influencer,0,0,Personal Care,1
+2190,Bangalore,45+,New,9,144.64,8.85,Zepto Pass,1,1,Snacks,1
+2191,Delhi,25-34,Returning,4,460.71,9.78,Meme Marketing,1,0,Personal Care,0
+2192,Mumbai,25-34,New,4,578.24,7.14,Zepto Pass,1,1,Personal Care,0
+2193,Delhi,18-24,New,8,227.5,10.13,Referral,1,0,Private Label,1
+2194,Mumbai,45+,Returning,6,375.17,10.11,Influencer,1,0,Household,1
+2195,Mumbai,45+,Returning,12,462.89,8.35,Referral,1,0,Grocery,0
+2196,Delhi,25-34,New,7,319.07,8.8,Referral,1,1,Grocery,1
+2197,Bangalore,35-44,New,7,212.62,7.51,Influencer,0,0,Grocery,0
+2198,Surat,35-44,New,9,330.75,7.06,Festival Offer,0,1,Household,1
+2199,Pune,25-34,Returning,3,351.71,9.1,Uncle Ji,0,0,Snacks,0
+2200,Chennai,18-24,Returning,5,193.66,9.11,Festival Offer,1,0,Grocery,0
+2201,Chennai,25-34,New,4,548.59,8.29,Zepto Pass,0,1,Grocery,1
+2202,Pune,25-34,New,3,606.47,6.93,Festival Offer,0,0,Grocery,1
+2203,Jaipur,25-34,Returning,10,423.55,9.49,Meme Marketing,1,0,Snacks,1
+2204,Jaipur,25-34,Returning,4,507.54,8.26,Festival Offer,1,1,Household,1
+2205,Mumbai,45+,New,4,242.5,7.68,Festival Offer,1,0,Household,1
+2206,Mumbai,18-24,Returning,11,403.01,10.71,Uncle Ji,0,0,Snacks,1
+2207,Bangalore,25-34,New,6,350.53,7.34,Meme Marketing,0,0,Private Label,0
+2208,Hyderabad,25-34,Returning,6,469.39,9.64,Festival Offer,0,0,Personal Care,0
+2209,Delhi,25-34,Returning,1,120,6.55,Influencer,0,0,Snacks,1
+2210,Mumbai,25-34,Returning,2,383.51,6.65,Zepto Pass,0,0,Personal Care,1
+2211,Chennai,18-24,Returning,2,495.41,9.52,Festival Offer,0,1,Household,1
+2212,Bangalore,18-24,Returning,6,448.58,8.3,Uncle Ji,0,0,Personal Care,0
+2213,Delhi,25-34,Returning,4,513.95,7.05,Influencer,1,1,Grocery,1
+2214,Bangalore,25-34,Returning,6,348.19,10.22,Uncle Ji,0,0,Personal Care,1
+2215,Delhi,18-24,Returning,10,120,9.36,Referral,0,0,Personal Care,1
+2216,Delhi,35-44,Returning,6,551.87,5.61,Festival Offer,1,0,Household,1
+2217,Pune,25-34,Returning,5,511.1,10.24,Zepto Pass,1,1,Private Label,1
+2218,Mumbai,25-34,New,9,608.25,7.2,Zepto Pass,1,1,Personal Care,1
+2219,Surat,35-44,Returning,5,428.91,6.24,Influencer,1,0,Household,0
+2220,Bangalore,18-24,Returning,4,469.95,7.57,Influencer,1,0,Grocery,1
+2221,Surat,18-24,Returning,7,699.51,8.74,Influencer,1,1,Personal Care,0
+2222,Bangalore,35-44,New,8,197.88,8.92,Zepto Pass,1,1,Personal Care,1
+2223,Pune,25-34,Returning,2,473.36,6.35,Festival Offer,1,1,Grocery,0
+2224,Chennai,25-34,Returning,3,566.13,6.68,Referral,0,0,Snacks,1
+2225,Surat,35-44,New,8,445.51,7.66,Zepto Pass,1,1,Private Label,1
+2226,Chennai,35-44,Returning,6,427.96,7.75,Influencer,1,1,Grocery,1
+2227,Jaipur,45+,New,5,241.97,9.94,Meme Marketing,1,0,Grocery,1
+2228,Mumbai,25-34,New,5,596.07,8.18,Festival Offer,1,0,Grocery,0
+2229,Mumbai,25-34,Returning,2,548.27,9.91,Referral,1,0,Snacks,0
+2230,Hyderabad,25-34,Returning,7,573.91,10.44,Zepto Pass,1,0,Grocery,1
+2231,Pune,18-24,Returning,4,417.41,9.63,Meme Marketing,1,1,Snacks,1
+2232,Chennai,25-34,New,12,381.51,4.19,Festival Offer,0,1,Private Label,1
+2233,Delhi,18-24,Returning,7,419.2,8.34,Referral,0,0,Snacks,1
+2234,Bangalore,45+,New,10,623.92,8.55,Zepto Pass,1,0,Private Label,0
+2235,Mumbai,25-34,New,6,388.76,8.72,Festival Offer,1,1,Private Label,0
+2236,Surat,25-34,New,9,597.83,5.68,Festival Offer,0,0,Private Label,0
+2237,Bangalore,25-34,Returning,6,402.35,7.65,Influencer,1,0,Household,1
+2238,Bangalore,18-24,Returning,11,317.13,6.76,Zepto Pass,1,0,Private Label,1
+2239,Hyderabad,18-24,Returning,9,170.73,7.41,Festival Offer,0,0,Snacks,1
+2240,Chennai,25-34,Returning,6,488.9,8.41,Referral,1,0,Household,1
+2241,Mumbai,18-24,New,10,512.17,7.69,Influencer,1,1,Grocery,1
+2242,Bangalore,25-34,Returning,5,281.94,7.52,Festival Offer,1,0,Grocery,1
+2243,Mumbai,35-44,Returning,7,597.22,8.5,Uncle Ji,1,1,Personal Care,0
+2244,Delhi,35-44,Returning,7,254.23,8.06,Meme Marketing,0,1,Private Label,1
+2245,Hyderabad,25-34,New,8,505.01,9.1,Festival Offer,1,1,Personal Care,1
+2246,Delhi,18-24,Returning,2,510.9,8.17,Influencer,1,0,Private Label,1
+2247,Mumbai,35-44,Returning,8,548.78,6.45,Influencer,1,0,Private Label,1
+2248,Jaipur,35-44,Returning,8,183.5,7.25,Referral,0,1,Snacks,1
+2249,Surat,18-24,Returning,6,548.02,8.31,Festival Offer,1,1,Snacks,1
+2250,Mumbai,35-44,New,4,402.62,8.13,Festival Offer,1,0,Grocery,0
+2251,Chennai,18-24,Returning,4,379.16,6.68,Referral,0,0,Household,1
+2252,Bangalore,35-44,New,10,519,9.81,Meme Marketing,1,0,Grocery,1
+2253,Bangalore,45+,Returning,7,535.28,9.27,Referral,0,0,Private Label,1
+2254,Delhi,18-24,Returning,5,181.36,7.9,Influencer,1,0,Household,0
+2255,Surat,35-44,New,6,265.23,8.55,Meme Marketing,1,1,Personal Care,0
+2256,Hyderabad,25-34,Returning,10,563.91,7.19,Meme Marketing,1,0,Private Label,1
+2257,Jaipur,45+,Returning,8,477,10.08,Zepto Pass,1,0,Snacks,1
+2258,Pune,25-34,New,5,441.81,11.9,Influencer,1,1,Grocery,1
+2259,Surat,35-44,Returning,4,301.72,7.83,Influencer,1,0,Grocery,1
+2260,Bangalore,18-24,New,5,472.66,10.64,Referral,0,1,Personal Care,1
+2261,Chennai,25-34,Returning,10,566.27,7.51,Influencer,1,0,Grocery,0
+2262,Surat,18-24,Returning,4,698.15,8,Festival Offer,1,1,Grocery,0
+2263,Delhi,45+,Returning,4,377.5,10.95,Referral,0,0,Household,1
+2264,Delhi,35-44,Returning,4,525.25,8.62,Influencer,0,1,Private Label,0
+2265,Pune,35-44,Returning,6,642.59,9.83,Festival Offer,1,0,Household,1
+2266,Chennai,45+,Returning,9,246.16,8.4,Zepto Pass,0,0,Household,1
+2267,Hyderabad,18-24,New,7,635.9,6.1,Influencer,0,0,Grocery,1
+2268,Surat,25-34,Returning,8,444.08,12.31,Zepto Pass,1,0,Private Label,0
+2269,Chennai,18-24,Returning,9,428.98,8.47,Influencer,1,0,Grocery,0
+2270,Hyderabad,18-24,New,4,354.99,9.03,Influencer,1,1,Grocery,0
+2271,Chennai,18-24,Returning,3,376.33,7.7,Uncle Ji,0,0,Household,1
+2272,Chennai,25-34,Returning,4,330.6,9.97,Festival Offer,1,1,Snacks,0
+2273,Mumbai,18-24,Returning,11,305.64,9.86,Influencer,1,0,Snacks,1
+2274,Delhi,18-24,New,13,473.95,6.46,Zepto Pass,1,1,Household,1
+2275,Surat,18-24,New,4,553.52,9.06,Meme Marketing,0,0,Household,1
+2276,Chennai,18-24,New,7,294.27,10.12,Zepto Pass,1,1,Grocery,1
+2277,Surat,45+,Returning,6,336.58,10.6,Festival Offer,1,0,Private Label,1
+2278,Pune,35-44,New,7,450.76,9.77,Influencer,1,0,Grocery,1
+2279,Chennai,45+,Returning,8,286.26,9.9,Referral,1,0,Grocery,1
+2280,Bangalore,25-34,New,4,449.3,7.99,Uncle Ji,0,1,Personal Care,0
+2281,Delhi,18-24,Returning,10,387.64,6.96,Referral,1,1,Grocery,1
+2282,Bangalore,35-44,Returning,3,223.45,8.33,Uncle Ji,1,1,Private Label,0
+2283,Surat,25-34,Returning,8,476.6,6.92,Uncle Ji,1,0,Grocery,0
+2284,Surat,18-24,New,9,352.68,7.69,Referral,0,1,Household,0
+2285,Delhi,18-24,Returning,4,543.01,7.67,Festival Offer,1,1,Private Label,0
+2286,Surat,18-24,New,9,396.54,7.39,Influencer,1,0,Household,0
+2287,Bangalore,18-24,Returning,5,334.64,9.6,Zepto Pass,1,0,Personal Care,1
+2288,Chennai,25-34,Returning,3,416.01,7.28,Referral,1,1,Personal Care,1
+2289,Chennai,25-34,New,6,569.04,11.55,Meme Marketing,0,0,Private Label,1
+2290,Mumbai,18-24,Returning,4,641.02,10.28,Uncle Ji,1,1,Snacks,0
+2291,Pune,18-24,Returning,5,491.17,10.58,Zepto Pass,1,0,Snacks,0
+2292,Surat,35-44,New,6,349.32,7.77,Meme Marketing,1,1,Private Label,0
+2293,Bangalore,18-24,Returning,7,423.91,9.1,Zepto Pass,0,1,Private Label,1
+2294,Surat,25-34,New,1,408.19,7.24,Influencer,0,1,Household,0
+2295,Surat,35-44,Returning,6,401.97,9.13,Meme Marketing,1,0,Personal Care,1
+2296,Hyderabad,18-24,Returning,7,389.47,6.15,Festival Offer,0,0,Private Label,0
+2297,Mumbai,18-24,New,6,304.15,10.39,Festival Offer,1,1,Grocery,1
+2298,Bangalore,25-34,Returning,10,537.07,7.83,Referral,0,1,Household,1
+2299,Bangalore,25-34,Returning,7,523.29,9.25,Zepto Pass,1,1,Personal Care,0
+2300,Surat,25-34,Returning,10,422.78,9.53,Festival Offer,1,0,Household,1
+2301,Mumbai,35-44,Returning,5,571.05,7.97,Festival Offer,1,0,Personal Care,1
+2302,Chennai,18-24,Returning,15,490.93,7.6,Referral,1,0,Grocery,1
+2303,Bangalore,25-34,Returning,5,286.03,8.62,Referral,0,0,Personal Care,1
+2304,Chennai,25-34,Returning,8,377.47,10,Festival Offer,0,1,Household,0
+2305,Mumbai,18-24,Returning,6,597.64,8.58,Zepto Pass,1,1,Personal Care,1
+2306,Chennai,25-34,Returning,6,376.72,9.7,Zepto Pass,1,0,Household,0
+2307,Delhi,18-24,Returning,10,336.8,9.99,Uncle Ji,1,1,Private Label,1
+2308,Hyderabad,25-34,Returning,10,506.69,8.51,Uncle Ji,0,1,Grocery,0
+2309,Jaipur,18-24,Returning,5,386.37,8.63,Meme Marketing,1,1,Household,0
+2310,Bangalore,25-34,Returning,9,487.29,9.01,Meme Marketing,1,0,Snacks,0
+2311,Pune,25-34,Returning,1,415.67,10.51,Meme Marketing,0,0,Snacks,1
+2312,Hyderabad,35-44,New,7,324.4,8.29,Uncle Ji,1,1,Personal Care,1
+2313,Jaipur,18-24,Returning,8,336.83,10.51,Referral,0,0,Private Label,1
+2314,Chennai,25-34,Returning,7,217.71,9.18,Festival Offer,0,1,Private Label,1
+2315,Bangalore,25-34,New,8,287.38,7.7,Influencer,0,1,Snacks,1
+2316,Chennai,35-44,Returning,10,495.41,8.74,Influencer,0,1,Personal Care,0
+2317,Delhi,25-34,Returning,6,564.69,7.12,Festival Offer,0,1,Private Label,0
+2318,Mumbai,25-34,New,3,346.75,6.78,Zepto Pass,1,1,Private Label,1
+2319,Bangalore,35-44,New,9,255,9.71,Uncle Ji,1,0,Personal Care,1
+2320,Jaipur,35-44,New,4,556.54,10,Zepto Pass,1,0,Household,1
+2321,Jaipur,25-34,Returning,3,560.09,8.75,Influencer,0,0,Snacks,0
+2322,Delhi,25-34,New,4,506.76,8.87,Zepto Pass,1,0,Private Label,0
+2323,Delhi,35-44,New,6,245.89,7.93,Uncle Ji,1,0,Household,1
+2324,Surat,45+,Returning,5,481.81,9.05,Uncle Ji,1,0,Household,1
+2325,Bangalore,35-44,New,10,486.19,11.77,Uncle Ji,0,0,Household,1
+2326,Chennai,25-34,New,8,528.07,10.31,Influencer,1,0,Household,1
+2327,Pune,18-24,New,6,438.12,8.69,Uncle Ji,0,1,Grocery,1
+2328,Jaipur,25-34,Returning,11,329.98,8.56,Meme Marketing,1,1,Grocery,1
+2329,Jaipur,35-44,Returning,8,371.46,8.24,Meme Marketing,0,1,Personal Care,1
+2330,Delhi,25-34,Returning,5,561.25,6.68,Festival Offer,0,0,Snacks,1
+2331,Hyderabad,25-34,Returning,3,465.55,8.08,Uncle Ji,1,0,Personal Care,0
+2332,Delhi,35-44,Returning,7,263.03,9.81,Meme Marketing,1,0,Grocery,1
+2333,Pune,25-34,Returning,4,624.78,7.4,Uncle Ji,1,0,Personal Care,0
+2334,Chennai,35-44,New,4,558.67,8.38,Influencer,0,1,Personal Care,1
+2335,Chennai,25-34,New,1,619.5,7.12,Meme Marketing,1,0,Household,0
+2336,Hyderabad,25-34,Returning,8,556.12,9.98,Influencer,1,0,Private Label,0
+2337,Jaipur,25-34,Returning,10,308.59,6.89,Meme Marketing,1,1,Grocery,1
+2338,Delhi,35-44,New,7,459.6,9.69,Referral,1,1,Grocery,1
+2339,Surat,18-24,Returning,3,492.42,10.34,Referral,1,1,Personal Care,0
+2340,Chennai,18-24,New,10,258.68,8.31,Festival Offer,0,0,Private Label,1
+2341,Pune,45+,Returning,4,279.31,7.77,Festival Offer,0,0,Personal Care,1
+2342,Bangalore,18-24,Returning,10,509.21,9.51,Festival Offer,0,0,Snacks,0
+2343,Mumbai,25-34,New,2,518.72,11.2,Influencer,1,1,Grocery,1
+2344,Mumbai,25-34,Returning,9,704.19,10.81,Meme Marketing,1,1,Household,1
+2345,Mumbai,25-34,New,4,388.75,8.69,Referral,1,0,Household,1
+2346,Surat,25-34,Returning,6,218.05,7.48,Uncle Ji,0,0,Household,1
+2347,Jaipur,18-24,New,9,401.86,8.45,Zepto Pass,1,1,Grocery,0
+2348,Delhi,25-34,Returning,3,521.22,6.27,Referral,0,0,Grocery,0
+2349,Hyderabad,25-34,New,8,376.31,7.97,Referral,1,1,Household,0
+2350,Surat,25-34,Returning,5,432.21,9.48,Uncle Ji,0,1,Grocery,0
+2351,Surat,18-24,Returning,6,342.95,8.25,Referral,1,0,Household,1
+2352,Chennai,25-34,Returning,5,563.17,7.9,Referral,1,0,Snacks,1
+2353,Bangalore,18-24,New,9,509.35,8.72,Referral,0,1,Snacks,0
+2354,Surat,18-24,Returning,12,321.59,8.4,Festival Offer,0,0,Snacks,0
+2355,Pune,18-24,New,7,357.37,9.93,Festival Offer,1,1,Personal Care,1
+2356,Bangalore,18-24,New,2,338.46,6.81,Meme Marketing,0,0,Personal Care,0
+2357,Pune,35-44,Returning,9,196.85,9.59,Festival Offer,1,0,Private Label,1
+2358,Jaipur,18-24,New,5,328.56,8.73,Referral,1,1,Private Label,0
+2359,Delhi,45+,New,9,207.26,9.45,Zepto Pass,0,0,Private Label,0
+2360,Mumbai,45+,Returning,6,532.03,6.72,Festival Offer,1,0,Snacks,0
+2361,Surat,25-34,Returning,7,541.55,10.12,Meme Marketing,1,0,Snacks,0
+2362,Delhi,18-24,Returning,7,384.15,9.61,Meme Marketing,1,1,Snacks,1
+2363,Jaipur,25-34,Returning,7,444.56,11.31,Influencer,1,1,Grocery,0
+2364,Hyderabad,35-44,Returning,3,548.52,7.55,Referral,0,0,Grocery,0
+2365,Hyderabad,25-34,New,5,514.05,7.92,Zepto Pass,1,1,Snacks,1
+2366,Jaipur,18-24,Returning,6,660.56,6.12,Zepto Pass,1,0,Household,1
+2367,Pune,25-34,Returning,11,451.13,7.56,Influencer,1,0,Private Label,1
+2368,Chennai,35-44,Returning,5,594.32,10.95,Zepto Pass,0,1,Personal Care,0
+2369,Chennai,35-44,New,1,431.41,9.24,Meme Marketing,0,1,Private Label,0
+2370,Pune,18-24,Returning,4,405.66,7.71,Uncle Ji,0,0,Household,1
+2371,Hyderabad,25-34,New,6,501.44,9,Meme Marketing,1,0,Grocery,1
+2372,Hyderabad,18-24,New,7,486.26,8.71,Festival Offer,1,0,Snacks,1
+2373,Surat,18-24,New,5,347.05,5.94,Uncle Ji,1,1,Grocery,0
+2374,Hyderabad,35-44,Returning,5,321.12,6.21,Zepto Pass,0,0,Grocery,0
+2375,Delhi,18-24,Returning,3,428.97,10.46,Referral,0,0,Household,1
+2376,Hyderabad,18-24,Returning,3,193.19,9.9,Uncle Ji,0,0,Grocery,1
+2377,Bangalore,18-24,Returning,5,383.1,6.57,Meme Marketing,1,0,Grocery,0
+2378,Surat,35-44,New,9,302.12,8.61,Meme Marketing,1,1,Private Label,1
+2379,Mumbai,35-44,New,8,350.84,7.73,Festival Offer,0,0,Private Label,0
+2380,Hyderabad,25-34,New,5,326.55,10.43,Meme Marketing,1,0,Household,1
+2381,Pune,35-44,Returning,3,512.15,9.47,Festival Offer,0,0,Snacks,1
+2382,Mumbai,18-24,Returning,8,473.6,7.14,Meme Marketing,1,0,Private Label,1
+2383,Delhi,25-34,Returning,8,426.35,8.98,Influencer,1,0,Grocery,1
+2384,Pune,25-34,New,5,373.99,8.74,Zepto Pass,0,0,Personal Care,0
+2385,Mumbai,18-24,New,4,544.16,8.74,Referral,0,0,Private Label,0
+2386,Pune,25-34,New,7,528.08,8.03,Festival Offer,0,1,Personal Care,1
+2387,Delhi,45+,Returning,8,406.66,8.84,Influencer,0,1,Snacks,0
+2388,Surat,18-24,Returning,8,582.57,7.52,Zepto Pass,1,0,Grocery,1
+2389,Bangalore,18-24,Returning,1,397.25,7.02,Festival Offer,1,0,Private Label,1
+2390,Delhi,18-24,Returning,6,444.56,6.93,Uncle Ji,1,0,Snacks,0
+2391,Delhi,18-24,Returning,5,351.09,7.23,Influencer,1,0,Household,1
+2392,Pune,45+,Returning,8,372.81,9.43,Festival Offer,0,1,Snacks,0
+2393,Surat,25-34,New,11,344.76,9.47,Influencer,0,1,Household,0
+2394,Jaipur,25-34,Returning,9,502.51,10.99,Influencer,1,1,Household,1
+2395,Chennai,35-44,Returning,10,465.15,8.46,Influencer,1,0,Private Label,1
+2396,Hyderabad,18-24,New,4,293.67,9.85,Uncle Ji,1,1,Personal Care,0
+2397,Hyderabad,25-34,Returning,3,487.97,8.87,Meme Marketing,1,0,Household,0
+2398,Bangalore,25-34,Returning,5,635.15,9.25,Influencer,1,1,Grocery,1
+2399,Bangalore,25-34,Returning,5,340.79,10.01,Zepto Pass,0,0,Private Label,0
+2400,Hyderabad,45+,Returning,9,333.93,9.67,Meme Marketing,1,0,Household,1
+2401,Chennai,35-44,Returning,7,420.97,8.96,Uncle Ji,1,0,Private Label,1
+2402,Hyderabad,25-34,Returning,4,585.39,7.88,Referral,1,0,Grocery,0
+2403,Jaipur,35-44,New,4,367.4,9.21,Uncle Ji,1,1,Private Label,1
+2404,Chennai,18-24,New,4,641.02,10.85,Referral,0,1,Private Label,0
+2405,Bangalore,18-24,New,11,293.15,9.06,Zepto Pass,0,1,Household,1
+2406,Mumbai,18-24,New,5,442.57,8.21,Referral,1,1,Snacks,0
+2407,Pune,25-34,Returning,5,215.85,10.03,Festival Offer,1,0,Private Label,0
+2408,Jaipur,25-34,Returning,5,307.66,6.72,Influencer,1,0,Household,1
+2409,Jaipur,25-34,New,4,394.39,8.26,Meme Marketing,1,0,Grocery,1
+2410,Surat,45+,Returning,5,452.42,7.33,Festival Offer,1,1,Grocery,1
+2411,Bangalore,25-34,New,5,568.89,8.62,Meme Marketing,0,0,Snacks,0
+2412,Bangalore,25-34,New,6,336.08,10.67,Influencer,0,0,Grocery,1
+2413,Delhi,18-24,New,9,470.48,9.76,Meme Marketing,0,0,Household,1
+2414,Jaipur,18-24,Returning,3,259.31,6,Uncle Ji,0,1,Snacks,1
+2415,Delhi,25-34,New,8,541.18,7.87,Influencer,1,1,Household,0
+2416,Delhi,25-34,Returning,3,577.25,6.55,Influencer,0,0,Snacks,1
+2417,Pune,35-44,Returning,8,544.5,10.39,Meme Marketing,0,1,Snacks,0
+2418,Delhi,18-24,Returning,6,544.33,7.93,Festival Offer,0,0,Household,0
+2419,Chennai,18-24,New,9,409.03,8.91,Referral,0,0,Snacks,1
+2420,Hyderabad,25-34,New,7,453.21,8.99,Zepto Pass,1,1,Household,1
+2421,Mumbai,18-24,New,5,408.36,9.11,Referral,0,0,Grocery,1
+2422,Bangalore,18-24,Returning,2,414.54,4.46,Uncle Ji,1,0,Grocery,1
+2423,Chennai,35-44,New,4,330.76,9.34,Influencer,0,1,Private Label,0
+2424,Mumbai,18-24,Returning,4,453.8,7.98,Influencer,1,1,Personal Care,1
+2425,Jaipur,25-34,Returning,2,470.14,10.07,Uncle Ji,1,1,Personal Care,1
+2426,Jaipur,18-24,Returning,5,538.24,9.1,Zepto Pass,1,0,Grocery,1
+2427,Jaipur,18-24,Returning,8,467.05,9.75,Influencer,1,0,Private Label,1
+2428,Chennai,25-34,New,6,525.73,7.71,Referral,0,0,Personal Care,0
+2429,Chennai,35-44,New,6,330.69,7.11,Uncle Ji,0,1,Household,1
+2430,Bangalore,25-34,New,8,590.81,10.14,Influencer,0,0,Household,1
+2431,Hyderabad,35-44,Returning,10,391.05,9.65,Referral,0,0,Snacks,1
+2432,Surat,18-24,New,6,174.15,9.13,Uncle Ji,0,0,Personal Care,0
+2433,Delhi,35-44,New,6,373.26,9.13,Uncle Ji,0,1,Household,1
+2434,Jaipur,18-24,Returning,4,489.2,9.43,Uncle Ji,1,0,Personal Care,1
+2435,Pune,25-34,New,11,429.86,6.86,Zepto Pass,1,0,Snacks,0
+2436,Hyderabad,25-34,Returning,4,186.96,10.41,Uncle Ji,0,0,Grocery,1
+2437,Pune,45+,Returning,6,445.82,8.57,Festival Offer,0,0,Private Label,0
+2438,Bangalore,25-34,New,3,435.21,8.61,Meme Marketing,1,0,Snacks,1
+2439,Bangalore,18-24,New,9,303.43,8.17,Meme Marketing,1,0,Snacks,1
+2440,Bangalore,18-24,New,3,487.74,5.1,Uncle Ji,0,1,Snacks,1
+2441,Mumbai,35-44,Returning,8,403.94,9.66,Influencer,0,0,Private Label,0
+2442,Pune,25-34,Returning,14,185.87,7.3,Meme Marketing,1,0,Household,1
+2443,Hyderabad,35-44,Returning,5,503.41,8.96,Referral,0,0,Personal Care,1
+2444,Surat,18-24,Returning,5,440.98,7.57,Referral,1,1,Grocery,0
+2445,Hyderabad,25-34,Returning,7,601.63,8.28,Influencer,0,0,Grocery,1
+2446,Chennai,18-24,New,5,316.21,8.2,Referral,0,1,Private Label,1
+2447,Chennai,45+,New,5,392.03,7.53,Festival Offer,1,1,Grocery,1
+2448,Jaipur,25-34,Returning,4,547.92,8.46,Influencer,1,0,Private Label,1
+2449,Surat,45+,New,11,310.13,8.08,Referral,1,0,Private Label,1
+2450,Chennai,18-24,New,5,543.69,7.24,Uncle Ji,0,1,Personal Care,1
+2451,Bangalore,25-34,Returning,10,546.82,10.56,Referral,0,1,Personal Care,1
+2452,Hyderabad,25-34,Returning,9,457.65,7.6,Uncle Ji,1,1,Private Label,1
+2453,Pune,25-34,Returning,8,400.18,9.64,Referral,0,1,Personal Care,1
+2454,Bangalore,35-44,Returning,6,342.33,9.8,Referral,1,0,Household,1
+2455,Mumbai,45+,New,4,333.47,10.19,Referral,1,1,Snacks,1
+2456,Chennai,35-44,Returning,8,457.3,7.98,Uncle Ji,0,0,Grocery,1
+2457,Bangalore,35-44,New,6,120,8.5,Referral,0,0,Grocery,1
+2458,Bangalore,18-24,New,6,353.15,8.55,Referral,1,1,Grocery,1
+2459,Mumbai,18-24,Returning,10,336.6,9.59,Festival Offer,1,0,Grocery,0
+2460,Delhi,45+,New,5,301.43,8.44,Zepto Pass,1,0,Household,1
+2461,Hyderabad,18-24,Returning,5,442.29,9.49,Uncle Ji,0,0,Household,1
+2462,Pune,35-44,New,8,243.63,8.42,Festival Offer,1,0,Snacks,0
+2463,Jaipur,35-44,Returning,4,564.34,10.48,Meme Marketing,0,1,Private Label,1
+2464,Delhi,25-34,Returning,6,529.63,8.78,Influencer,0,0,Personal Care,0
+2465,Chennai,45+,Returning,10,583.15,8.6,Zepto Pass,1,1,Snacks,1
+2466,Bangalore,25-34,Returning,6,356.73,9.31,Festival Offer,1,0,Grocery,1
+2467,Surat,25-34,New,4,444.94,11.25,Festival Offer,0,0,Personal Care,1
+2468,Mumbai,18-24,Returning,11,518.78,7.89,Referral,1,0,Snacks,1
+2469,Mumbai,25-34,Returning,5,404.3,10.36,Meme Marketing,1,0,Grocery,1
+2470,Surat,18-24,New,9,352.01,7.57,Meme Marketing,0,0,Snacks,1
+2471,Hyderabad,25-34,Returning,6,434.36,8.87,Referral,1,1,Grocery,1
+2472,Delhi,35-44,Returning,5,395.4,7.61,Festival Offer,1,0,Grocery,1
+2473,Jaipur,45+,New,10,291.52,8.24,Festival Offer,1,0,Household,1
+2474,Hyderabad,18-24,Returning,2,134.35,7.78,Referral,1,0,Grocery,1
+2475,Surat,25-34,New,7,309.17,9.85,Zepto Pass,1,0,Snacks,0
+2476,Bangalore,45+,Returning,2,136.85,8.05,Uncle Ji,1,0,Personal Care,1
+2477,Surat,18-24,New,3,315.6,9.6,Zepto Pass,0,1,Household,1
+2478,Hyderabad,18-24,Returning,8,590.29,8.01,Uncle Ji,0,0,Personal Care,1
+2479,Pune,18-24,Returning,7,198.18,8.79,Meme Marketing,1,0,Private Label,0
+2480,Mumbai,25-34,Returning,9,473.87,10.99,Influencer,1,1,Personal Care,0
+2481,Mumbai,18-24,Returning,5,566.72,7.68,Referral,0,0,Private Label,0
+2482,Chennai,45+,Returning,7,231.28,7.71,Zepto Pass,0,0,Private Label,1
+2483,Chennai,25-34,Returning,6,635.32,8.43,Meme Marketing,1,1,Household,1
+2484,Surat,25-34,New,7,410.82,8.77,Zepto Pass,0,1,Personal Care,1
+2485,Jaipur,18-24,Returning,8,582.98,9.73,Festival Offer,1,0,Grocery,1
+2486,Bangalore,25-34,Returning,6,452.5,8.86,Uncle Ji,0,1,Household,1
+2487,Pune,25-34,Returning,7,364.72,9.17,Referral,1,0,Household,1
+2488,Delhi,35-44,Returning,9,120,7.07,Festival Offer,0,1,Grocery,1
+2489,Hyderabad,35-44,Returning,7,286.22,9.25,Uncle Ji,1,1,Personal Care,0
+2490,Jaipur,25-34,Returning,3,501.57,9.29,Festival Offer,1,0,Household,1
+2491,Bangalore,45+,Returning,4,604.47,9.81,Uncle Ji,1,0,Private Label,0
+2492,Chennai,35-44,New,9,251.44,8.31,Uncle Ji,0,0,Grocery,1
+2493,Surat,35-44,Returning,8,412.84,8.79,Festival Offer,0,0,Snacks,1
+2494,Hyderabad,18-24,Returning,7,366.48,9.86,Meme Marketing,0,0,Household,1
+2495,Chennai,18-24,Returning,7,470.14,7.21,Referral,1,1,Private Label,1
+2496,Surat,18-24,Returning,8,430.6,6.11,Influencer,1,0,Personal Care,1
+2497,Hyderabad,25-34,New,5,375.4,7.14,Zepto Pass,0,0,Personal Care,1
+2498,Delhi,25-34,Returning,5,496.69,7.84,Uncle Ji,1,1,Grocery,1
+2499,Bangalore,25-34,Returning,3,337.02,10.41,Referral,1,1,Private Label,1
+2500,Hyderabad,35-44,New,3,421.35,11.84,Zepto Pass,1,0,Grocery,1
